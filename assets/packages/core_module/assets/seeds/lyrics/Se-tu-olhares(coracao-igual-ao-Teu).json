@@ -1,0 +1,46 @@
+{
+  "title": "Coração Igual ao Teu",
+  "artist": "Diante do Trono",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "Se-tu-olhares(coracao-igual-ao-Teu)",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Se Tu olhares, Senhor, pra dentro de mim",
+        "1": "Nada encontrarás de bom",
+        "2": "Mas um desejo eu tenho",
+        "3": "De ser transformado",
+        "4": "Preciso tanto do Teu perdão",
+        "5": "Dá-me um novo coração"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Dá-me um coração igual ao Teu, meu Mestre",
+        "1": "Dá-me um coração igual ao Teu",
+        "2": "Coração disposto a obedecer",
+        "3": "Cumprir todo o Teu querer",
+        "4": "Dá-me um coração igual ao Teu"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Ensina-me a amar o meu irmão",
+        "1": "A olhar com Teus olhos",
+        "2": "Perdoar com o Teu perdão",
+        "3": "Enche-me com Teu Espírito",
+        "4": "Endireita os meus caminhos",
+        "5": "Ó Deus, dá-me um novo coração"
+      }
+    }
+  ]
+}

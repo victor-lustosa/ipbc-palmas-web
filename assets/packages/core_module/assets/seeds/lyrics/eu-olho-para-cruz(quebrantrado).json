@@ -1,0 +1,70 @@
+{
+  "title": "Quebrantado",
+  "artist": "Vineyard",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "eu-olho-para-cruz(quebrantrado)",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Eu olho para a cruz",
+        "1": "Para a cruz eu vou",
+        "2": "Do seu sofrer, participar",
+        "3": "Sua obra, vou cantar"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Meu salvador",
+        "1": "Na cruz, mostrou",
+        "2": "O amor do pai",
+        "3": "O justo Deus"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Pela cruz, me chamou",
+        "1": "Gentilmente, me atraiu",
+        "2": "E eu, sem palavras, me aproximo",
+        "3": "Quebrantado por seu amor"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Imerecida vida",
+        "1": "De graça recebi",
+        "2": "Por sua cruz",
+        "3": "Da morte me livrou"
+      }
+    },
+    {
+      "id": 4,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Trouxe-me à vida",
+        "1": "Eu estava condenado",
+        "2": "Mas agora, pela cruz",
+        "3": "Eu fui reconciliado"
+      }
+    },
+    {
+      "id": 5,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Impressionante é o seu amor",
+        "1": "Me redimiu e me mostrou",
+        "2": "O quanto é fiel"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Tu És + Águas Purificadoras",
+  "artist": "Florianópolis House Of Prayer",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "junto-ao-poco-estava-eu(Tu-es-aguas-purificadoras)",
+  "format": "jpeg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Junto ao poço estava eu",
+        "1": "Quando um homem judeu",
+        "2": "Viu a sede que havia em mim",
+        "3": "Sem me ouvir, conheceu",
+        "4": "E me ofereceu uma água que jorra sem fim"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Dá-me de beber, pois tenho sede",
+        "1": "Não quero mais buscar em outras fontes",
+        "2": "Não precisarei aqui voltar",
+        "3": "Pra minha sede saciar",
+        "4": "Uma vez que eu já ouvi Teu falar"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Tu és por quem a minh'alma esperou",
+        "1": "A fonte da vida que me encontrou",
+        "2": "És o dom de Deus, o Messias",
+        "3": "O meu Salvador"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Quero beber do Teu rio, Senhor",
+        "1": "Sacia a minha sede, lava o meu interior",
+        "2": "Eu quero fluir em Tuas águas",
+        "3": "Eu quero beber da Tua fonte",
+        "4": "Fonte de águas vivas"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Ajuntamento",
+  "artist": "Vencedores Por Cristo",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "vem-e-sopra-sobre-nos(ajuntamento)",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Vem e sopra sobre nós Teu sopro",
+        "1": "Reunidos neste ajuntamento",
+        "2": "Honra e santifica este momento",
+        "3": "Com a Tua Igreja que é Teu povo"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Faz Teu rio de paz correr no meio",
+        "1": "Destes que por fé vem bendizer-Te",
+        "2": "E a uma voz oferecer-Te",
+        "3": "Seus louvores súplicas e anseios"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Tu és o Senhor de toda glória",
+        "1": "Hoje e sempre como foste outrora",
+        "2": "No correr da história",
+        "3": "Revelando Teu amor",
+        "4": "Deus bendito Rei e Salvador",
+        "5": "Deus bendito Rei e Salvador"
+      }
+    }
+  ]
+}

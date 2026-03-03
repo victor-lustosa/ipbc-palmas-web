@@ -1,0 +1,1942 @@
+[
+  {
+    "title": "Hino 1 - Doxologia",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 1,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+            "0": "Justo é o Senhor em seus santos caminhos,",
+            "1": "Benigno em todas as suas obras. (bis)",
+            "2": "Perto está o Senhor, (perto está dos que o invocam),",
+            "3": "De todos que o invocam (De todos que o invocam)",
+            "4": "Em verdade. Aleluia! Aleluia!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 2 - Reverência",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 2,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O Senhor está no seu santo templo,",
+          "1": "O Senhor está no seu santo templo!",
+          "2": "Cale-se diante dele toda terra,",
+          "3": "Cale-se diante dele toda terra!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 3 - A Igreja em Adoração",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 3,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eterno Pai teu povo congregado,",
+          "1": "Humilde entoa o teu louvor aqui!",
+          "2": "No dia para o culto reservado,",
+          "3": "Com esperança olhamos para ti."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Teu santo livro ó grande Deus, tomamos",
+          "1": "Com fé singela e reverente amor,",
+          "2": "E, como atentos filhos procuramos",
+          "3": "Ciência na palavra do Senhor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jesus! Aos teus benditos pés sentados",
+          "1": "Queremos teu conselho receber,",
+          "2": "E sendo por ti mesmo doutrinados,",
+          "3": "De mais em mais na santa fé crescer."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Do mundo e seus encargos retirados",
+          "1": "Queremos descansar em ti, Senhor,",
+          "2": "Mirando os ricos bens entesourados",
+          "3": "Na plenitude do teu vasto amor."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ensina aos teus, Espírito divino,",
+          "1": "Dissipa as trevas desses corações",
+          "2": "E com a luz do teu celeste ensino,",
+          "3": "Vem aclarar as santas instruções."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Aviva em nós as forças da memória,",
+          "1": "Pois sempre mais queremos conhecer",
+          "2": "O Rei dos céus, o Cristo cuja a glória",
+          "3": "Enleva os santos anjos de prazer. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 4 - Culto à Trindade",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 4,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Deus está no templo!",
+          "1": "Pai Onipotente!",
+          "2": "A seus pés nos humilhamos.",
+          "3": "Servos consagrados,",
+          "4": "Reverentemente,",
+          "5": "Ao Deus santo adoramos.",
+          "6": "Por favor, com amor,",
+          "7": "Espiritualmente Deus está no templo!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cristo está no templo!",
+          "1": "Sumo benefício",
+          "2": "Por seu sangue nos foi dado.",
+          "3": "Ele, o bom Cordeiro,",
+          "4": "Foi o sacrifício",
+          "5": "Que expiou o vil pecado.",
+          "6": "Escolheu e sofreu",
+          "7": "O cabal suplício; Cristo está no templo!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tu, que estás no templo,",
+          "1": "Preceptor divino,",
+          "2": "E os corações habitas;",
+          "3": "Tu, paciente Mestre,",
+          "4": "Dá-nos teu ensino,",
+          "5": "Aclarando as leis benditas.",
+          "6": "Que prazer conhecer",
+          "7": "A graça infinita! Sim, está no templo!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 5 - Trindade Adorada",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 5,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Glória seja ao Pai,",
+          "1": "Ao Filho e ao Santo Espírito,",
+          "2": "Como era no princípio,",
+          "3": "É hoje e para sempre,",
+          "4": "Eternamente! Amém! Amém!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 6 - Doxologia",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 6,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A Deus, supremo Benfeitor,",
+          "1": "Anjos e homens dêem louvor;",
+          "2": "A Deus o Filho, a Deus o Pai,",
+          "3": "E a Deus Espírito, glória dai. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 7 - Glória à Trindade",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 7,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A ti, meu Criador, Dos altos céus Senhor,",
+          "1": "Eu quero honrar.",
+          "2": "Aceita a adoração Que a voz e o coração",
+          "3": "Te vêm, bondoso Pai, Aqui prestar."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A ti, Emanuel, Por teu amor fiel",
+          "1": "Rendo eu louvor.",
+          "2": "Do céu trouxeste a luz, Por mim sofreste a cruz,",
+          "3": "Bendito sejas, pois, Meu Redentor"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A ti, Consolador, Divino Preceptor,",
+          "1": "Eu louvarei.",
+          "2": "Com teu poder sem par, Oh, vem me iluminar,",
+          "3": "E assim, ao teu fulgor, Eu brilharei. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 8 - Adoração à Trindade",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 8,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Grande Deus, o teu louvor",
+          "1": "Hoje, unidos, entoamos;",
+          "2": "Teu excelso e doce amor",
+          "3": "Com os anjos celebramos.",
+          "4": "E em adoração a ti,",
+          "5": "Vimos bendizer-te aqui."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cristo, Salvador veraz,",
+          "1": "Com poder em nós domina!",
+          "2": "Tua graça e tua paz,",
+          "3": "Ó Senhor, ao mundo ensina.",
+          "4": "Redimido, em tua luz",
+          "5": "Vem fazê-lo andar, Jesus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Santo Espírito eternal,",
+          "1": "Oh, dirige as nossas mentes",
+          "2": "Para, em comunhão real,",
+          "3": "Te buscarmos reverentes;",
+          "4": "E o nosso coração",
+          "5": "Se encherá de gratidão."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó Deus Trino, pois a ti",
+          "1": "Sejam, sem cessar, rendidas",
+          "2": "Pelos filhos teus aqui,",
+          "3": "Honra e glória sem medida.",
+          "4": "Infinito é o teu amor!",
+          "5": "Cantem todos teu louvor! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 9 - Aleluia ao Deus Triúno",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 9,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A ti, ó Deus, Altíssimo Senhor,",
+          "1": "Eterno Pai, supremo Benfeitor,",
+          "2": "Teus filhos vêm, alegres, dar louvor.",
+          "3": "Aleluia! Aleluia!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A ti, Deus Filho, Salvador Jesus,",
+          "1": "Da graça a fonte, da verdade a luz,",
+          "2": "Por teu amor mostrado sobre a cruz,",
+          "3": "Aleluia! Aleluia!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A ti, ó Deus, Espírito de amor,",
+          "1": "De nossas almas santificador.",
+          "2": "Mestre divino, bom Consolador,",
+          "3": "Aleluia! Aleluia!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó Deus Triúno, vem-nos conceder",
+          "1": "A plenitude do real poder,",
+          "2": "E as nossas almas vem, aqui, reger.",
+          "3": "Aleluia! Aleluia! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 10 - A Criação e Seu Criador",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 10,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vós criaturas de Deus Pai,",
+          "1": "Todos erguei a voz, cantai!",
+          "2": "Oh, louvai-o! Aleluia!",
+          "3": "Tu sol dourado a refulgir,",
+          "4": "Tu, lua em prata a reluzir,",
+          "5": "Oh, louvai-o! Oh, louvai-o!",
+          "6": "Aleluia! Aleluia! Aleluia!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, boa terra que nos dás",
+          "1": "Infindas bênçãos, canta já!",
+          "2": "Oh, louvai-o! Aleluia!",
+          "3": "Frutos e flores, juntos dai",
+          "4": "A glória a Deus, Senhor e Pai.",
+          "5": "Oh, louvai-o! Oh, louvai-o!",
+          "6": "Aleluia! Aleluia! Aleluia!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vós, homens sábios e de bem,",
+          "1": "A todos proclamai também!",
+          "2": "Oh, louvai-o! Aleluia!",
+          "3": "Louvor ao Filho, glória ao Pai,",
+          "4": "E ao Santo Espírito louvai!",
+          "5": "Oh, louvai-o! Oh, louvai-o!",
+          "6": "Aleluia! Aleluia! Aleluia!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 11 - Trindade Santíssima",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 11,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Santo! Santo! Santo! Deus Onipotente!",
+          "1": "Louvam nossas vozes teu nome com fervor!",
+          "2": "Santo! Santo! Santo! Justo e compassivo!",
+          "3": "És Deus Triúno, Excelso Criador!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Santo! Santo! Santo! Nós os pecadores,",
+          "1": "Não podemos ver tua glória sem temor.",
+          "2": "Tu somente és Santo! Só tu és perfeito,",
+          "3": "Deus Soberano, imenso em teu amor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Santo! Santo! Santo! Todos os remidos,",
+          "1": "Juntos com os anjos, proclamam teu louvor!",
+          "2": "Antes de formar-se o firmamento e a terra",
+          "3": "Eras, e sempre és, e hás de ser, Senhor!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Santo! Santo! Santo! Deus Onipotente!",
+          "1": "Tuas obras louvam teu nome com fervor.",
+          "2": "Santo! Santo! Santo! Justo e compassivo!",
+          "3": "Deus Soberano, Excelso Criador! Amém"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 12 - Glória a Deus",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 12,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Santo! Santo! Santo! Deus dos Exércitos,",
+          "1": "A terra e os céus Proclamam tua glória.",
+          "2": "Glória a ti, glória a ti, ó Deus, Eternamente. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 13 - Contemplação",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 13,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Se nos cega o sol ardente",
+          "1": "Quando visto em seu fulgor,",
+          "2": "Quem contemplará Aquele",
+          "3": "Que do sol é Criador?"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Patriarcas não puderam",
+          "1": "O seu rosto contemplar,",
+          "2": "Nem Adão chegou a vê-lo",
+          "3": "Antes mesmo de pecar!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Luz perante a qual é trevas",
+          "1": "Mesmo o sol a fulgurar!",
+          "2": "Nossos olhos pecadores",
+          "3": "Não te podem contemplar!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Fogo em cima da arca santa,",
+          "1": "Sarça ardente do Sinai",
+          "2": "São figuras desta glória",
+          "3": "Do Senhor e Eterno Pai."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Para termos nós com ele",
+          "1": "Franca e doce comunhão,",
+          "2": "Cristo, o Filho fez-se carne,",
+          "3": "Fez-se nossa Redenção!"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Para que na glória eterna",
+          "1": "O vejamos já sem véu,",
+          "2": "Cristo padeceu a morte,",
+          "3": "O caminho abrindo ao céu."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 14 - Louvor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 14,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vamos nós louvar a Deus, Vamos! Vamos!",
+          "1": "Ao Senhor de toda a luz, Santo! Santo!",
+          "2": "Cantem louvem lá nos céus",
+          "3": "Nosso Deus e Rei Jesus!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Exaltado seja Deus, Santo! Santo!",
+          "1": "Exaltado seja nosso Deus e Pai!",
+          "2": "Exaltado! Para sempre o exaltai!",
+          "3": "Cantem, louvem lá nos céus",
+          "4": "Nosso Deus e Rei Jesus!",
+          "5": "Exaltado seja Deus,",
+          "6": "Santo! Santo!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nosso Deus, eterno Pai, Santo! Santo!",
+          "1": "Deu-nos bênçãos por Jesus, Vede! Vede!",
+          "2": "Ao Senhor glorificai,",
+          "3": "Vós, os salvos pela cruz,",
+          "4": "Sim, conosco glória dai, Vinde! Vinde!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Exaltemos nosso Deus, Santo! Santo!",
+          "1": "Exaltemos com fervor, Hoje! Hoje!",
+          "2": "Tributemos, todos nós,",
+          "3": "Hinos santos de louvor,",
+          "4": "Sim, louvor em alta voz, Hoje! Hoje!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 15 - Doxologia",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 15,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tua, ó Deus, é toda a grandeza",
+          "1": "E o poder e a glória e a vitória",
+          "2": "E os louvores; vitória e louvores!",
+          "3": "Tua, ó Deus, tua, ó Deus, é a grandeza",
+          "4": "E o poder, a grandeza e o poder",
+          "5": "E a glória e a vitória e os louvores eternos."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pois tudo o que está no mar,",
+          "1": "E está no céu e na terra é teu!",
+          "2": "Teu é o domínio, teu é o domínio,",
+          "3": "Ó Senhor! E Tu és acima de todos os reis,",
+          "4": "De todos os reis. Amém. Amém. Aleluia!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 16 - Louvor a Deus",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 16,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Louvai a Deus, Soberano Senhor do que é feito.",
+          "1": "Louvai-o sim, De vossa alma, tesouro perfeito!",
+          "2": "A Deus cantai E, com fervor, tributai",
+          "3": "Profundo amor e respeito."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Louvai a Deus Que vos faz prosperar dia a dia;",
+          "1": "E, com amor, Vos defende e abençoa a porfia.",
+          "2": "Lembrai também, Que o poderoso vos vem",
+          "3": "Fazer feliz companhia."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 17 - Deus Seja Louvado",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 17,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Desde o passado foste nossa luz,",
+          "1": "Sol que até hoje com fulgor reluz!",
+          "2": "Sê nosso Esteio, Guia e Proteção,",
+          "3": "Tua Palavra, lei e direção."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Da guerra atroz, do crime e assolação,",
+          "1": "Dos tempos maus de um mundo em confusão,",
+          "2": "Seja o teu braço o nosso defensor,",
+          "3": "Pois confiamos sempre em ti Senhor!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Teu povo, ó Deus, assiste me seu labor,",
+          "1": "No testemunho do teu grande amor,",
+          "2": "As nossas vidas vem fortalecer",
+          "3": "Para o teu nome sempre engrandecer. Amém"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Seja louvado o Deus supremo,",
+          "1": "Deus revelado em Israel!",
+          "2": "Onipotente, prodígios obra,",
+          "3": "Sempre clemente, sempre fiel.",
+          "4": "Seja louvado o Deus supremo,",
+          "5": "Deus revelado em Israel",
+          "6": "Louvor perene só Deus merece!",
+          "7": "Cantai, não cesse o seu louvor!",
+          "8": "De todos seja sempre exaltado,",
+          "9": "E cante a Igreja com terno amor."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 18 - Deus dos Antigos",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 18,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Deus dos antigos, cuja forte mão",
+          "1": "Rege e sustém os astros na amplidão!",
+          "2": "Ó Soberano, excelso Criador,",
+          "3": "Com gratidão cantamos teu louvor!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 19 - Rei Sublime",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 19,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó Rei sublime em majestade e glória,",
+          "1": "Sobre as milícias do celeste além,",
+          "2": "Ouve o louvor, os hinos de vitória,",
+          "3": "Dos que de ti recebem todo bem!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Vinde, ó remidos, filhos de Deus!",
+          "1": "Cantai louvores que alcancem os céus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eterno Deus, teus filhos vês prostrados",
+          "1": "Perante o brilho da superna luz,",
+          "2": "Pois do pecado foram resgatados,",
+          "3": "E agora rendem glórias a Jesus!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nos altos céus louvor a Deus ressoam,",
+          "1": "De gratidão ao soberano amor!",
+          "2": "Os redimidos com fervor entoam",
+          "3": "O nome excelso de seu Benfeitor."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 20 - Glorificação à Trindade (Te Deum)",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 20,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A ti, ó Deus louvamos,",
+          "1": "E por nosso Senhor te confessamos!",
+          "2": "A ti, ó Pai da Eternidade, adora toda a terra;",
+          "3": "A ti, o coro angélico, A ti, todo o poder do céu,",
+          "4": "A ti, querubins e serafins proclamam sem cessar;",
+          "5": "“Santo! Santo! Santo! Senhor Deus dos Exércitos!",
+          "6": "Os céus e a terra estão cheios",
+          "7": "Da majestade da sua glória!”"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A ti, o glorioso coro apostólico louva;",
+          "1": "A ti, a congregação dos profetas louva;",
+          "2": "A ti, o nobre exército dos mártires louva;",
+          "3": "A santa Igreja reconhece por toda a terra a ti:",
+          "4": "Ao Deus Pai, infinito Dominador!",
+          "5": "E ao teu venerável, vero e único Filho,",
+          "6": "E ao Santo Espírito, Consolador."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tu és Rei da glória, ó Jesus!",
+          "1": "Tu és o sempiterno Filho de Deus!",
+          "2": "Quando vieste resgatar os homens,",
+          "3": "Não te escusaste a nascer do ventre da virgem!",
+          "4": "Quando venceste a morte e seu aguilhão,",
+          "5": "Logo abriste a teus servos",
+          "6": "As portas do reino dos céus."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Estás sentado à destra de Deus",
+          "1": "No trono Onipotente.",
+          "2": "Cremos que voltarás e aqui serás Juiz.",
+          "3": "Portanto, nós, remidos com teu sangue,",
+          "4": "Suplicamos teu auxílio!",
+          "5": "Nós, que já estamos alistados com teus santos",
+          "6": "Na glória eterna."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Senhor, guarda o povo e abençoa-nos.",
+          "1": "Reina e guarda-nos para sempre.",
+          "2": "Noite de dia te adoramos",
+          "3": "E glorificamos teu nome sem par",
+          "4": "Senhor, concede que hoje",
+          "5": "Nós vençamos o pecado!"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eterno e bondoso Pai, compadece-te de nós!",
+          "1": "Concede-nos a tua misericórdia,",
+          "2": "Pois confiamos e esperamos em ti.",
+          "3": "Senhor! Em ti, em ti eu espero;",
+          "4": "Nunca eu seja, nunca eu seja confundido. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 21 - Deus de Abrão",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 21,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ao Deus de Abrão louvai, do vasto céu Senhor,",
+          "1": "Eterno e poderoso Pai e Deus de amor!",
+          "2": "Augusto Jeová que terra e céu criou,",
+          "3": "Minha alma o NOME exaltará do grande EU-SOU."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ao Deus de Abrão louvai! Eis por mandado seu,",
+          "1": "Minha alma deixa a terra e vai gozar no céu.",
+          "2": "O mundo desprezei, seu lucro e seu louvor,",
+          "3": "E Deus por meu quinhão tomei e protetor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Meu Guia Deus será! Seu infinito amor",
+          "1": "Feliz em tudo me fará por onde eu for.",
+          "2": "Tomou-me pela mão, na trevas deu-me luz,",
+          "3": "E dá-me eterna salvação por meu Jesus."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Meu Deus por si jurou, eu nele confiei!",
+          "1": "E para o céu que preparou eu subirei.",
+          "2": "Sua face eu hei de ver, confiado em seu amor,",
+          "3": "E para sempre engrandecer meu Redentor."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 22 - Os Céus Proclamam",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 22,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Altamente os céus proclamam",
+          "1": "Seu divino Criador!",
+          "2": "Anunciam o firmamento",
+          "3": "Tua obras ó Senhor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Incessantes, noite e dia,",
+          "1": "Dão sinais do teu poder,",
+          "2": "Sem palavras, proclamando",
+          "3": "Deus excelso no saber!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Majestoso o sol caminha",
+          "1": "Pelos céus, com resplendor!",
+          "2": "Exultando, em seu percurso,",
+          "3": "Enche o mundo de calor."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Todo o vasto universo",
+          "1": "Canta, em coro, teu louvor!",
+          "2": "E a nós vem doce ensino",
+          "3": "Da Palavra do Senhor."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tua Lei, quão preciosa!",
+          "1": "Brilha mais que a clara luz;",
+          "2": "Esclarece as nossas mentes,",
+          "3": "Guia as almas a Jesus,",
+          "4": "Em tua graça meditando,",
+          "5": "Cantarei, ó bom Senhor,",
+          "6": "E será na minha boca",
+          "7": "Agradável o teu louvor. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 23 - Adoração ao Criador",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 23,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh! Vinde adorar ao Deus criador,",
+          "1": "Da terra e dos céus eterno Senhor,",
+          "2": "Ao Deus que, habitando no meio da luz,",
+          "3": "A nós se revela por Cristo Jesus."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Seu grande poder deveis contemplar",
+          "1": "No céu estrelado, no amplo mar.",
+          "2": "A gota de orvalho, a mínima flor,",
+          "3": "Proclamam, constantes, ser Deus seu Autor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh! Vinde adorar ao Deus Salvador,",
+          "1": "Que em Cristo Jesus nos mostra favor.",
+          "2": "Ao Deus que, benigno, com graça e perdão,",
+          "3": "Pecados cobrindo nos dá redenção."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 24 - Convite ao Louvor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 24,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vinde irmãos louvar a Deus,",
+          "1": "Criador da terra e céus",
+          "2": "Exaltemos o Senhor!",
+          "3": "Infinito é seu amor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Glória em honra ao grande Rei;",
+          "1": "Alta santa é sua lei.",
+          "2": "Age com poder real,",
+          "3": "Com grandeza divinal."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dia e noite a sua mão",
+          "1": "Desenvolve o tenro grão.",
+          "2": "Com os dons do seu poder",
+          "3": "Nossas vidas faz crescer."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 25 - O Criador de Tudo",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 25,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Deus, do infinito o Criador,",
+          "1": "Que deste aos astros seu fulgor,",
+          "2": "Tuas obras te proclamam!",
+          "3": "Ao explorarmos a amplidão,",
+          "4": "Obra sem par da tua mão,",
+          "5": "Extasiados te louvamos!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Aleluia! Aleluia! Aleluia!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ergue-se o homem para o céu,",
+          "1": "Deixa o planeta em que nasceu;",
+          "2": "Oh, conquista sem limites!",
+          "3": "Como havemos de entender",
+          "4": "Que Deus quisesse aqui viver?",
+          "5": "Deus eterno, entre os homens!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Hoje há problemas entre nós",
+          "1": "Por não ouvirmos tua voz.",
+          "2": "Pai, perdoa as nossas faltas!",
+          "3": "Que nossas vidas em Jesus",
+          "4": "Busquem guarida, paz e luz,",
+          "5": "E teu nome celebremos;"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "No grande plano divinal,",
+          "1": "Dessa harmonia universal",
+          "2": "Deus com grande amor salvou-nos!",
+          "3": "Ele nos deixa conhecer",
+          "4": "Toda extensão de seu poder",
+          "5": "Revelado no universo!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 26 - Ao Deus Grandioso",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 26,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Senhor meu Deus, quando eu maravilhado",
+          "1": "Os grandes feitos vejo de tua mão,",
+          "2": "Estrelas, mundos e trovões rolando,",
+          "3": "A proclamar teu nome na amplidão."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Canta minh’alma, então, a ti Senhor:",
+          "1": "Grandioso és Tu, grandioso és Tu!",
+          "2": "Canta minh’alma, então, a ti Senhor:",
+          "3": "Grandioso és Tu, grandioso és Tu!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quando atravesso bosques e florestas,",
+          "1": "Ouvindo, à brisa, pássaros cantar,",
+          "2": "Ou vejo, além, montanhas altaneiras",
+          "3": "O teu poder em, glória proclamar,"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quando percebo que na cruz maldita,",
+          "1": "Por teu amor Jesus morreu por mim,",
+          "2": "E me livrou do jugo do pecado,",
+          "3": "Ali vertendo sangue carmesim,"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quando afinal em resplendor e glória,",
+          "1": "Jesus abrir as portas da mansão,",
+          "2": "Eu hei de estar de joelhos entre os santos,",
+          "3": "Na mais humilde e vera adoração,"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "E então cantar eternamente ali:",
+          "1": "Grandioso és Tu, grandioso és Tu!",
+          "2": "E então cantar eternamente ali:",
+          "3": "Grandioso és Tu, grandioso és Tu!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 27 - Um Hino ao Senhor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 27,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "As grutas, as rochas imensas,",
+          "1": "Dos mundos o grande esplendor,",
+          "2": "Proclamam bem alto, constantes",
+          "3": "Um hino ao teu nome, Senhor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nos céus e no mar e na terra,",
+          "1": "Nos bosques, nos prados em flor,",
+          "2": "No fragoso alcantil, na amplitude celeste,",
+          "3": "Um hino ressoa ao Senhor!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nos céus, as estrelas brilhantes,",
+          "1": "Dos mares o grande fragor,",
+          "2": "E as brisas entoam, ridentes,",
+          "3": "Um hino ao teu nome, Senhor!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "As aves alegres, na mata,",
+          "1": "Por entre as ramagens em flor,",
+          "2": "Exultam em coro, cantando",
+          "3": "Um hino ao teu nome, Senhor!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "E tu, pecador que vagueias,",
+          "1": "Que fazes ao teu Criador?",
+          "2": "Não achas momento em que cantes",
+          "3": "Um hino de glória ao Senhor!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 28 - Coroação",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 28,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tuas obras te coroam",
+          "1": "Como um halo de esplendor!",
+          "2": "Astros, anjos, céus entoam",
+          "3": "Hino eterno a ti Senhor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Campos, matas, vales, montes,",
+          "1": "Verde outeiro e verde mar,",
+          "2": "Aves e sonoras fontes",
+          "3": "Formam coro singular!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nós, mortais, por ti remidos,",
+          "1": "Deus de glória, Deus de amor,",
+          "2": "Corações aos céus erguidos,",
+          "3": "Celebramos teu louvor!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Revelaste amor profundo,",
+          "1": "Insondável, sem igual,",
+          "2": "Enviando Cristo ao mundo",
+          "3": "A vencer por nós o mal!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Fonte és de alegria e vida,",
+          "1": "És do bem o Inspirador;",
+          "2": "Tua graça nos convida",
+          "3": "A viver em mútuo amor"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quais alegres peregrinos,",
+          "1": "Sempre em marcha triunfal,",
+          "2": "Cantaremos gratos hinos",
+          "3": "Na jornada até o final!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 29 - Louvor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 29,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó minha alma, a Deus bendize",
+          "1": "Em humilde adoração,",
+          "2": "Nada há mais que te escravize",
+          "3": "No pecado e escuridão!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Oh, louvai-o! Oh, louvai-o!",
+          "1": "Ele é o Rei da criação!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pelo seu favor e graça",
+          "1": "Que outorgou a nossos pais,",
+          "2": "E por tudo que ele faça,",
+          "3": "Bendizei-o mais e mais!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Se estivermos em perigo,",
+          "1": "Nosso Deus nos guardará;",
+          "2": "Ele as trevas e o inimigo",
+          "3": "Para sempre abaterá!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Anjos e homens, reverentes,",
+          "1": "Adorai-o com fervor;",
+          "2": "Lua, estrela, sol luzente,",
+          "3": "Que ao espaço dais fulgor,",
+          "4": "Oh, louvai-o! Oh louvai-o!",
+          "5": "Pois é Deus de excelso amor!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 30 - Providência de Deus (Na Criação)",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 30,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó Deus, ó Providência! Com teu real poder",
+          "1": "Trouxeste à existência o mundo, todo ser!",
+          "2": "E a tudo que criaste, com benfazeja mão,",
+          "3": "As bênçãos não negaste da tua proteção."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Eterno Deus, ó Deus sem par,",
+          "1": "A criação, com gratidão",
+          "2": "Te vem louvar!",
+          "3": "Nos céus teu nome aclamam",
+          "4": "Os astros, que são teus;",
+          "5": "A terra e o mar proclamam:",
+          "6": "“És o nosso Deus!”"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ao sol resplandecente e à vastidão do mar",
+          "1": "Traçaste, ó Deus potente, as leis que irão guardar.",
+          "2": "E a tenra e pequenina florzinha em botão,",
+          "3": "A tua mão divina conserva em proteção."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dos campos, a verdura, dos frutos, o sabor,",
+          "1": "Celebram a ternura do teu constante amor!",
+          "2": "E a natureza inteira, por toda a Criação,",
+          "3": "Proclama, alvissareira, a tua proteção. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 31 - Providência de Deus (Na Redenção)",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 31,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó Deus, ó Providência! Sem ti não há viver!",
+          "1": "Vem dar-nos a assistência do teu real poder!",
+          "2": "Tão só em ti confiamos e em tua proteção,",
+          "3": "Pois só em ti achamos conforto e redenção."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "És nosso Pai, ó Deus de amor!",
+          "1": "Teus filhos vêm aqui, também,",
+          "2": "Cantar louvor!",
+          "3": "Ao mundo renunciamos,",
+          "4": "Agora somos teus;",
+          "5": "E alegres proclamamos:",
+          "6": "“És o nosso Deus!”"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ao homem Tu criaste, de ti vivo exemplar;",
+          "1": "Na terra o colocaste a fim de te louvar.",
+          "2": "Caído embora esteja, estendes tua mão,",
+          "3": "Na graça benfazeja de tua Redenção."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Em Cristo, o Filho amado, a tua graça vem",
+          "1": "Cobrir-nos o pecado e dar-nos todo o bem,",
+          "2": "Reais munificências gozamos nós, então,",
+          "3": "Nas terna providências de tua Redenção. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 32 - O Deus Fiel",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 32,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tu és fiel, Senhor, meu Pai celeste,",
+          "1": "Teus filhos sabem que não falharás!",
+          "2": "Nunca mudaste, Tu nunca faltaste,",
+          "3": "Tal como eras Tu sempre serás."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Tu és fiel Senhor! Tu és fiel Senhor!",
+          "1": "Dia após dia, com bênçãos sem fim,",
+          "2": "Tua mercê nos sustenta e nos guarda;",
+          "3": "Tu és fiel, Senhor, fiel assim."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Flores e frutos, montanhas e mares,",
+          "1": "Sol, luz, estrelas brilhando no céu,",
+          "2": "Tudo criaste na terra e nos ares,",
+          "3": "Para louvar-te, Senhor, que és fiel."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pleno perdão tu dás! Que segurança!",
+          "1": "Cada momento me guias, Senhor,",
+          "2": "E no porvir, ó! Que doce esperança",
+          "3": "Desfrutarei do teu rico favor."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 33 - Maravilhas Divinas",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 33,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ao Deus de amor e de imensa bondade,",
+          "1": "Com voz de júbilo, vinde aclamai!",
+          "2": "Com coração transbordante de graças,",
+          "3": "Seu grande amor, todos, vinde louvai."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "No céu, na terra, que maravilhas",
+          "1": "Vai operando o poder do Senhor!",
+          "2": "Mas seu amor, aos homens perdidos,",
+          "3": "Das maravilhas é sempre a maior."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Já nossos pais nos contaram a história",
+          "1": "De Deus, falando com muito prazer,",
+          "2": "Que nas tristezas, nos grandes perigos,",
+          "3": "Ele os salvou por seu grande poder."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Hoje também, nós bem alto, cantamos",
+          "1": "Que as orações ele nos atendeu:",
+          "2": "Seu forte braço, que é tão compassivo",
+          "3": "Em nosso auxílio ele sempre estendeu."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Como até hoje, e daqui para frente,",
+          "1": "Ele será nosso eterno poder,",
+          "2": "Nosso castelo bem forte e seguro,",
+          "3": "E nossa Fonte de excelso prazer."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 34 - Convite ao Louvor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 34,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Demos com alegre som",
+          "1": "Glória a Deus, porque ele é bom.",
+          "2": "Sua graça Deus nos dá",
+          "3": "E jamais nos deixará"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Com poder ele ordenou",
+          "1": "E no mundo a luz raiou.",
+          "2": "Com olhar de compaixão",
+          "3": "Viu a nossa perdição."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O seu povo abençoou,",
+          "1": "No deserto ele o guiou.",
+          "2": "Demos com alegre som",
+          "3": "Glória a Deus, porque ele é bom."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 35 - Adoração e Súplica",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 35,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Teu culto agora, aqui, Senhor, Nós vimos celebrar,",
+          "1": "Cantando, juntos, teu louvor, Teu livro a meditar."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "À nossa vera adoração Presente estás, Senhor.",
+          "1": "Fazendo o nosso coração Sentir teu grande amor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Atende nossas petições, Ó poderoso Deus!",
+          "1": "Concede aos nossos corações Antegozar os céus.",
+          "2": "Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 36 - Exaltação",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 36,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "De toda a terra e das nações,",
+          "1": "Louvor a Cristo entoai!",
+          "2": "Em alta voz, dos corações",
+          "3": "O Nome de Jesus cantai."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O dom supremo, divinal,",
+          "1": "Justiça eterna e santo amor,",
+          "2": "De litoral em litoral,",
+          "3": "Serão cantados ao Senhor"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Em toda língua bendizei",
+          "1": "A Deus, Autor da Criação!",
+          "2": "Em toda terra engrandecei",
+          "3": "Jesus que trouxe a Redenção!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 37 - O Santo Nome",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 37,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jesus, teu nome é santo,",
+          "1": "Amável teu querer.",
+          "2": "Louvor supremo e puro amor",
+          "3": "Queremos te render!",
+          "4": "Poder e honra e glória a ti",
+          "5": "Nós vimos tributar,",
+          "6": "E com sincera devoção,",
+          "7": "Teu culto celebrar!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jesus , teu nome é santo,",
+          "1": "Merece o nosso amor!",
+          "2": "És nosso Deus, que estás nos céus,",
+          "3": "E nosso protetor.",
+          "4": "Incomparável és, Senhor,",
+          "5": "Em tua compaixão;",
+          "6": "Quiseste, para o mal vencer,",
+          "7": "Fazer-te nosso irmão!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jesus, teu nome é santo,",
+          "1": "Venceste sobre a cruz!",
+          "2": "O teu sofrer, o teu penar,",
+          "3": "À vida nos conduz.",
+          "4": "Glorificado estás nos céus,",
+          "5": "Atento à adoração",
+          "6": "Que vimos nós, fiéis, prestar",
+          "7": "Com grato coração! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 38 - Louvores Sem Fim",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 38,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mil vezes mil louvores rendamos a Jesus,",
+          "1": "Que da mais alta glória desceu até à cruz!",
+          "2": "Por sua imensa graça, por seu insigne amor,",
+          "3": "Por todos seja sempre louvado o Salvador."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Mil vezes, sim, mil vezes, sim,",
+          "1": "Louvores ao Senhor",
+          "2": "Que nos amou e nos salvou,",
+          "3": "Bendito Salvador!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eis ao redor do trono do Redentor Jesus,",
+          "1": "Milhares de milhares em refulgente luz!",
+          "2": "Com reverência adoram o grande Salvador,",
+          "3": "E ao bom Cordeiro rendem a honra e o louvor."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh! Vinde agora, todos, também a celebrar",
+          "1": "As glórias sempiternas do Redentor sem par!",
+          "2": "Com vozes de vitória seu Nome proclamai!",
+          "3": "Mil vezes mil louvores a Cristo tributai!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 39 - Exaltação e Louvor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 39,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, vinde crentes dar louvor ao grande Rei Jesus,",
+          "1": "Que para a nossa Redenção morreu na amarga cruz;",
+          "2": "Seu sangue derramou, de tudo me lavou:",
+          "3": "Mais alvo do que a neve me tornou."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "O sangue de Jesus me lavou, me lavou;",
+          "1": "O sangue de Jesus me lavou, me lavou!",
+          "2": "Alegre, cantarei louvores ao meu Rei,",
+          "3": "Ao meu Senhor Jesus que me salvou!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 40 - Cântico ao Salvador",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 40,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cantai a Cristo, o Salvador,",
+          "1": "Que tanto nos amou,",
+          "2": "E, para nossa Redenção,",
+          "3": "Seu sangue derramou!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Salvação! Salvação!",
+          "1": "Alcançou-nos o Filho de Deus;",
+          "2": "Salvação! Salvação!",
+          "3": "Aleluia ao Filho de Deus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cantai o amor celestial,",
+          "1": "Amor do grande Deus,",
+          "2": "Divina flama a consumir",
+          "3": "Os vis pecados meus!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "De Cristo, o excelso, infindo amor,",
+          "1": "Oh, vinde publicai!",
+          "2": "E dele a grande salvação",
+          "3": "A todos proclamai!"
+        }
+      }
+    ]
+  }
+]

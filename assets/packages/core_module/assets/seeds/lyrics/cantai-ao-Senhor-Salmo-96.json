@@ -1,0 +1,41 @@
+{
+  "title": "Salmo 96 (Cantai Ao Senhor)",
+  "artist": "Vencedores Por Cristo",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "cantai-ao-Senhor-Salmo-96",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Cantai ao Senhor um cântico novo",
+        "1": "Cantai ao Senhor, todas as terras",
+        "2": "Cantai ao Senhor, bendizei o seu nome",
+        "3": "Proclamai a sua salvação"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Anunciai entre as nações, a sua glória",
+        "1": "Entre todos os povos as suas maravilhas",
+        "2": "Porque grande é o Senhor, mui digno de ser louvado",
+        "3": "Mais temível do que falsos deuses"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Glória e majestade estão diante dele",
+        "1": "Força e formosura no seu santuário",
+        "2": "Glória e majestade estão diante dele",
+        "3": "Força e formosura no seu santuário"
+      }
+    }
+  ]
+}

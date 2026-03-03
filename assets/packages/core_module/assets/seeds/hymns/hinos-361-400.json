@@ -1,0 +1,2206 @@
+[
+  {
+    "title": "Hino 361 - Brilhando com Jesus",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 361,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Manda-nos luzir o Senhor Jesus,",
+          "1": "Como vela acesa dá de noite a luz!",
+          "2": "Quer que nós brilhemos como a luz do céu:",
+          "3": "Tu no teu cantinho e eu no meu!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cristo sempre a luz para si requer,",
+          "1": "Percebendo logo se ela enfraquecer.",
+          "2": "Sempre a luz mostremos, que Jesus nos deu:",
+          "3": "Tu no teu cantinho e eu no meu!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ao redor, então, manda a luz brilhar",
+          "1": "Para as densas trevas hoje dissipar.",
+          "2": "Com Jesus brilhemos, pois nos escolheu:",
+          "3": "Tu no teu cantinho e eu no meu!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 362 - Brilhando por Jesus",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 362,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vejo no céu, esplendente, Do sol a clara luz!",
+          "1": "Quero viver tão somente Brilhando por Jesus."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Brilhando, brilhando,",
+          "1": "Brilhando qual doce luz!",
+          "2": "Brilhando, brilhando,",
+          "3": "Brilhando por meu Jesus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quero na vida exaltá-lo Na escola e no estudar.",
+          "1": "Quero também imitá-lo Em casa e no brincar."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Amável com toda gente Assim me quer Jesus!",
+          "1": "De rosto alegre e contente Brilhando como a luz."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O feio e triste pecado Ajuda-me a vencer!",
+          "1": "Tendo Jesus ao meu lado, Eu quero aqui viver."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 363 - Venham as Crianças",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 363,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Venham, venham as crianças Ao bendito Salvador,",
+          "1": "Que na cruz, ao resgatá-las, Revelou-lhes seu favor.",
+          "2": "Cristo agora, Cristo sempre Nos concede seu amor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Venham, venham as crianças, Pois Jesus as convidou!",
+          "1": "Foi também por seus pecados",
+          "2": "Que na amarga cruz penou.",
+          "3": "Cristo agora, Cristo sempre Com ternura nos amou."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Venham, venham as crianças Ao Senhor Jesus servir!",
+          "1": "Receber os seus conselhos, Sua santa Lei ouvir.",
+          "2": "Cristo agora, Cristo sempre Quer na luz nos conduzir."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 364 - Graças a Deus",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 364,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "De manhã, deixando o leito,",
+          "1": "Faço a Deus minha oração.",
+          "2": "Dou-lhe graças pela noite,",
+          "3": "Pelo sono e proteção."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mas também, durante o dia,",
+          "1": "Sou mui grato ao meu Senhor,",
+          "2": "Pelo pão, o lar e a vida,",
+          "3": "Que me provam seu amor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "E depois vindo a noitinha,",
+          "1": "Novamente ao me deitar,",
+          "2": "Oro a Deus, agradecido,",
+          "3": "Durmo em paz sem recear."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 365 - Convite às Crianças",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 365,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, vinde crianças!",
+          "1": "Cantai a linda história",
+          "2": "Do bom Messias, Rei dos reis,",
+          "3": "Jesus, o Salvador."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "E repeti, com gratidão,",
+          "1": "A eterna e meiga exclamação:",
+          "2": "“Deixai as crianças que venham a mim.”"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pais crentes traziam",
+          "1": "A Cristo seus filhinhos,",
+          "2": "Mas quando alguém os impediu,",
+          "3": "Tentando os afastar",
+          "4": "Ouviu-se a voz do Mestre, então,",
+          "5": "Dizer com grande compaixão:",
+          "6": "“Deixai as crianças que venham a mim.”"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, vinde crianças!",
+          "1": "Jesus deseja a todas",
+          "2": "A sua bênção conceder,",
+          "3": "E sua salvação!",
+          "4": "A voz de Cristo, o Bom Pastor,",
+          "5": "Repete ainda com amor:",
+          "6": "“Deixai as crianças que venham a mim.”"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 366 - Jóias Preciosas",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 366,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quando, ó Cristo, aqui vieres As jóias buscar,",
+          "1": "Entre as jóias, ricas jóias, Também quero estar."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Como a bela estrela da alva, Desejo brilhar!",
+          "1": "Com Jesus, na sua glória, Também quero estar!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vem olhá-las, vem guardá-las Com amor, ó Senhor!",
+          "1": "Todas ricas, todas lindas E em pleno fulgor!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Criancinhas, criancinhas Que amais a Jesus,",
+          "1": "Sois as jóias, ricas jóias Compradas na cruz."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 367 - Convite aos Meninos",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 367,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vinde meninos! Vinde a Jesus!",
+          "1": "Ele ganhou-vos bênçãos na cruz!",
+          "2": "Os pequeninos ele conduz,"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Oh, vinde ao Salvador!",
+          "1": "Que alegria, sem pecado ou mal,",
+          "2": "Reunir-nos todos afinal,",
+          "3": "Na santa Pátria celestial,",
+          "4": "Com Cristo, o Salvador!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Já, sem demora, a todos convém",
+          "1": "Ir caminhando à glória do além!",
+          "2": "Cristo vos chama, quer vosso bem,"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "“Vinde meninos” ele vos diz;",
+          "1": "Quer receber-vos no bom País;",
+          "2": "Quer conceder-vos vida feliz."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eis a chamada : “Vinde hoje a mim!”",
+          "1": "Não há no mundo quem ame assim!",
+          "2": "Seu grande amor por vós não tem fim."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 368 - Despedida",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 368,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Deus vos guarde pelo seu poder",
+          "1": "Permaneça ao vosso lado,",
+          "2": "Vos dispense o seu cuidado,",
+          "3": "Deus vos guarde pelo seu poder!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Pelo seu poder e no seu amor,",
+          "1": "Estaremos todos com Jesus",
+          "2": "Pelo seu poder e no seu amor,",
+          "3": "Oh, que Deus vos guarde em sua luz."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Deus vos guarde para o seu louvor,",
+          "1": "Consolados e contentes,",
+          "2": "Achegados sempre aos crentes,",
+          "3": "Deus vos guarde para o seu louvor!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Deus vos guarde bem no seu amor.",
+          "1": "No trabalho glorioso,",
+          "2": "Para o dia venturoso,",
+          "3": "Deus vos guarde bem no seu amor!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 369 - A Bíblia para Todos",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 369,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eis a Bíblia, a Palavra Que de Deus provém!",
+          "1": "Quem com ela vive e lavra, Vive para o bem!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Anunciai a Bíblia aos povos!",
+          "1": "Ela é vida e luz!",
+          "2": "Seus ensinos, sempre novos,",
+          "3": "Falam de Jesus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dessa Bíblia, a semente Ide semear!",
+          "1": "Anunciando a toda gente Que Deus quer salvar!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mocidade, homens, velhos, Ponde-vos de pé!",
+          "1": "E as lições dos Evangelhos Propagai com fé."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 370 - Proclamação",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 370,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A lei de Deus aos homens vamos dar.",
+          "1": "A cada povo, a todo coração",
+          "2": "Pregai a Cristo, seu divino amor,",
+          "3": "Verdade eterna, paz e retidão."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Queremos tua Lei, Senhor, levar",
+          "1": "Aos que sem ti estão a perecer!",
+          "2": "Teu Livro eterno o tempo atravessou,",
+          "3": "E o mundo inteiro, hoje, o pode ler!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Na voz de muitos mensageiros teus,",
+          "1": "No livro impresso em muitas edições,",
+          "2": "A divinal Palavra faz-se ouvir",
+          "3": "Aos frios, desolados corações!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O mundo a voz de Deus escutará,",
+          "1": "Se com esforço e com dedicação",
+          "2": "Nos empenharmos todos no ideal",
+          "3": "De anunciar a Luz da Salvação!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 371 - A Bíblia",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 371,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Da Bíblia a luz celeste Lampeje aqui, Senhor,",
+          "1": "A luz que vem de Cristo, O Mestre e Salvador."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tal como o sol no espaço Difunde a sua luz,",
+          "1": "Teu livro aqui resplenda A glória de Jesus."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Senhor, que a tua Igreja Rebrilhe qual fanal,",
+          "1": "Da Bíblia refletindo A luz celestial."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Num proceloso mundo Rumando à perdição,",
+          "1": "Que a Bíblia a todos mostre Em Cristo a salvação"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Concede inteligência! Queremos perceber",
+          "1": "O que, Senhor, na Bíblia, Mandaste-nos dizer."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Adestra-nos, ó Mestre, Com teu Verbo eficaz!",
+          "1": "Instrui e repreende, Destrói o que é falaz. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 372 - O Crente e a Bíblia",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 372,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Não abandono a Bíblia, Pois é a voz de Deus.",
+          "1": "Dos crentes o tesouro, Seu guia para os céus."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "É luz divina intensa, Nas trevas a brilhar!",
+          "1": "É a voz do Pai celeste Que a todos vem chamar."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Não abandono a Bíblia, Pois é a voz de Deus!",
+          "1": "Dos crentes o tesouro, Seu guia para os céus."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Não abandono a Bíblia, O Livro que me diz",
+          "1": "Que salvo estou em Cristo, O que me faz feliz!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "E tenho, pois certeza De lá no céu entrar,",
+          "1": "Pois ele, com seu sangue, Me quis purificar."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "“Não abandono a Bíblia”, Eu sempre afirmarei.",
+          "1": "Quem dera ser ouvido Por toda a ímpia grei!"
+        }
+      },
+      {
+        "id": 6,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Que saiba todo o mundo, Que a Cristandade tem",
+          "1": "A fé, robusta e pura, Que pela Bíblia vem."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 373 - Ano Novo",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 373,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Rompe a aurora! Vai-se embora",
+          "1": "Mais um ano e outro vem!",
+          "2": "Não temamos: Prossigamos,",
+          "3": "Caminhando em todo o bem."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Ano findo nunca mais veremos!",
+          "1": "Ano novo hoje recebemos!",
+          "2": "Vê, vê o belo dom que",
+          "3": "Deus nos dá."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Raia o dia! Que alegria! Novo ano eis a surgir!",
+          "1": "Bem guiados e amparados, Cristo vai nos conduzir."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Os talentos, nos momentos Deste ano a começar,",
+          "1": "Consagremos e usemos Para Deus glorificar."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 374 - Saudando o Ano Novo",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 374,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ano velho já findado,",
+          "1": "Foste o dom do Criador!",
+          "2": "Novo ano, que começas,",
+          "3": "Vens do mesmo Benfeitor.",
+          "4": "Testemunham, testemunham",
+          "5": "Desse Deus o grande amor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Novo ano, a tua vinda",
+          "1": "Celebramos com festim.",
+          "2": "Mas teus dias fugitivos",
+          "3": "Prestes voam para o fim.",
+          "4": "Ignoramos, ignoramos,",
+          "5": "Se veremos outro assim."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tua graça, ó Deus, cantamos",
+          "1": "Com acorde e suave som!",
+          "2": "E com grande regozijo",
+          "3": "Bendizendo o excelso dom",
+          "4": "Ao saudarmos ao saudarmos",
+          "5": "Ano novo, ano bom."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 375 - Ano Velho",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 375,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ano velho já termina;",
+          "1": "Damos a Jesus louvor,",
+          "2": "Pois do mal nos tem guardado",
+          "3": "Nesse ano, com amor.",
+          "4": "Nesse ano, nesse ano com amor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Filho eterno, a ti rogamos",
+          "1": "Que, por tua compaixão,",
+          "2": "Continues concedendo",
+          "3": "Aos teus servos proteção.",
+          "4": "Aos teus servos, aos teus servos proteção."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A Palavra preciosa",
+          "1": "Faze em nós frutificar!",
+          "2": "Das doutrinas do Evangelho",
+          "3": "Não nos deixes afastar;",
+          "4": "Não nos deixes, não nos deixes afastar."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O teu povo aqui dirige",
+          "1": "A cumprir o seu dever,",
+          "2": "E alegre, consagrado,",
+          "3": "Ao teu mando obedecer,",
+          "4": "Ao teu mando, ao teu mando obedecer."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Do pecado nos afasta,",
+          "1": "Nossos passos vem guiar!",
+          "2": "E esquecidas nossas culpas,",
+          "3": "Um bom ano vem nos dar.",
+          "4": "Um bom ano, um bom ano vem nos dar. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 376 - Intercessão Pela Pátria",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 376,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Divino Salvador, Contempla com favor Nosso País!",
+          "1": "Dá-nos interna paz, Governo bom, capaz,",
+          "2": "Dita que satisfaz, Sorte feliz."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Confiamos só em ti, Vem dominar aqui, Ó Rei dos reis!",
+          "1": "Dirige o Pátrio lar, Ensina a governar",
+          "2": "Conforme o teu mandar, Por justas leis."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ao presidente, ó Deus, Inspira desde os céus",
+          "1": "O teu temor!",
+          "2": "Que possa bem cumprir O seu mandato e ouvir,",
+          "3": "De todo povo aqui, Real louvor."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A nossa Pátria tem Sustento e todo bem De ti Senhor!",
+          "1": "Aos pobres dá comer, Aos ricos faze ver",
+          "2": "Como convém viver Em mútuo amor!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Do crime e rebelião Concede a proteção",
+          "1": "Que é divinal.",
+          "2": "Guardar-nos vem, Senhor, De guerras e terror!",
+          "3": "Sê nosso defensor, Desvia o mal."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Poder supremo tens! Depara os altos bens",
+          "1": "Da salvação!",
+          "2": "Brilhe a benigna luz Que o teu favor produz!",
+          "3": "Reine o Senhor Jesus Sobre a nação! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 377 - A Nação Para Cristo",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 377,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Uma voz, nos primórdios da história,",
+          "1": "Fez-se ouvir com solene vigor,",
+          "2": "Proclamando a estupenda vitória",
+          "3": "Sobre a morte, o pecado e a dor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Foi Jesus, com palavras candentes",
+          "1": "Do seu verbo divino e veraz,",
+          "2": "Ordenando que a todas as gentes",
+          "3": "Se pregasse o Evangelho da paz."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Eia, crentes, com santa ousadia",
+          "1": "Com nobreza e real vocação,",
+          "2": "Vamos todos cantar a harmonia",
+          "3": "Do evangelho de amor e perdão!",
+          "4": "Exaltando esse amor tão profundo,",
+          "5": "Que dá vida imortal e feliz.",
+          "6": "Para Cristo, a esperança do mundo,",
+          "7": "Conquistemos o nosso País."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Gloriosas missão nos foi dada",
+          "1": "De ganhar para Cristo os incréus!",
+          "2": "Como é nobre esta grande cruzada",
+          "3": "De elevar a Nação para os céus!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Há no entanto, uma força incontida",
+          "1": "Que preside este afã singular:",
+          "2": "É o amor que votamos à vida",
+          "3": "Dos perdidos que Deus quer salvar."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "“A Nação para Cristo” eis o lema,",
+          "1": "O anelo sublime e imortal,",
+          "2": "A divisa bendita e suprema,",
+          "3": "Expressão do mais alto ideal!"
+        }
+      },
+      {
+        "id": 6,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vamos, pois, incessantes na lida,",
+          "1": "Em socorro dos nossos irmãos,",
+          "2": "Transformar nossa Pátria querida",
+          "3": "Num reinado feliz de Cristão!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 378 - Oração Pela Pátria",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 378,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Por nossa Pátria oramos A ti, supremo Deus!",
+          "1": "Por nosso lar clamamos A ti, ó Rei dos Céus!",
+          "2": "Bendize a vida pastoril, Governa o brio senhoril,",
+          "3": "Modera a lida mercantil, Deus salve a Pátria!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Da Pátria que nos deste, Desvie tua mão",
+          "1": "Desgraças, fome e peste, Perfídia e sedição!",
+          "2": "Sustenta a ordem nacional, O bom governo imparcial,",
+          "3": "E dá-nos graça divinal: Deus salve a Pátria!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dá-nos real civismo, Fiel, constante, audaz!",
+          "1": "Promove o cristianismo Do Príncipe da Paz!",
+          "2": "Da Pátria afasta as crenças vãs,",
+          "3": "Derrama bênçãos temporãs,",
+          "4": "Dominem só doutrinas sãs: Deus salve a Pátria!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A tua Igreja inflama Com zelo e terno amor.",
+          "1": "E seja o teu programa Cumprido com vigor.",
+          "2": "Então os salvos de Jesus, Lutando firmes pela cruz,",
+          "3": "Difundirão de Cristo a luz Por toda a Pátria! Amém"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 379 - Petição Pela Pátria",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 379,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Minha Pátria para Cristo! Eis a minha petição.",
+          "1": "Minha Pátria tão querida, Eu te dei meu coração.",
+          "2": "Lar prezado, lar formoso, É por ti o meu amor;",
+          "3": "Que meu Deus de excelsa graça Te conceda seu favor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Salve Deus a minha Pátria, Minha Pátria varonil!",
+          "1": "Salve Deus a minha terra, Esta terra do Brasil.",
+          "2": "Quero pois, com alegria Ver feliz a mãe gentil,",
+          "3": "Por vencer o Evangelho Nesta terra do Brasil."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Brava gente brasileira, Longe vá temor servil:",
+          "1": "Ou ficar a Pátria salva, Ou morrer pelo Brasil."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 380 - Jesus Proteja a Pátria",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 380,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, minha Pátria amada, Brasil dos sonhos meus!",
+          "1": "Dirija o teu destino A mão do eterno Deus!",
+          "2": "Que brilhe em teu caminho A refulgente luz",
+          "3": "Do amor e da verdade, Da glória de Jesus!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Que o Pai dirija e guarde A vida nacional!",
+          "1": "Nos livre dos perigos, Pecado e todo mal!",
+          "2": "A quantos que governam Conceda seu favor,",
+          "3": "E guie em paz o povo Nas sendas do amor!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jesus proteja sempre O povo do Brasil,",
+          "1": "E sobre a nossa terra Derrame bênçãos mil!",
+          "2": "A gratidão nos faça Erguer o coração",
+          "3": "Em culto fervoroso, Em santa adoração. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 381 - Intercessão Pela Cidade",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 381,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A cidade, ó Deus, protege, Cada rua, cada lar,",
+          "1": "Seus cansados transeuntes, Todo o humano labutar."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Guarda a todos os governantes",
+          "1": "E aos que fazem nossa lei;",
+          "2": "E que graças toda gente Renda a ti, supremo Rei!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Abençoa a nossa indústria E os que lutam pelo pão.",
+          "1": "E que nós, Senhor, cantemos: “Tudo vem de tua mão!”"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Abençoa aos que trabalham, Ao fiel batalhador!",
+          "1": "Eficientes, produtivos, Faze-os sempre, bom Senhor!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Abençoa nossa Igreja, Nossos dias, nosso lar;",
+          "1": "E que assim, por toda a vida,",
+          "2": "Nós possamos te louvar! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 382 - Mocidade Presbiteriana",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 382,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Somos jovens num mundo velho",
+          "1": "A pregar vivos ideais",
+          "2": "Do santo Evangelho",
+          "3": "Que pregaram nossos pais.",
+          "4": "O mundo muda, mas Cristo não!",
+          "5": "Importa que preguemos a salvação!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Mocidade Presbiteriana,",
+          "1": "Somos testemunhas de Jesus!",
+          "2": "Temos que dizer ao nosso mundo",
+          "3": "Que a solução está na cruz!",
+          "4": "Mocidade, testemunhas de Jesus!",
+          "5": "Sim, a solução de tudo está na cruz!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nossas mãos estarão unidas,",
+          "1": "Combatendo a escravidão",
+          "2": "De preciosas vidas",
+          "3": "Sem Jesus, sem direção.",
+          "4": "Não temeremos, o tentador!",
+          "5": "Clamemos pelo Cristo Libertador!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Juventude cristã, avante!",
+          "1": "Empunhando o pendão real,",
+          "2": "Com fé no Comandante,",
+          "3": "Venceremos todo o mal!",
+          "4": "“Sê testemunha” disse o Senhor.",
+          "5": "Falemos sempre de Jesus, sem temor!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 383 - Um Novo Mundo",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 383,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jovens fortes chama-nos Jesus,",
+          "1": "Para um mundo novo construir.",
+          "2": "Trevas, que hoje tentam destruir,",
+          "3": "Hão de ser clara luz,",
+          "4": "Alvo resplendor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Levantemos sobre a terra",
+          "1": "Nossos braços libertados,",
+          "2": "Ao serviço convocados",
+          "3": "Por Jesus;",
+          "4": "Pelos que são oprimidos,",
+          "5": "Pelos que são perseguidos!",
+          "6": "Eia! Que nós venceremos",
+          "7": "No poder da cruz!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ao combate, enquanto não soou",
+          "1": "O momento em que há de raiar",
+          "2": "Novo mundo, com Jesus, Senhor,",
+          "3": "Onde a paz e o amor",
+          "4": "Sempre hão de reinar."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 384 - Vamos Com Jesus",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 384,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó jovens, atendei! Oh, que lindo pavilhão",
+          "1": "Cristo há desfraldado já sobre a nação.",
+          "2": "E quer-vos nas fileiras a todos receber",
+          "3": "E levar-vos, sem demora, para combater."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Vamos com Jesus e marchemos sem temor,",
+          "1": "Vamos ao combate inflamados de valor",
+          "2": "Ânimo, lutemos todos contra o mal;",
+          "3": "É Jesus o nosso grande General!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó jovens, avançai! O divino Vencedor",
+          "1": "Quer juntar-vos todos hoje ao seu redor.",
+          "2": "Dispostos à batalha, saí sem vacilar!",
+          "3": "Vamos todos, companheiros, vamos a lutar!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "As armas invencíveis do Chefe guiador",
+          "1": "São seu Evangelho e seu grande amor.",
+          "2": "Com elas revestidos e cheios de poder,",
+          "3": "Companheiros, com coragem, vamos a vencer!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quem entra nessa guerra,",
+          "1": "Com Deus sempre andará,",
+          "2": "E o Senhor vitória lhe concederá!",
+          "3": "Sim, vamos, companheiros,",
+          "4": "Pois, sendo aqui fiéis,",
+          "5": "Com Jesus conquistaremos imortais lauréis!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 385 - O Estudante e a Bíblia",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 385,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Toda luz que a razão irradia",
+          "1": "Nós podemos nos livros achar.",
+          "2": "Mas só Cristo nossa alma alumia,",
+          "3": "Pois só ele dá calma e alegria,",
+          "4": "E só ele nos pode guiar",
+          "5": "E só ele nos pode guiar"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Muito mais do que bons estudantes",
+          "1": "Muito mais do que bons cidadãos,",
+          "2": "Precisamos de andar vigilantes",
+          "3": "Para sermos da fé bandeirantes;",
+          "4": "Pois, colegas, nós somos cristãos!",
+          "5": "Pois, colegas, nós somos cristãos!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Não busquemos apenas a glória",
+          "1": "De alcançar quase todo saber,",
+          "2": "Quer da ciência, quer da arte ou da história;",
+          "3": "A razão é falaz e ilusória!",
+          "4": "Sem Jesus nada pode valer! Sem Jesus nada pode valer!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "À pesquisa da pura verdade",
+          "1": "Consagremos o nosso labor.",
+          "2": "Todo engano enfraquece a vontade",
+          "3": "A mentira não traz liberdade",
+          "4": "E não cabe ao engano o louvor! E não cabe ao engano o louvor"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Só em Cristo esta Pátria querida",
+          "1": "Achará seu futuro feliz.",
+          "2": "Nele está toda a luz, toda a vida.",
+          "3": "Procuremos tornar difundida",
+          "4": "A verdade em nosso País.",
+          "5": "A verdade em nosso País."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 386 - Testemunho",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 386,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Direi ao mundo que sou crente",
+          "1": "Não me envergonho de o dizer!",
+          "2": "Direi ao mundo que sou crente,",
+          "3": "E que por Cristo vou viver."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Direi ao mundo que ele salva,",
+          "1": "E nesta vida o seguirei;",
+          "2": "E eu bem sei que, crendo nele,",
+          "3": "Terás as bênçãos que eu encontrei."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Direi ao mundo que ele ama,",
+          "1": "Que Cristo dá perdão e paz.",
+          "2": "A minha vida eu lhe entrego.",
+          "3": "Jesus, meu guia, satisfaz."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Direi ao mundo que ele volta,",
+          "1": "Se tarde ou cedo, eu não sei!",
+          "2": "Mas viverei sempre esperando,",
+          "3": "E preparado estarei."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Na sua vinda gloriosa,",
+          "1": "Aos que o amarem Jesus dará",
+          "2": "Maravilhas infinitas,",
+          "3": "E ao lar celeste nos levará."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, dize ao mundo que és crente,",
+          "1": "Não te envergonhes de o dizer.",
+          "2": "Oh, dize ao mundo que és crente,",
+          "3": "E que por Cristo vais viver."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 387 - Combate",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 387,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Moços, declarai guerra contra o mal,",
+          "1": "Exaltai a cruz do Salvador!",
+          "2": "Firmes empunhai armas não carnais,",
+          "3": "Sempre confiai em seu amor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Todos juntos ao redor da cruz,",
+          "1": "Prontos, firmes estejamos nós!",
+          "2": "Sim, avante, alegres, corajosos,",
+          "3": "Sempre ouvindo de Jesus a voz."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Moços, avançai! Fortes vos tornais,",
+          "1": "Se o valor da causa conheceis.",
+          "2": "Tremulante em luz, erguei o pendão,",
+          "3": "Garantia de que vencereis!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nosso Deus e Pai, ouve com favor!",
+          "1": "Vem nos ajudar a combater!",
+          "2": "E vencida, enfim, a luta final,",
+          "3": "A coroa vem nos conceder."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 388 - Mocidade, Avante",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 388,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mocidade cristã, eia, avante!",
+          "1": "Reuni vossas forças: Lutai!",
+          "2": "O inimigo potente se mostra,",
+          "3": "Mas com Cristo sois fortes: Marchai!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mocidade cristã, eis, avante!",
+          "1": "Contra o mal, contra o erro lutai!",
+          "2": "Tendo o santo Evangelho por arma,",
+          "3": "A verdade da Cruz proclamai!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mocidade cristã, vede o abismo",
+          "1": "Onde muitos estão a cair,",
+          "2": "Por faltar-lhes a luz do Evangelho,",
+          "3": "E não virem a Cristo seguir."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eia, pois, mocidade pujante,",
+          "1": "Por Jesus, pela fé, avançai!",
+          "2": "Ide aos povos levar o Evangelho,",
+          "3": "Para a glória de Deus trabalhai!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 389 - Avante, Mocidade!",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 389,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eia, avante, mocidade,",
+          "1": "Vamos por Jesus lutar!",
+          "2": "A peleja é gloriosa,",
+          "3": "Deus nos há de auxiliar."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eia, avante, companheiros,",
+          "1": "De olhos postos em Jesus!",
+          "2": "Caminhemos destemidos,",
+          "3": "Espalhando sempre a luz."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Por Jesus, com zelo santo,",
+          "1": "Vinde, ó jovens, combater!",
+          "2": "A mensagem do Evangelho",
+          "3": "Proclamai até morrer!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 390 - Fiéis Soldados",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 390,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "De novo a combater",
+          "1": "Por ti, Jesus chamados",
+          "2": "Fiéis e bons soldados,",
+          "3": "Agora eis-nos aqui,",
+          "4": "Unidos no dever",
+          "5": "De pelejar por ti."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Às armas, pois, e com valor!",
+          "1": "Fiéis soldados do Senhor,",
+          "2": "Fiéis soldados do Senhor!",
+          "3": "Às armas, pois, e com valor!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Encher-nos vem de amor,",
+          "1": "De fé e de ousadia,",
+          "2": "Poder, sabedoria,",
+          "3": "Valor, resolução!",
+          "4": "Que andemos, ó Senhor,",
+          "5": "Em fraternal união."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eia, avante, mocidade!",
+          "1": "Nunca, nunca recuar!",
+          "2": "No caminho reto e santo,",
+          "3": "Eia, jovens, avançar!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eia, avante, companheiros!",
+          "1": "Soem tais como um clarim",
+          "2": "As palavras do convite:",
+          "3": "“Vinde todos, vinde a mim!”"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eia, avante, mocidade,",
+          "1": "Confiando no Senhor!",
+          "2": "Onde há fé ninguém vacila,",
+          "3": "Pois há vida, luz, vigor!"
+        }
+      },
+      {
+        "id": 6,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eia, avante, companheiros,",
+          "1": "Vamos firmes batalhar.",
+          "2": "Sempre alegres na esperança,",
+          "3": "Sempre unidos trabalhar."
+        }
+      },
+      {
+        "id": 7,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Da cruz do Salvador",
+          "1": "Ergamos o estandarte!",
+          "2": "Aqui, em toda parte,",
+          "3": "Lutemos pela cruz!",
+          "4": "Oremos com fervor!",
+          "5": "Sirvamos a Jesus!"
+        }
+      },
+      {
+        "id": 8,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Lutar, orar, servir,",
+          "1": "Que certa é a vitória!",
+          "2": "E após a luta a glória",
+          "3": "De lá nos céus estar!",
+          "4": "Lutar, orar, servir!",
+          "5": "E com Jesus reinar.!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 391 - Mocidade Fiel",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 391,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mocidade fiel, redimida,",
+          "1": "Mocidade que Cristo salvou,",
+          "2": "Inflamada de amor, vossa vida",
+          "3": "Consagrai a quem vos libertou!",
+          "4": "Consagrai a quem vos libertou!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Mocidade! Mocidade!",
+          "1": "Escutai o convite do Rei!",
+          "2": "Ele é a Vida, o Caminho,",
+          "3": "A Verdade ! Mocidade!",
+          "4": "Mocidade valente, atendei!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Aos que vivem na sombra da morte,",
+          "1": "Na miséria, doença e aflição,",
+          "2": "Proclamai bem vibrante, bem forte,",
+          "3": "Proclamai em Jesus salvação!",
+          "4": "Proclamai em Jesus salvação!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eis a luta! Marchando altaneira,",
+          "1": "Tendo o peito escudado na fé,",
+          "2": "Por Jesus, pela sua bandeira,",
+          "3": "Mocidade valente, de pé.",
+          "4": "Mocidade valente, de pé."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 392 - Vida Vitoriosa",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 392,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cristo amado, sei que na força do mal",
+          "1": "Tu, meu Mestre, sempre serás protetor.",
+          "2": "Tu me guardas, dando-me paz divinal!",
+          "3": "Eu contigo sempre serei vencedor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Cristo, Mestre,",
+          "1": "Sei que contigo eu sou vencedor!",
+          "2": "Dá-me graça,",
+          "3": "Dá-me do teu poder, Redentor!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Que alegria tenho no meu Salvador;",
+          "1": "Tenho graça, vida de amor paternal!",
+          "2": "Tudo posso, tudo por ti, meu Senhor;",
+          "3": "Deste mundo sou vencedor, afinal!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Não duvido, Cristo, meu Mestre, de ti;",
+          "1": "Creio em tua rica promessa, Jesus!",
+          "2": "Tu não deixas, nem abandonas aqui",
+          "3": "Os que buscam ver tua face de luz."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh! Que bênção ter a certeza do bem,",
+          "1": "Ter na vida paz e perdão do Senhor!",
+          "2": "Mui alegre vou para a Pátria de além,",
+          "3": "Onde reina Cristo Jesus, Rei de amor!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 393 - União Vital",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 393,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Duas vidas, Senhor, se unem num só ser;",
+          "1": "Duas almas e dois nobres corações.",
+          "2": "Pelo amor e afeição querem já viver",
+          "3": "Sempre juntos na paz ou nas aflições."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Abençoa, Senhor, esta santa união,",
+          "1": "Dando graça e favor, faze-a prosperar",
+          "2": "Na alegria, na fé, na consagração!",
+          "3": "E este amor verdadeiro vem confirmar."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mais um lar que se faz cheio de vigor",
+          "1": "Do caráter cristão, base principal.",
+          "2": "Dá-lhe vida feliz numa união de amor,",
+          "3": "O mais forte, o maior laço conjugal."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tu criaste, Senhor, Para o nosso bem,",
+          "1": "A união que adorna esta vida aqui.",
+          "2": "De uma união mui feliz quantas bênçãos vêm",
+          "3": "À família dos teus filhos, glória a ti! Amém"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 394 - Perfeito Amor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 394,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Perfeito amor, além do entendimento,",
+          "1": "Com devoção buscamos teu favor.",
+          "2": "Faze perfeito, pois, o casamento",
+          "3": "Dos filhos teus que se unem pelo amor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dá-lhes, Senhor, a mútua confiança",
+          "1": "E a fé constante em Cristo, o Salvador.",
+          "2": "As suas almas nutre na esperança",
+          "3": "De conservarem o mais puro amor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dá que eles tenham forças e alegria",
+          "1": "Nos dissabores, lutas, provações!",
+          "2": "Que assim conservem juntos a harmonia,",
+          "3": "Perfeitos tendo sempre os corações. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 395 - Amor no Lar",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 395,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mui felizes nos correm os dias",
+          "1": "E depressa se esvai nossa dor!",
+          "2": "São benditas as sãs alegrias,",
+          "3": "Quando reina no lar doce amor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Os caminhos pisamos juncados,",
+          "1": "Sim, juncados de ramos em flor!",
+          "2": "Surgem bênçãos de todos os lados,",
+          "3": "Quando reina no lar doce amor!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Saboroso é o pão que fruímos,",
+          "1": "Se o fruímos de nosso labor!",
+          "2": "Sim, contente, em tudo sorrimos,",
+          "3": "Quando reina no lar doce amor!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Os pais crentes aos filhos afirmam",
+          "1": "As verdades da Lei do Senhor!",
+          "2": "E com obras o ensino confirmam,",
+          "3": "Quando reina no lar doce amor!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Se sentimos em casa a pobreza,",
+          "1": "Se há pobreza também ao redor,",
+          "2": "Suportável será, com certeza,",
+          "3": "Quando reina no lar doce amor!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 396 - Graças Pelo Aniversário",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 396,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Um ano mais de vida Guardou-vos o Senhor!",
+          "1": "E deu-vos fiel guarida No seu divino amor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "De coração dai graças",
+          "1": "Ao vosso eterno Pai!",
+          "2": "Pois mais um ano passa,",
+          "3": "A Deus mil graças dai!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "De noite , em claro dia, No inverno e no verão,",
+          "1": "Na dor e na alegria Gozastes proteção."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "No coração que ama O terno Salvador,",
+          "1": "Existe um canto alegre Que espalha o teu louvor."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ensina-nos, ó Cristo, O que convém lembrar,",
+          "1": "E todo o nosso tempo No bem aproveitar. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 397 - Por Minha Boa Mãe",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 397,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Por minha boa mãe E pelo seu amor,",
+          "1": "Na terra, sem igual, Eu louvo-te, ó Senhor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "É grande o bem Que na alma tem",
+          "1": "Quem pode alguém Chamar de mãe!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pois ela me cuidou Da vida ao despontar.",
+          "1": "E aos pés do bom Jesus Feliz me fez andar."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Se pobre ou rico eu for, Jamais hei de esquecer",
+          "1": "A minha boa mãe, Enquanto aqui viver."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "É grato aqui sentir De mãe o puro amor.",
+          "1": "Por ela o coração Bendize ao Criador."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 398 - Outra Vez Cantamos",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 398,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pai, outra vez cantamos teu louvor",
+          "1": "A uma voz, ao templo teu deixar.",
+          "2": "Bendito és Tu, conosco estás, Senhor,",
+          "3": "Com tua paz vem nos abençoar."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Que tua paz levemos para o lar;",
+          "1": "Sê Tu conosco até ao anoitecer!",
+          "2": "E do pecado, ó Pai, vem nos guardar",
+          "3": "Ao virmos nós teu Nome engrandecer."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Que tua paz nos guie, qual fanal,",
+          "1": "Durante a noite, para nos guardar",
+          "2": "Na escuridão da vida e contra o mal,",
+          "3": "Pois luz e trevas podes dominar."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dá-nos, Senhor, a tua paz fruir",
+          "1": "A cada instante, em nosso labutar!",
+          "2": "E adentrando a Pátria do porvir,",
+          "3": "A paz perfeita iremos desfrutar. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 399 - Término do Culto",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 399,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Findado agora o culto, ó Deus,",
+          "1": "Prestado em teu louvor,",
+          "2": "Despede em paz e guia os teus",
+          "3": "Até chegarmos lá nos céus,",
+          "4": "Ó Pai de vero amor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "De Cristo dá-nos sempre ter",
+          "1": "A graça singular!",
+          "2": "No teu amor permanecer,",
+          "3": "No Santo Espírito viver,",
+          "4": "Em comunhão sem par. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 400 - Oração Por Proteção",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 400,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Grande Deus! Em paz, agora,",
+          "1": "Despedimo-nos, Senhor.",
+          "2": "Certos de fruir as bênçãos",
+          "3": "Que provém do teu amor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dá-nos forças, dá-nos forças,",
+          "1": "Neste mundo de amargor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Graças, graças nós rendemos",
+          "1": "Pela tua Redenção.",
+          "2": "E termos jubilosos,",
+          "3": "Tua santa proteção."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Deus eterno, Deus eterno,",
+          "1": "Reina em cada coração. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 400A - Ofertório",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 400,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tudo vem de ti, Senhor,",
+          "1": "E do que é teu te damos. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Amém Tríplice",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 401,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Amém, Amém, Amém."
+        }
+      }
+    ]
+  }
+]

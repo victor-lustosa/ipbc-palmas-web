@@ -1,0 +1,42 @@
+{
+  "title": "Quem é Deus Como Nosso Deus",
+  "artist": "Diante do Trono",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "quem-e-Deus-como-o-nosso-Deus",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Quem é Deus como o nosso Deus?",
+        "1": "Poderoso, grande El Shaday",
+        "2": "O Deus do impossível",
+        "3": "Ainda que invisível, posso ver o Seu agir"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Criador dos céus, da terra e mar",
+        "1": "Se importa em me ajudar",
+        "2": "Me cerca a todo instante",
+        "3": "Com Seu cuidado e Seu poder"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Não há outro igual a Ti, Senhor",
+        "1": "Antes que eu fale, Tu já conheces meu clamor",
+        "2": "Deus que responde, Deus que vê",
+        "3": "Deus de milagres, eu posso crer",
+        "4": "No Teu poder"
+      }
+    }
+  ]
+}

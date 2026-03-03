@@ -1,0 +1,61 @@
+{
+  "title": "Os Que Confiam no Senhor",
+  "artist": "Bola de Neve",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "os-que-confiam-no-Senhor",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Os que confiam no Senhor",
+        "1": "São como os montes de Sião",
+        "2": "Que não se abalam",
+        "3": "Mas permanecem para sempre"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Como em volta de Jerusalém",
+        "1": "Estão os montes",
+        "2": "Assim é o Senhor",
+        "3": "Em volta do seu povo"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Autoridade e poder",
+        "1": "Domínio em suas mãos",
+        "2": "Pois o Senhor é Deus",
+        "3": "O Senhor é Rei dos povos"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Cale-se diante dele a terra",
+        "1": "Dobrem os joelhos ergam as mãos",
+        "2": "Pois o Senhor é Deus",
+        "3": "O Senhor é Rei dos povos"
+      }
+    },
+    {
+      "id": 4,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Não, não dá, sem Jesus não dá",
+        "1": "Não, não dá, sem Jesus não dá",
+        "2": "Pra viver não dá, sem Jesus não dá",
+        "3": "Para ser feliz, sem Jesus não dá, não, não dá"
+      }
+    }
+  ]
+}

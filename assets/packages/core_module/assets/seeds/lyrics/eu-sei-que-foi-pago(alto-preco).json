@@ -1,0 +1,48 @@
+{
+  "title": "Alto Preço",
+  "artist": "Asaph Borba",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "eu-sei-que-foi-pago(alto-preco)",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Eu sei que foi pago um alto preço",
+        "1": "Para que contigo eu fosse um, meu irmão",
+        "2": "Quando Jesus derramou Sua vida",
+        "3": "Ele pensava em ti",
+        "4": "Ele pensava em mim",
+        "5": "Pensava em nós"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "E nos via redimidos por Seu sangue",
+        "1": "Lutando o bom combate do Senhor",
+        "2": "Lado a lado trabalhando",
+        "3": "Sua igreja edificando",
+        "4": "E rompendo as barreiras pelo amor"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "E na força do Espírito Santo",
+        "1": "Nós proclamamos aqui",
+        "2": "Que pagaremos o preço de sermos",
+        "3": "Um só coração no Senhor",
+        "4": "E por mais que as trevas militem",
+        "5": "E nos tentem separar",
+        "6": "Com os nossos olhos em Cristo",
+        "7": "Unidos iremos andar"
+      }
+    }
+  ]
+}

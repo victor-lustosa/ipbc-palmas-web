@@ -1,0 +1,41 @@
+{
+  "title": "Descansarei",
+  "artist": "Comunidade Evangélica de Maringá",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "cobre-me-com-Tuas-maos(descansarei)",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Cobre-me",
+        "1": "Com Tuas mãos",
+        "2": "Com poder",
+        "3": "Vem me esconder, Senhor"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Se o trovão e o mar se erguendo vêm",
+        "1": "Sobre a tempestade eu voarei",
+        "2": "Sobre as águas Tu também és Rei",
+        "3": "Descansarei, pois sei que és Deus"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Minh'alma está",
+        "1": "Segura em Ti",
+        "2": "Sabe bem",
+        "3": "Que em Cristo firme está"
+      }
+    }
+  ]
+}

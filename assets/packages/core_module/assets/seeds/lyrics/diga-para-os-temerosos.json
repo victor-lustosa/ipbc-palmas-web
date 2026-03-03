@@ -1,0 +1,51 @@
+{
+  "title": "Ele Vem Pra Te Salvar",
+  "artist": "Rachel Novaes",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "diga-para-os-temerosos",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Diga para os temerosos: Não há nada a temer!",
+        "1": "Poderoso é o teu Senhor quando clama Seu nome",
+        "2": "Ele então virá"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Ele vem pra te salvar. Ele vem para te salvar",
+        "1": "Diga ao cansado: O teu Senhor virá!",
+        "2": "Ele vem para te salvar",
+        "3": "Ele vem pra te salvar. Ele vem para te salvar",
+        "4": "Contempla ao Senhor e te levantarás",
+        "5": "Ele vem para te salvar"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Diga para os abatidos: Não percam a fé!",
+        "1": "Poderoso é o teu Senhor quando clama Seu nome",
+        "2": "Ele então virá"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Ele é o teu escudo em meio as lutas",
+        "1": "O refúgio na tempestade",
+        "2": "Uma torre na tristeza",
+        "3": "Fortaleza em meio a batalha"
+      }
+    }
+  ]
+}

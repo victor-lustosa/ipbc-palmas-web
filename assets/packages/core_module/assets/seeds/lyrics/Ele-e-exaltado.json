@@ -1,0 +1,37 @@
+{
+  "title": "Ele é Exaltado",
+  "artist": "Adhemar de Campos",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "Ele-e-exaltado",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Ele é exaltado, o Rei é exaltado nos céus",
+        "1": "Eu o louvarei",
+        "2": "Ele é exaltado, pra sempre exaltado",
+        "3": "Seu nome louvarei"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Ele é o Senhor, Sua verdade vai sempre reinar",
+        "1": "Terra e céus glorificam Seu santo nome",
+        "2": "Ele é exaltado, o Rei é exaltado nos céus"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Ele é exaltado, o Rei é exaltado nos céus"
+      }
+    }
+  ]
+}

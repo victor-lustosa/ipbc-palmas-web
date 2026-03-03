@@ -1,0 +1,50 @@
+{
+  "title": "Meu Pastor",
+  "artist": "Adoradores Novo Tempo",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "contigo-eu-ando-em-seguranca",
+  "format": "jpeg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Contigo eu ando em segurança",
+        "1": "De mim, afastas todo mal",
+        "2": "Eu sou ovelha que precisa",
+        "3": "Do cuidado do pastor"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "E se eu andar pelo vale da sombra da morte",
+        "1": "Pelo vale da sombra da morte",
+        "2": "Eu mal algum temerei"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Pois, sei que onde quer que eu for",
+        "1": "Tua bondade me seguirá",
+        "2": "Onde eu for Tua bondade me seguirá",
+        "3": "De bênçãos me cercarás"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Meu pastor me leva a lugares altos",
+        "1": "De água limpa pra beber",
+        "2": "E em pastos verdes vou descansar",
+        "3": "E a jornada continuar com Ele"
+      }
+    }
+  ]
+}

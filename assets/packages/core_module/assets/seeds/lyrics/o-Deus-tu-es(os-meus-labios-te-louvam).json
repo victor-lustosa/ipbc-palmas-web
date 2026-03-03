@@ -1,0 +1,32 @@
+{
+  "title": "Os Meus Lábios Te Louvam",
+  "artist": "Daniel Ludtke",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "o-Deus-tu-es(os-meus-labios-te-louvam)",
+  "format": "jpeg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Ó Deus, Tu és o meu Deus forte",
+        "1": "Eu Te busco ansiosamente",
+        "2": "A minha alma tem sede de Ti",
+        "3": "Meu corpo Te almeja como terra árida",
+        "4": "Exausta, sem água"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Assim, eu Te contemplo no santuário",
+        "1": "Para ver Tua força e Tua glória",
+        "2": "Porque a Tua graça é melhor do que a vida",
+        "3": "Os meus lábios Te louvam"
+      }
+    }
+  ]
+}

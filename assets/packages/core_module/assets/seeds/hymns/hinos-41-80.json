@@ -1,0 +1,2091 @@
+[
+  {
+    "title": "Hino 41 - Louvor Pela Graça Divina",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 41,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Louvai, louvai Cristo, o bom Mestre divino!",
+          "1": "Por nós na cruz ele sofreu, morreu;",
+          "2": "Perdão, perdão hoje aos contritos outorga,",
+          "3": "Pois precioso sangue na cruz verteu."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Sim, louvai-o! Ei-lo tão exaltado,",
+          "1": "Mediador que nunca nos faltará.",
+          "2": "Louvai, louvai e proclamai a grandeza",
+          "3": "Do perdão, da graça que a todos dá."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Louvai, louvai Cristo, o bom Mestre divino!",
+          "1": "Conselhos bons dá ele ao pecador;",
+          "2": "Anunciai as bênçãos maravilhosas",
+          "3": "Concedidas por nosso Salvador."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ide todos, servos de Jesus Cristo,",
+          "1": "E ele nunca vos abandonará.",
+          "2": "Louvai, louvai Cristo, o bom Mestre divino!",
+          "3": "Cantai, cantai, seu grande amor cantai;",
+          "4": "Fiéis, cantai de coração, bem unidos,",
+          "5": "Seu poder e glória louvai, louvai!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Qual pastor que cuida do seu rebanho,",
+          "1": "Cristo, assim, os crentes protegerá."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 42 - O Grande Amor de Deus",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 42,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A Deus demos glória, por seu grande amor,",
+          "1": "O Filho bendito por nós todos deu,",
+          "2": "E graça concede ao mais vil pecador,",
+          "3": "Abrindo-lhe a porta de entrada no céu."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Exultai! Exultai! Vinde todos louvar",
+          "1": "A Jesus, Salvador, a Jesus, Redentor!",
+          "2": "A Deus demos glória, porquanto do céu",
+          "3": "Seu Filho bendito por nós todos deu!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, graça real! Foi assim que Jesus,",
+          "1": "Morrendo, seu sangue por nós derramou.",
+          "2": "Herança nos céus, com os santos em luz,",
+          "3": "Legou-nos Aquele que o preço pagou."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tal prova de amor nos persuade a confiar",
+          "1": "Nos merecimentos do Filho de Deus!",
+          "2": "E quem, a Jesus pela fé se entregar,",
+          "3": "Vai vê-lo na glória eterna dos céus."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 43 - O Deus de Amor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 43,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Desperta já meu coração, E louva ao Salvador;",
+          "1": "Cantando em hinos triunfais",
+          "2": "Que Deus é o Deus de amor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Imenso amor! Amor sem par!",
+          "1": "Preenche os vastos céus",
+          "2": "Alcança a terra e a todos nós Insigne amor de Deus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Amor que um dia se encarnou A fim de me salvar,",
+          "1": "E que subindo à dura cruz Morreu em meu lugar!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Amor que exclama: “Vinde a mim!”",
+          "1": "Que busca o pecador.",
+          "2": "Amor eterno, sem igual, De Cristo, Salvador."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Remido a preço tão real O sangue do Senhor,",
+          "1": "Com que pagar eu poderei Tal graça, tal amor?"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quando ele a mim, um pecador,",
+          "1": "Se digna de aceitar,",
+          "2": "E me levar com seus fiéis Ao santo e eterno lar?"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 44 - Louvores ao Senhor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 44,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Louvemos ao Senhor, ao Pai da eternidade,",
+          "1": "Que mostra tanto amor à pobre humanidade!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Seu Filho aqui sofreu por nossa redenção",
+          "1": "E com o Pai nos deu bendita comunhão!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 45 - Grande Redenção",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 45,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Milhares de milhares ouço",
+          "1": "Cantando a Deus com gratidão,",
+          "2": "A Cristo, o Salvador, louvando",
+          "3": "Por sua grande redenção."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "“A Deus louvai!” em coro clamam;",
+          "1": "“A Deus louvai pois nos amou!",
+          "2": "E pelo sangue do Cordeiro,",
+          "3": "De toda mancha nos lavou!”"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O mesmo salmo triunfante,",
+          "1": "Em tons de santa exultação,",
+          "2": "Por todo o mundo vai subindo",
+          "3": "A Deus, Autor da Redenção."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "“A Deus louvai” nos vales soa",
+          "1": "E os montes fazem ecoar:",
+          "2": "“A Deus louvai, o Deus da Graça,",
+          "3": "Que aos pecadores quer salvar!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "E nós, teus santos pés cercando,",
+          "1": "Enquanto militando aqui",
+          "2": "As nossas vozes elevamos",
+          "3": "Para exaltar, Senhor, a ti."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Das trevas fomos nós chamados",
+          "1": "À tua pura e santa luz!",
+          "2": "Da escravidão e do pecado",
+          "3": "Nos libertaste pela cruz."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 46 - Altos Louvores",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 46,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Altos louvores a quem triunfou!",
+          "1": "Jesus, padecendo, seu povo salvou."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Morto na cruz pelos crimes do mundo,",
+          "1": "Dotou aos iníquos de vida e perdão.",
+          "2": "Quão grande esta graça! Favor tão profundo!",
+          "3": "Amor indizível! Real compaixão!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Glória rendemos ao bom Salvador,",
+          "1": "Excelso em justiça, supremo em amor!",
+          "2": "Cristo quebrou as cadeias do forte,",
+          "3": "Seu cetro arrancando com régio poder.",
+          "4": "Agora, onde estão teus terrores, ó morte?",
+          "5": "Sepulcro! Teus presos irão reviver!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Graças te damos, divino Senhor,",
+          "1": "Amparo constante, fiel protetor!",
+          "2": "Nunca nos deixas, Pastor incansável!",
+          "3": "Teu braço não falha, nem perde o poder.",
+          "4": "Conosco presente em bondade imutável,",
+          "5": "Teu povo diriges com alto saber,"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vem, ó Jesus, majestoso reinar;",
+          "1": "Teu povo te espera, não queiras tardar!",
+          "2": "Vem em poder, apressando esse dia,",
+          "3": "Pois tua vontade será feita aqui.",
+          "4": "Oh! Volta na glória trazendo alegria!",
+          "5": "A Igreja suspira, ansiosa, por ti!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 47 - Louvor e Glória (Avivamento)",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 47,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Louvamos-te ó Deus, pelo dom de Jesus",
+          "1": "Que, por nós, pecadores, morreu sobre a cruz,"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Aleluia! Toda a glória te rendemos, Senhor!",
+          "1": "Aleluia! Tua graça imploramos. Amém."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Louvamos-te, ó Deus, pois nos mandas a luz",
+          "1": "Que, brilhando nas trevas, a Cristo conduz."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Louvamos-te, ó Deus, por teu Filho, Jesus,",
+          "1": "Que foi morto, mas vive mo Reino da luz."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Louvamos-te, ó Deus, e rogamos, Senhor",
+          "1": "Dá-nos sempre sentir teu poder, teu amor."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 48 - Amor e Gratidão",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 48,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jesus, quão infinito é teu divino amor!",
+          "1": "Além do nosso alcance, profundo é seu valor!",
+          "2": "Os céus por nós deixaste, vieste, aqui, morrer,",
+          "3": "A fim de que possamos contigo, além, viver."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Por isso, alegremente, buscamos sempre a ti,",
+          "1": "Visando obedecer-te na vida breve aqui."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Embora desprezados, com aflições e dor,",
+          "1": "É suave e bom servir-te, bendito Salvador! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 49 - Sempre Vencendo",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 49,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Sempre vencendo, mui vitorioso,",
+          "1": "Cristo Jesus, o Senhor!",
+          "2": "É Soberano, Chefe bendito,",
+          "3": "Em tudo ele é vencedor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ei-lo supremo, guiando,",
+          "1": "Com seu imenso poder!",
+          "2": "Todos avante, pois, crentes,",
+          "3": "Todos lutar e vencer."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Não é dos fortes a vitória,",
+          "1": "Nem dos que correm melhor.",
+          "2": "Mas dos fiéis e sinceros",
+          "3": "Que seguem junto ao Senhor"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eis suas hostes inumeráveis,",
+          "1": "Seu grande império e fulgor;",
+          "2": "Em seu governo demonstra",
+          "3": "Cuidado e amor sem igual;",
+          "4": "Sempre nos ama e protege",
+          "5": "Com seu poder eternal"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Reis e vassalos, servos e chefes",
+          "1": "Querem também seu favor.",
+          "2": "Senhor, desejo e te imploro",
+          "3": "Que me permitas lutar",
+          "4": "Sempre ao teu lado, invencível,",
+          "5": "Até meus dias findar!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 50 - Sangue Precioso",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 50,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cantarei a Cristo e seu excelso amor;",
+          "1": "Por nós baixou à terra o grande Salvador"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "O sangue precioso De Cristo tem valor",
+          "1": "Das penas da justiça Liberta o pecador."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cantarei a Cristo! Por nós morreu na cruz.",
+          "1": "Aos pobres pecadores quem salva é só Jesus!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cantarei a Cristo! Por nós cumpriu a lei!",
+          "1": "Seu manto de justiça, alegre, vestirei."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cantarei a Cristo! Nas nuvens voltará,",
+          "1": "E na celeste glória os seus receberá."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 51 - Cristo Coroado",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 51,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A Cristo coroai, Cordeiro vencedor!",
+          "1": "Ouvi das hostes celestiais, dos anjos o louvor!",
+          "2": "Eleva a tua voz e entoa, coração",
+          "3": "Louvando Àquele que morreu e deu-te a salvação."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A Cristo coroai, seu lado e mãos olhai!",
+          "1": "Das suas chagas o esplendor e a glória contemplai!",
+          "2": "Nem anjos lá do céu o podem suportar;",
+          "3": "Perante o místico esplendor abaixam seu olhar"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A Cristo coroai! A vida nos doou,",
+          "1": "E a fim de dar-nos salvação da tumba triunfou!",
+          "2": "Cantemos seu poder: morreu, mas ressurgiu!",
+          "3": "A vida eterna ali nos deu e a morte destruiu."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A Cristo coroai, das eras o Senhor,",
+          "1": "Dos mundos e astros da amplidão eterno Criador.",
+          "2": "Ao grande Redentor, que nos deu salvação,",
+          "3": "Eternamente tributai louvor e adoração."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 52 - Glória e Coroação",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 52,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Saudai o nome de Jesus!",
+          "1": "Arcanjos, adorai!",
+          "2": "Ao Rei que se humilhou na cruz,"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Com glória, glória, glória, glória,",
+          "1": "Com glória coroai!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó escolhida geração",
+          "1": "De Deus, o eterno Pai,",
+          "2": "Ao grande autor da salvação"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Remidos todos, com fervor,",
+          "1": "Louvores entoai!",
+          "2": "Ao que da morte é vencedor,"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó raças, povos e nações",
+          "1": "Ao Rei divino honrai!",
+          "2": "A quem quebrou os vis grilhões,"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 53 - Honra, Poder, Majestade",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 53,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Soa nos céus o triunfo, a vitória;",
+          "1": "Vibra na terra do seu Nome a glória;",
+          "2": "Montes, oceanos, florestas e flores,",
+          "3": "Do seu domínio ecoam louvores."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sobe em canto constante alegria;",
+          "1": "Bênçãos do alto nos vêm cada dia;",
+          "2": "Honra, poder, majestade entoamos",
+          "3": "Em nossos hinos que a Deus elevamos."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dai ao Cordeiro o louvor que é devido;",
+          "1": "No trono reina de glória vestido.",
+          "2": "Foi imolado, aparente fraqueza!",
+          "3": "Mas triunfante, já vive em grandeza."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Honra, poder, majestade, riqueza,",
+          "1": "Sabedoria, domínio e grandeza,",
+          "2": "Ao vencedor da batalha é cantado,",
+          "3": "Ao ser no trono do céu, coroado."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 54 - A Chegada do Messias",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 54,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cantai! Exultai! O Messias chegou!",
+          "1": "Dissiparam-se as trevas, a aurora raiou!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Dai louvores, celebrai-o! Foi morto na cruz!",
+          "1": "Dai louvores, publicai-o; Já vive Jesus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cantai! Exultai! Pelos ímpios sofreu!",
+          "1": "Satisfez a justiça e o sangue verteu!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cantai! Exultai! Temos pleno perdão,",
+          "1": "Pois Jesus nos concede real salvação!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cantai! Exultai! Jesus Cristo, nos céus,",
+          "1": "Pelos seus intercede à destra de Deus"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cantai! Exultai! O Senhor voltará!",
+          "1": "Triunfante, glorioso, nas nuvens virá!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 55 - Alegria e Gratidão",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 55,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cantai alegremente, cantai a Deus louvor;",
+          "1": "Trazei a ele um canto de exultação e amor",
+          "2": "É Deus quem faz a terra seus frutos produzir,",
+          "3": "E as estações do ano em ordem prosseguir."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "É Deus que envia as chuvas e os montes faz florir;",
+          "1": "Que o vale exuberante de trigo faz cobrir.",
+          "2": "Deus tudo multiplica em sua compaixão,",
+          "3": "Fartura concedendo com dadivosa mão."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Trazei aos seus altares dos frutos que ele deu,",
+          "1": "E as almas da colheita por quem, Jesus morreu.",
+          "2": "Prostrai-vos diante dele, humildes, com louvor,",
+          "3": "E assim, em vossas vidas, dai graças ao Senhor!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 56 - Ações de Graça e Súplica",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 56,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Graças te rendemos, Deus de luz e amor,",
+          "1": "Pelo dom de Cristo, nosso Salvador;",
+          "2": "Pelo que nos deste com bondosa mão,",
+          "3": "Pelos dons da vida: Veste, abrigo e pão."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pelos bons amigos que, Senhor, te apraz",
+          "1": "Congregar conosco, nesta doce paz.",
+          "2": "Dá-nos sempre a graça de contigo estar,",
+          "3": "Dá-nos sempre o gozo de teu Nome honrar!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 57 - Fonte de Todo Bem",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 57,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A terra semeamos a fim de nos dar pão,",
+          "1": "Mas Deus é quem a nutre com benfazeja mão.",
+          "2": "É Deus quem manda o frio, o inverno e o verão,",
+          "3": "A chuva, o doce orvalho e a fresca viração."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "De todo bem a fonte",
+          "1": "É o nosso bom Senhor!",
+          "2": "Louvai a Deus, louvai a Deus",
+          "3": "Por todo o seu amor!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O Criador de tudo, que em toda parte está",
+          "1": "Colore a flor silvestre e à estrela brilho dá",
+          "2": "Os ventos lhe obedecem, e o bravo mar também;",
+          "3": "As frágeis avezinhas o seu cuidado tem!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A nós, porém, seus filhos revela mais amor,",
+          "1": "Mandando a este mundo o Filho Salvador!",
+          "2": "A nós fazendo herdeiros de tudo quanto tem,",
+          "3": "Na redenção perfeita que dele nos provém!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 58 - Ofertas",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 58,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A minha vida, com meus bens, Provém de ti, Senhor!",
+          "1": "Saúde, veste, abrigo e pão São dons do teu amor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh! Não permitas, Pai de amor Que aquilo que me dás",
+          "1": "Eu ouse, incauto, desviar Em causas vãs ou más!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Não deixes que meu coração Se engolfe no prazer,",
+          "1": "E no fruir de muitos dons Eu venha te esquecer!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mordomo teu, eu quero dar À Igreja, em proporção,",
+          "1": "A quantas bênçãos recebi De tuas próprias mãos!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Aceita a minha oferta, ó Deus, E bênçãos dá-me a flux.",
+          "1": "Sim, dá-me sempre o que ofertar",
+          "2": "À causa de Jesus! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 59 - Gratidão",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 59,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ao Deus eterno, Criador, Mil graças tributemos,",
+          "1": "Por tantos anos de labor No pátrio lar que temos."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Ao Deus eterno, Criador, Ao Deus da Redenção,",
+          "1": "Por tantos anos de labor, A nossa gratidão!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Provaste, ó Deus, o teu amor A nós, os brasileiros,",
+          "1": "Na voz tão plena de fervor Dos grandes pioneiros."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Por toda parte ó Redentor, Agora é anunciado",
+          "1": "Teu nome ao pobre pecador Que jaz no vil pecado."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Que grandes coisas, ó Senhor, A todos nós legaste!",
+          "1": "São provas desse grande amor",
+          "2": "Com que Tu nos amaste. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 60 - Ofertório",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 60,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Em tudo as tuas mãos, Senhor, Nos têm enriquecido,",
+          "1": "E às provisões do teu amor, Bondosas, conduzido."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "De ti procede a salvação E as bênçãos incontáveis",
+          "1": "Que, dia a dia, ó Pai, nos dão As tuas mãos amáveis."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "De ti vivemos nós, Senhor, E em ti nos alegramos;",
+          "1": "Na comunhão do puro amor",
+          "2": "Que em Cristo desfrutamos."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Com mui sincero coração Oferta aqui trazemos;",
+          "1": "Recebe como gratidão",
+          "2": "De quanto a ti devemos. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 61 - Ações de Graça",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 61,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Graças dou por esta vida, Pelo bem que revelou",
+          "1": "Graças dou pelo futuro E por tudo que passou.",
+          "2": "Pelas bênçãos derramadas, Pelo amor pela aflição,",
+          "3": "Pelas graças reveladas, Graças dou pelo perdão."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Graças pelo azul celeste E por nuvens que há também,",
+          "1": "Pelas rosas do caminho E os espinhos que elas têm.",
+          "2": "Pelas noites desta vida, Pela estrela que brilhou,",
+          "3": "Pela prece respondida E a esperança que falhou."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pela cruz e o sofrimento, E, afinal, ressurreição,",
+          "1": "Pelo amor, que é sem medida, Pela paz no coração;",
+          "2": "Pela lágrima vertida E o consolo que é sem par,",
+          "3": "Pelo dom da eterna vida, Sempre graças hei de dar."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 62 - Hino de Gratidão",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 62,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Graças te dou por tudo que me deste,",
+          "1": "Primeiro a Salvação em meu Jesus.",
+          "2": "Graças te dou por tudo que fizeste",
+          "3": "Por este pecador salvo na cruz!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Graças, graças, mil graças",
+          "1": "A ti, meu Salvador!",
+          "2": "Graças, graças, mil graças",
+          "3": "Por teu precioso amor!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eu te agradeço a bênção do trabalho",
+          "1": "E do meu lar, que alegra o meu viver;",
+          "2": "A correção paterna quando falho,",
+          "3": "Provando teu amor pelo meu ser."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eu te agradeço o pão de cada dia,",
+          "1": "A água que alivia a sede dura,",
+          "2": "E o sol que aquece a pobre gente fria,",
+          "3": "São bênçãos que enchem a terra de fartura."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eu te agradeço, ó Pai, os meus amigos,",
+          "1": "E os inimigos também te agradeço.",
+          "2": "Sou grato por vitórias em perigos,",
+          "3": "E outras bênçãos que eu não mereço."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 63 - As Muitas Bênçãos",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 63,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Se da vida as vagas procelosas são,",
+          "1": "Se, com desalento, julgas tudo vão,",
+          "2": "Conta as muitas bênçãos, dize-as de uma vez,",
+          "3": "E verás, surpreso, quanto Deus já fez."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Conta as bênçãos, dize-as quantas são,",
+          "1": "Recebidas da divina mão",
+          "2": "Vem dizê-las, todas de uma vez,",
+          "3": "E verás, surpreso, quanto Deus já fez!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tens acaso mágoas, triste é teu lidar?",
+          "1": "É a cruz pesada que tens de levar?",
+          "2": "Conta as muitas bênçãos! Logo exultarás,",
+          "3": "E, fortalecido, tudo vencerás!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quando vires outros com seu ouro e bens,",
+          "1": "Lembra que tesouros prometidos tens.",
+          "2": "Nunca os bens da terra poderão comprar",
+          "3": "A mansão celeste que vais habitar."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Seja o teu combate longo ou breve aqui,",
+          "1": "Não te desanimes Deus será por ti!",
+          "2": "Seu divino auxílio minorando o mal,",
+          "3": "Te dará consolo e galardão final"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 64 - Grata Memória",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 64,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quando oprimido por mundano jugo,",
+          "1": "Em meus caminhos eu me angustiava,",
+          "2": "Deu-me descanso tua voz tão terna,",
+          "3": "Que me chamava!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Aos fortes braços eu corri confiante,",
+          "1": "Meigo e bondoso, não me recusaste;",
+          "2": "Em teu imenso, suave amor, tão puro,",
+          "3": "Me agasalhaste!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh! Nunca, nunca cessarão meus lábios",
+          "1": "De bendizer-te, de cantar-te a glória;",
+          "2": "Pois em minha alma Tu és sempre, ó Cristo,",
+          "3": "Grata memória! Amém."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Nunca meus lábios cessarão, ó Cristo,",
+          "1": "De bendizer-te, de cantar-te glória;",
+          "2": "Pois guardo na alma teu amor imenso:",
+          "3": "Grata memória!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quando perdido vagueava aflito,",
+          "1": "E em densas trevas meu andar seguia,",
+          "2": "Tu me buscaste, lá dos céus mandando",
+          "3": "Luz que me guia!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 65 - Louvor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 65,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dai graças, todos vós, a Deus humildemente;",
+          "1": "Milagres fez por nós neste universo ingente.",
+          "2": "Pois vós deveis saber que muitos bens nos deu,",
+          "3": "Que pelo seu poder nos vem a luz do céu."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O Deus da Redenção nos queira dar a vida",
+          "1": "Alegre coração e auxílio em toda lida.",
+          "2": "Mantenha-nos de pé, por seu imenso amor,",
+          "3": "E nos conserve a fé em Cristo, o Salvador."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Exaltação, louvor ao Pai, ao Filho amado",
+          "1": "E ao bom Consolador, que foi dos céus mandado!",
+          "2": "Ao grande e trino Deus, em canto triunfal,",
+          "3": "Tribute os hinos seus a Igreja Universal."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 66 - Coração Quebrantado",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 66,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sonda-me, ó Deus, o coração;",
+          "1": "Sonda-me, ó Deus, o coração;",
+          "2": "Prova e conhece os meus pensamentos;",
+          "3": "Prova e conhece os meus pensamentos;",
+          "4": "Vê se em mim há algum mau caminho."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Sonda-me, conhece-me",
+          "1": "E prova-me, ó Deus!",
+          "2": "Conhece-me o coração,",
+          "3": "Conhece-me o coração;",
+          "4": "Guia-me, Senhor,",
+          "5": "Guia-me Senhor,",
+          "6": "E mostra-me o caminho,",
+          "7": "E guia os meus passos,",
+          "8": "Guia meus passos,",
+          "9": "Ó meu Salvador. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 67 - Coração Quebrantado (Salmo 139)",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 67,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sonda-me, ó Deus, pois vês meu coração!",
+          "1": "Prova-me, ó Pai, te peço em oração.",
+          "2": "De todo o mal liberta-me, Senhor,",
+          "3": "Até da transgressão que oculta for."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vem me lavar dos vis pecados meus,",
+          "1": "Conforme prometeste, meu bom Deus,",
+          "2": "Faze-me arder e consumir de amor,",
+          "3": "Pois quero te magnificar, Senhor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Todo meu ser não considero meu;",
+          "1": "Quero gastá-lo no serviço teu.",
+          "2": "Minhas paixões Tu podes dominar,",
+          "3": "Pois Tu, Senhor, vieste em mim morar."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 68 - Necessidade",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 68,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eu creio, Senhor, na divina promessa,",
+          "1": "Vitórias já tive nas lutas aqui.",
+          "2": "Contudo, é mui certo que a gente tropeça;",
+          "3": "Por isso, Senhor, eu preciso de ti."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A luz que me guia no escuro caminho",
+          "1": "Fulgura de cima do sol criador;",
+          "2": "Contudo, não posso segui-la sozinho;",
+          "3": "Por isso eu preciso de ti, meu Senhor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Bem sei que nas preces eu posso buscar-te,",
+          "1": "Jamais dessa bênção na vida eu descri;",
+          "2": "Contudo, é possível que eu dela me afaste;",
+          "3": "Por isso, Senhor, eu preciso de ti."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Esforços da terra, precário destino,",
+          "1": "Empenho dos homens, riqueza, o que for,",
+          "2": "Não valem as bênçãos do reino divino;",
+          "3": "Por isso eu preciso de ti, meu Senhor. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 69 - Súplica",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 69,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Salvador, Jesus bendito De minha alma a Redenção",
+          "1": "Tua graça me convida A buscar-te em confissão."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Por amor de mim morreste",
+          "1": "Sobre a ensangüentada cruz!",
+          "2": "Tu sofreste a minha pena, Oh! Meu Salvador Jesus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A minha alma purifica Em teu sangue remidor;",
+          "1": "Faze que, leal e humilde, Eu te sirva, meu Senhor."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tua ovelha, nos teus braços, Bem segura guardarás,",
+          "1": "Vem livrar-me dos pecados E guardar-me em tua paz!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 70 - Descanso em Jesus",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 70,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Todo meu tão vil pecado Lanço, ó Cristo, sobre ti,",
+          "1": "Pois, Cordeiro imaculado, Tu me dás perdão aqui."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Minha mancha tão impura Tu bem podes retirar;",
+          "1": "E deixar em ti segura A minha alma descansar."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pobre sou, angustiado, Mas revivo em tua cruz;",
+          "1": "E meu coração cansado Ponho só em ti Jesus!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Minhas mágoas carregaste No madeiro em meu lugar;",
+          "1": "Vida eterna me compraste, Salvação me vieste dar."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "E na glória eterna, ao lado Dos fiéis em multidão,",
+          "1": "Meus louvores, Cristo amado,",
+          "2": "Mais perfeito te serão. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 71 - Perdão",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 71,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sim, sofrimento te causei, ó Deus!",
+          "1": "E ao meu exemplo o fraco tropeçou,",
+          "2": "E eu não andei nos bons caminhos teus:"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Perdão, Senhor!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sim, vão e fútil foi o meu falar,",
+          "1": "E amor ao meu irmão não demonstrei;",
+          "2": "Ao sofredor eu não quis ajudar:"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sim, negligente foi o meu viver,",
+          "1": "Sem me dispor a pelejar por ti,",
+          "2": "E firme em teu trabalho eu não quis ser:"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Escuta, ó Deus, a minha oração",
+          "1": "E vem livrar-me do pecado vil.",
+          "2": "Renova este pobre coração!",
+          "3": "Amém, Senhor!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 72 - Purificação",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 72,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A minha alma está manchada De pecado e corrupção,",
+          "1": "Pois em mim não há justiça, Santidade ou retidão."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Minha origem reconheço: Pecador, bem sei, nasci;",
+          "1": "Da maldade procedente, O seu fardo já senti."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vem, Jesus, e santifica Este pobre pecador",
+          "1": "Dá-me a graça de sentir-me Amparado em teu amor."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O teu sangue precioso Derramado sobre a cruz,",
+          "1": "Me redime do pecado De uma vez, ó meu Jesus."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vem, Senhor, purificar-me, Teu perdão receberei.",
+          "1": "Eu bem sei que para sempre",
+          "2": "Ao teu lado reinarei. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 73 - Compaixão",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 73,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A ti, Senhor, Atrevo-me a chegar;",
+          "1": "Bem sei que sou indigno de favor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Contrito venho para te implorar:",
+          "1": "Tem compaixão de mim, sou pecador!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sim, pecador, a suplicar perdão,",
+          "1": "Embora não mereça o teu favor;",
+          "2": "Mas dá-me, peço a purificação!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Fugindo eu quis, em vão, me libertar",
+          "1": "Do meu pecado vil e opressor!",
+          "2": "E agora, exausto, aqui eis-me a clamar:"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tão infinito, ó Deus, é teu poder!",
+          "1": "Tão grande, ó Pai, o teu excelso amor!",
+          "2": "Aos rogos meus não deixes de atender:",
+          "3": "Tem compaixão de mim, sou pecador! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 74 - Sinceridade (Tal Qual Estou)",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 74,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jesus Senhor, me achego a ti, Tua ira santa mereci;",
+          "1": "O teu favor estende aqui! Aceita um pecador!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Eu venho como estou! Sim, venho como estou!",
+          "1": "Porque Jesus por mim morreu Eu venho como estou!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "As minhas culpas grandes são,",
+          "1": "Mas Tu, que não morreste em vão,",
+          "2": "Me podes conceder perdão! Aceita um pecador!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh! Vem agora Salvador,",
+          "1": "Livrar-me por teu grande amor,",
+          "2": "Pois Tu, Jesus, és meu Senhor,",
+          "3": "Aceita um pecador. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 75 - Arrependimento e Súplica",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 75,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Abatido em meu pecado,",
+          "1": "Clamo a ti, ó bom Senhor!",
+          "2": "Olha o pranto, o desencanto,",
+          "3": "Deste pobre pecador."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Deus clemente e paciente,",
+          "1": "Oh, liberta-me do mal,",
+          "2": "Para amar-te e consagrar-te",
+          "3": "Minha vida até ao final."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cada dia andaria",
+          "1": "Lado a lado com Jesus,",
+          "2": "Adorando, exaltando",
+          "3": "Ao excelso Deus de luz."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mas ligado ao pecado,",
+          "1": "Como posso andar, Senhor?",
+          "2": "Dos contritos os delitos,",
+          "3": "Vem tirar, ó Redentor."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Deus bondoso, caridoso,",
+          "1": "Da verdade eterno Autor,",
+          "2": "Meu pecado confessado,",
+          "3": "Oh, perdoa por amor!"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Deus clemente, Pai do crente,",
+          "1": "Esperança e eterna luz,",
+          "2": "Sê meu guia, noite e dia,",
+          "3": "Para a glória de Jesus. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 76 - Compaixão",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 76,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tem compaixão de mim Senhor!",
+          "1": "Oh, mostra o teu excelso amor,",
+          "2": "E, na infinita multidão",
+          "3": "De tuas graças dá perdão."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tão pecador me descobri!",
+          "1": "Perdoa o mal que cometi.",
+          "2": "Minha alma venho aqui lavar;",
+          "3": "Oh, não me deixes mais pecar."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A mim Tu podes perdoar,",
+          "1": "De toda mancha me lavar;",
+          "2": "Vem dar-me um novo coração,",
+          "3": "Ó Deus de amor e compaixão."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Por geração, ó bom Senhor,",
+          "1": "Não sou senão um pecador.",
+          "2": "Em ti me posso levantar",
+          "3": "E, como a neve, puro estar."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vem, pois, a mim então valer,",
+          "1": "A meus clamores atender,",
+          "2": "E o coração que triste está",
+          "3": "De eterno gozo exultará. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 77 - Divino Perdão",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 77,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quão abençoado aquele Que Jesus na cruz salvou!",
+          "1": "Seu pecado foi coberto, Sua dívida passou",
+          "2": "Para o Justo, para o Justo, Que, a salvar-nos, expirou."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Triste e envolto no silêncio, Meus pecados escondi;",
+          "1": "Que pesar de consciência, Que misérias padeci!",
+          "2": "Noite e dia, noite e dia Tua indignação senti"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mas por fim, desesperado, Descobri minha aflição.",
+          "1": "Meus delitos confessando Em Jesus achei perdão.",
+          "2": "Esta graça, esta graça Pede eterna gratidão!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Deus bondoso, todo crente Teu socorro implorará;",
+          "1": "Dos remorsos, vero alívio Em Jesus encontrará.",
+          "2": "Santo gozo, santo gozo Nele sempre reinará!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Deus bondoso! Deus crente! Teu auxílio me darás",
+          "1": "E, com teu olhar divino, Os meus pés conduzirás.",
+          "2": "Sempre dócil, sempre dócil E submisso me farás."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Em receios e tristezas Anda aflito o pecador,",
+          "1": "Mas em Cristo bem guardados, Para nós não há temor:",
+          "2": "Exultamos, exultamos No divino Salvador!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 78 - Perfeita Expiação",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 78,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sacrifícios imolados Sobre o sanguinoso altar",
+          "1": "Não tiravam os pecados; Não podiam expiar"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Nossas culpas, nossas culpas,",
+          "1": "Nem remorsos dissipar."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mas o sangue precioso Que na cruz o Redentor",
+          "1": "Derramou, tão generoso, Tem poder expiador;"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Purifica, purifica",
+          "1": "O mais ímpio pecador."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Triste choro o meu pecado, Mas Jesus me dá perdão;",
+          "1": "E por ele perdoado, Não verei condenação."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "O Cordeiro, o Cordeiro",
+          "1": "Dá completa remissão."
+        }
+      },
+      {
+        "id": 6,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Todo o peso do castigo Punição que mereci!",
+          "1": "Lá na cruz supremo Amigo, Foi lançado sobre ti!"
+        }
+      },
+      {
+        "id": 7,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Vou cantando, vou cantando:",
+          "1": "Minha culpa estava ali"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 79 - Glória ao Salvador",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 79,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Chegado à cruz do bom Salvador,",
+          "1": "Prostrado aos pés do meu Redentor,",
+          "2": "Ele atendeu logo ao meu clamor; Glória ao Salvador"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Glória ao Salvador! Glória ao Salvador!",
+          "1": "Eu sei que Cristo já me salvou; Glória ao Salvador!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Que maravilha Jesus me amou!",
+          "1": "Tudo de graça me perdoou!",
+          "2": "Dos meus grilhões ele me livrou! Glória ao Salvador!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 80 - O Amor de Jesus",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 80,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cantarei o imenso amor Do Senhor amor sem fim! -",
+          "1": "De Jesus que aqui desceu E morreu na cruz por mim."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Falarei do grande amor Com louvor e gratidão!",
+          "1": "Servirei a meu Jesus, Que na cruz me deu perdão."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Antes mesmo de eu orar Ou chorar minha aflição,",
+          "1": "Meu Jesus por mim chorou E implorou na cruz perdão."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ninguém pode calcular Nem sondar tão grande amor,",
+          "1": "Que me faz limpo e feliz, Do Juiz sem ter pavor."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Não mereço tal favor, Mas Jesus me soube amar;",
+          "1": "Quero pois com devoção Meu amor lhe dedicar."
+        }
+      }
+    ]
+  }
+]

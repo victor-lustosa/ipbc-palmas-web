@@ -1,0 +1,2349 @@
+[
+  {
+    "title": "Hino 161 - O Melhor Amigo",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 161,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sei que o melhor Amigo é Cristo!",
+          "1": "Quando a tempestade assalta a fé,",
+          "2": "Pronto estende a sua mão,",
+          "3": "Tranqüiliza o coração! Sim, o melhor Amigo é Cristo!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Jesus é o melhor Amigo!",
+          "1": "Jesus é o melhor Amigo! Repreende com dulçor",
+          "2": "E me anima com vigor!",
+          "3": "Sim, o melhor Amigo é Cristo!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, que fiel Amigo é Cristo!",
+          "1": "Nele encontro amor, consolo e paz.",
+          "2": "Em seu braço esperarei!",
+          "3": "Mal nenhum eu temerei! Sim, o melhor Amigo é Cristo!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quando eu passar o vale escuro",
+          "1": "E chegar às águas do Jordão,",
+          "2": "Sem receio, com Jesus,",
+          "3": "Entrarei no céu de luz. Sim, o melhor Amigo é Cristo!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "No paraíso eterno, juntos,",
+          "1": "Nós, os salvos, reunidos lá,",
+          "2": "Este canto de louvor",
+          "3": "Entoaremos ao Senhor: “Sim, o melhor Amigo é Cristo!”"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Jesus é o melhor Amigo!",
+          "1": "Jesus é o melhor Amigo! Do pecado me salvou,",
+          "2": "Para o céu me preparou.",
+          "3": "Sim, o melhor Amigo é Cristo!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 162 - A Voz de Deus",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 162,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quando a tempestade ruge Com o seu feroz bramir,",
+          "1": "Quando as nuvens se acumulam, Raios mil a despedir,",
+          "2": "Do trovão o som tremendo Faz-se ouvir e com pavor!",
+          "3": "Mas por sobre a tempestade Soa tua voz, Senhor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Eis que ouvimos tua voz,",
+          "1": "A animar os que andam sós",
+          "2": "E em ti sempre confiados,",
+          "3": "Vão por ti sempre a lutar,",
+          "4": "Nesta vida tormentosa,",
+          "5": "Qual fragor do vasto mar."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quando o mar vem, mansamente,",
+          "1": "Sobre a areia se espraiar,",
+          "2": "Quando a brisa sussurrante Calmamente perpassar,",
+          "3": "Soa a mística harmonia, Ouve-se um feliz rumor;",
+          "4": "Desse coro, docemente, Vem a tua voz, Senhor!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quando o coração aflito Quer à dor, ao mal fugir,",
+          "1": "E se agita luta e ruge, Sem descanso e paz sentir,",
+          "2": "Qual um som que se repete Nas quebradas a rolar,",
+          "3": "Ao aflito e contristado Tua voz vem consolar."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 163 - Direção Divina",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 163,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "As tuas mãos dirigem meu destino!",
+          "1": "Ó Deus de amor que seja sempre assim!",
+          "2": "Teus são os meus poderes, minha vida;",
+          "3": "Em tudo, eterno Pai, dispõe de mim."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Meus dias sejam curtos ou compridos,",
+          "1": "Passados em tristezas ou prazer,",
+          "2": "Em sombra ou luz, de acordo com teu plano,",
+          "3": "É tudo bom se vem do teu querer."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "As tuas mãos dirigem meu destino,",
+          "1": "Por mim cravadas na sangrenta cruz!",
+          "2": "Por meus pecados foram traspassadas,",
+          "3": "Bem posso nelas descansar, Jesus!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nos céus erguidas, sempre intercedendo,",
+          "1": "As santas mãos não pedirão em vão;",
+          "2": "Ao seu cuidado, em plena confiança,",
+          "3": "Entrego a minha eterna salvação."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "As tuas mãos dirigem meu destino,",
+          "1": "Acasos para mim não haverá!",
+          "2": "O grande Pai vigia o meu caminho,",
+          "3": "E sem motivo não me afligirá!"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Encontro em poder constante apoio,",
+          "1": "Forte é seu braço, insone o seu amor;",
+          "2": "Por fim, entrando na cidade eterna,",
+          "3": "Eu louvarei meu guia e Salvador. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 164 - Nome Precioso",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 164,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Santo nome, incomparável,",
+          "1": "Tem Jesus, o amado teu!",
+          "2": "Rei dos reis, Senhor eterno,",
+          "3": "Deus na terra, Deus nos céus."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Nome bom, doce à fé,",
+          "1": "A esperança do porvir.",
+          "2": "Nome bom, doce à fé",
+          "3": "A esperança do porvir."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Leva tu contigo o Nome",
+          "1": "De Jesus, o Salvador!",
+          "2": "Este Nome dá conforto",
+          "3": "Hoje, sempre e onde for."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Este Nome leva sempre",
+          "1": "Para bem te defender!",
+          "2": "Ele é arma ao teu alcance,",
+          "3": "Quando o mal te aparecer."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 165 - Cuidado Divino",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 165,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Não desanimes! Deus proverá! Deus velará por ti!",
+          "1": "Com suas asas te cobrirá, Deus velará por ti."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Deus cuidará de ti, Na tua dor, Com todo amor,",
+          "1": "Jamais te deixará! Deus cuidará de ti!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Se no teu peito vibrar a dor, Deus velará por ti.",
+          "1": "Tu já provaste seu grande amor, Deus velará por ti."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nos desalentos, nas provações; Deus velará por ti.",
+          "1": "Nas desventuras, nas tentações, Deus velará por ti."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Como estiveres, não temas, vem! Deus velará por ti.",
+          "1": "Teu Pai bondoso te espera além, Deus velará por ti."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 166 - Luz e Vida",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 166,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "És da minha alma a luz Senhor!",
+          "1": "Vem dissipar o meu temor!",
+          "2": "Noite não há se perto estás, Em ti alcanço plena paz."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Sempre comigo estás, Senhor!",
+          "1": "Só tenho vida em teu amor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Do dia esvai-se toda a luz, Sigo bem junto a ti Jesus.",
+          "1": "Com os enfermos vem estar, Os pobres vem alimentar!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Aos que no leito sofrem dor",
+          "1": "Dá teu conforto e paz, Senhor."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "E desde cedo, ao despertar, O nosso passo vem guiar!",
+          "1": "Na imensidão do teu amor",
+          "2": "Vem nos guardar, ó Salvador. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 167 - Cristo, Esperança Nossa",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 167,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "“Cristo esperança nossa!” Vinde, ó salvos proclamar!",
+          "1": "Ele é eterno Deus bendito, É refúgio singular."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "É quem guarda, quem protege,",
+          "1": "Quem aos homens quer salvar,",
+          "2": "Quem aos homens quer salvar,"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "“Cristo, esperança nossa!” Pois da culpa nos livrou;",
+          "1": "Com seu sangue precioso Lá na cruz já nos comprou."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Deu nos vida em sua morte,",
+          "1": "Pois que já ressuscitou, Pois que já ressuscitou."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "“Cristo esperança nossa!” Eis o lema vencedor.",
+          "1": "Ao seu lado, contra as trevas, Combatamos sem temor."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Nossa grande esperança",
+          "1": "É o Cristo Salvador, É o Cristo salvador!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 168 - Jesus Amado",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 168,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quão doce fala ao coração Do pobre pecador",
+          "1": "O nome que lhe traz perdão: Jesus, o Redentor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Bendito sejas, ó Jesus! Em ti confiarei.",
+          "1": "Por mim morreste sobre a cruz, Jamais te deixarei!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jesus, eu quero em ti pensar, Pois teu amor me apraz.",
+          "1": "E ajoelhando-me a orar, Eu sinto a tua paz!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jesus, meu Rei, meu Salvador, Teu Nome quero ter",
+          "1": "Não só nos lábios, com fervor,",
+          "2": "Mas sempre no viver! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 169 - Grata Confiança",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 169,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "No poder do Deus bendito, Vai tudo bem!",
+          "1": "Se amor é infinito, Vai tudo bem!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Esse amor nos foi provado Em seu Filho muito amado",
+          "1": "Que por nós foi imolado! Vai tudo bem."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Reina Cristo em glória eterna! Vai tudo bem!",
+          "1": "Ressurgiu, e já governa! Vai tudo bem!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Seu amor é imutável, Seu poder inabalável,",
+          "1": "Seu cuidado é incansável! Vai tudo bem!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Na doença ou na tristeza, Vai tudo bem!",
+          "1": "Proclamamos com certeza: Vai tudo bem!"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pois se Deus é quem nos guia, Ternamente nos vigia,",
+          "1": "Com bondade, noite e dia, Vai tudo bem!"
+        }
+      },
+      {
+        "id": 6,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Em caminhos escabrosos, Vai tudo bem!",
+          "1": "Ou por mares tormentosos, Vai tudo bem!"
+        }
+      },
+      {
+        "id": 7,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A Jesus tudo obedece, Ele o mesmo permanece",
+          "1": "Nem um só dos seus esquece, Vai tudo bem!"
+        }
+      },
+      {
+        "id": 8,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quer na vida, quer na morte, Vai tudo bem!",
+          "1": "Mui feliz é nossa sorte, Vai tudo bem!"
+        }
+      },
+      {
+        "id": 9,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pelo sangue resgatados, E do mundo separados,",
+          "1": "Sempre por Jesus guardados, Vai tudo bem!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 170 - Redentor Onipotente",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 170,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Redentor Onipotente Poderoso Salvador,",
+          "1": "Advogado Onisciente É Jesus, meu bom Senhor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Um abrigo sempre perto Para todo pecador!",
+          "1": "Um amigo inseparável É Jesus, meu Salvador!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Á água viva, Pão da vida, Doce sombra no calor",
+          "1": "Que ao descanso nos convida É Jesus, meu Salvador!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sol que extingue densas trevas,",
+          "1": "Refulgindo em plena luz,",
+          "2": "Negra noite desfazendo, É meu bom Senhor, Jesus."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Fundamento inabalável! Em que posso confiar!",
+          "1": "Infalível, imutável, Rocha firme e secular!"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Porta aberta, sempre aberta, Conduzindo à salvação,",
+          "1": "Rica fonte donde emana Gozo, paz, consolação!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 171 - Deus Proverá",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 171,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Na forte aflição, perigo e dor,",
+          "1": "Na vil traição, no horrendo terror,",
+          "2": "Com toda certeza vitória virá!",
+          "3": "É firme a esperança: “Meu Deus proverá.”"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Em tudo o Senhor nos pode valer,",
+          "1": "Do mal, com amor, nos quer defender!",
+          "2": "Com Cristo bem perto, em nós se achará",
+          "3": "A viva esperança: “Meu Deus proverá.”"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "No rude labor, no esforço tenaz,",
+          "1": "Somente o Senhor vitória nos traz!",
+          "2": "Em sua bondade nos socorrerá,",
+          "3": "Conforme a esperança: “Meu Deus proverá.”"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Na hora final, a morte a chegar,",
+          "1": "A voz divinal nos há de alegrar!",
+          "2": "Minha alma, segura, então cantará",
+          "3": "A doce esperança: “Meu Deus proverá.”"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 172 - Chuvas de Bênçãos",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 172,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Chuvas de bênçãos teremos Pelas promessas de Deus;",
+          "1": "Tempos benditos trazendo",
+          "2": "Chuvas de bênçãos dos céus."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Chuvas de bênçãos, Chuvas de bênçãos dos céus !",
+          "1": "Tantas nós já recebemos, Outras rogamos a Deus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Chuvas de bênçãos teremos, Que do Senhor nos virão.",
+          "1": "Os pecadores indignos Graças dos céus obterão."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Chuvas de bênçãos teremos,",
+          "1": "Manda-nos ,pois, o Senhor.",
+          "2": "Dá-nos o gozo dos frutos Dos teus ensinos de amor!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Chuvas de bênçãos teremos,",
+          "1": "Chuvas mandadas dos céus,",
+          "2": "Bênçãos a todos os crentes,",
+          "3": "Bênçãos do nosso bom Deus."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 173 - Oração Vespertina",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 173,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vai fugindo o dia, breve a noite vem;",
+          "1": "Vespertina estrela já se avista além."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ao que mui cansado na tristeza jaz,",
+          "1": "Dá, Jesus bendito, teu descanso e paz!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Noite de sossego vimos te pedir;",
+          "1": "Em tuas mãos entregues, hemos de dormir."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "E quando acordarmos, faze, ó bom Senhor,",
+          "1": "Que nós te sirvamos com maior vigor. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 174 - Poderoso Salvador",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 174,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Confio em ti, meu Senhor, Contigo seguro eu estou",
+          "1": "Os ímpios vieste buscar!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Tu és poderoso , Tu és poderoso E podes salvar!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh! Livra minha alma, Senhor,",
+          "1": "Das malhas do vil tentador!",
+          "2": "Seus laços vem despedaçar!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "No mundo sofreste, ó Jesus,",
+          "1": "Por mim padeceste na cruz!",
+          "2": "Teu sangue me pode livrar!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Tu és poderoso, Tu és poderoso,",
+          "1": "E podes guardar! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 175 - O Servo do Senhor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 175,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quão bem aventurado o servo do Senhor,",
+          "1": "Que não faz aliança com o desprezador!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jamais o mau caminho dos ímpios quer seguir,",
+          "1": "Nem por seu vil conselho se deixa seduzir."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mas sumo regozijo em Deus alcançará ,",
+          "1": "E em sua lei divina, feliz, meditará."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Bem como a linda planta ele há de florescer!",
+          "1": "E junto às águas vivas, viçoso, irá crescer."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Em toda a sua vida os frutos brotarão,",
+          "1": "E em tudo o que ele intente vitórias surgirão."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mas, doutra sorte, os ímpios não podem prosperar,",
+          "1": "E suas esperanças na morte irão findar."
+        }
+      },
+      {
+        "id": 6,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mui breve nós veremos Jesus do céu descer,",
+          "1": "E sua Igreja inteira na glória receber."
+        }
+      },
+      {
+        "id": 7,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Então, os que desprezam o grande Salvador",
+          "1": "Perecerão malditos diante do Senhor."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 176 - Fidelidade do Cristão",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 176,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sempre fiéis, sim a ti nós seremos,",
+          "1": "Por tua graça, bendito Senhor!",
+          "2": "Sempre fiéis, nós por ti lutaremos",
+          "3": "Com teu poder., ó Jesus, Salvador.!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Sempre fiéis, irmãos aqui sejamos!",
+          "1": "Sempre fiéis a Cristo Jesus!",
+          "2": "Que até à morte por nós prosseguindo,",
+          "3": "Vida nos deu, salvação pela cruz!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Por ti viver, ó bendito Cordeiro,",
+          "1": "Quem não deseja se te conhecer?",
+          "2": "Quem, se de fato é cristão verdadeiro,",
+          "3": "Não estará, por ti, pronto a sofrer?"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nós te louvamos, pois Tu, que venceste,",
+          "1": "Sempre em triunfo nos podes levar.",
+          "2": "A teus fiéis, ó Jesus, prometeste",
+          "3": "Todos os dias com ele estar. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 177 - Firme nas Promessas",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 177,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Firme nas promessas do meu Salvador,",
+          "1": "Cantarei louvores ao meu Criador!",
+          "2": "Fico, pelos séculos do seu amor,",
+          "3": "Firme nas promessas de Jesus!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Firme, Firme,",
+          "1": "Firme nas promessas",
+          "2": "De Jesus me Mestre!",
+          "3": "Firme, firme,",
+          "4": "Sim, firme nas promessas de Jesus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Firme nas promessas, hei de trabalhar,",
+          "1": "Tendo o Verbo eterno sempre a me amparar!",
+          "2": "Mesmo em tempestade vou sem vacilar,",
+          "3": "Firme nas promessas de Jesus!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Firme nas promessas, sempre vejo, assim,",
+          "1": "Purificação no sangue para mim!",
+          "2": "Plena liberdade já desfruto, enfim;",
+          "3": "Firme nas promessas de Jesus!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Firme nas promessas do Senhor Jesus,",
+          "1": "Em amor ligado sempre à sua cruz!",
+          "2": "Cada dia mais me alegro em sua luz,",
+          "3": "Firme nas promessas de Jesus!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 178 - A Excelência do Amor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 178,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Qual o adorno desta vida? É o amor, é o amor.",
+          "1": "Alegria é concedida Pelo amor, pelo amor"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "É benigno, é paciente, Não se torna maldizente",
+          "1": "Não se torna maldizente Nem se ufana este amor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Com suspeitas não se alcança Vero amor, vero amor!",
+          "1": "Onde houver desconfiança, Ai do amor, ai do amor!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pois mostremos lealdade, Combatendo a falsidade",
+          "1": "Combatendo a falsidade Que destrói este amor."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Não te irrites, mas tolera Com amor, com amor!",
+          "1": "Tudo sofre , tudo espera Pelo amor, pelo amor."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O caminho excelente Ao segui-lo vence o crente,",
+          "1": "Ao segui-lo vence o crente Numa vida de amor!"
+        }
+      },
+      {
+        "id": 6,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó cristão, ao teu vizinho Mostra amor, mostra amor!",
+          "1": "O valor não é mesquinho Deste amor, deste amor."
+        }
+      },
+      {
+        "id": 7,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O supremo Deus nos ama;",
+          "1": "Cristo para o céu nos chama,",
+          "2": "Cristo para o céu nos chama, Onde reina este amor."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 179 - Saudação",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 179,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Saudamo-vos, irmãos em Cristo,",
+          "1": "Lembrando o que temos visto:",
+          "2": "Nesses anos, pelas lutas, tentações.",
+          "3": "Atendidas foram nossas petições."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Toda a glória seja ao nome do Senhor!",
+          "1": "Vinde todos entoar o seu louvor!",
+          "2": "Bem alto agora vamos nós cantar,",
+          "3": "Que a terra e os céus virão nos ajudar."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Até aqui Deus mesmo nos guiou,",
+          "1": "E com a sua mão nos ajudou.",
+          "2": "Um dia tão glorioso temos,",
+          "3": "E ao nosso Pai agradecemos,",
+          "4": "Pois é ele quem nos dá real prazer;",
+          "5": "E é fiel em nos guardar e proteger!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Vinde vós, irmãos, conosco a Deus cantar,",
+          "1": "Desta bênção vinde, pois, participar!",
+          "2": "Alegres todos jubilemos,",
+          "3": "Ao grande Salvador cantemos!",
+          "4": "Ele como filhos seus nos escolheu",
+          "5": "Ricas bênçãos ele já nos concedeu."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Seja “avante” o nosso lema triunfal,",
+          "1": "Pois seguimos para o lar celestial."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 180 - Amor Fraternal",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 180,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A mesma fé nos une num só divino amor,",
+          "1": "E cheios de alegria servimos ao Senhor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Num só caminho estreito Deus mesmo nos conduz,",
+          "1": "Só temos esperança no Salvador Jesus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sua morte preciosa a todos vida traz;",
+          "1": "E pelo mesmo sangue nos vem a mesma paz."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pois sendo resgatados por um só Salvador,",
+          "1": "Vivamos sempre unidos por mais ardente amor!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Com simpatia olhando os erros de um irmão,",
+          "1": "Cuidando de ajudá-lo com branda compaixão."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jesus, bondoso Amigo, ensina-nos a amar.",
+          "1": "E, como Tu fizeste, também a perdoar!"
+        }
+      },
+      {
+        "id": 6,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pois tanto carecemos do auxilio teu, Senhor!",
+          "1": "Unidos, graças damos por teu imenso amor. Amém."
+        }
+      },
+      {
+        "id": 7,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jesus, Pastor amado! Louvamos-te hoje, aqui,",
+          "1": "Unidos pela graça, um corpo só em ti."
+        }
+      },
+      {
+        "id": 8,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Contendas e malícias, que longe de nós vão,",
+          "1": "Nenhum desgosto impeça a nossa santa união."
+        }
+      },
+      {
+        "id": 9,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Família unida somos, família de Jesus!",
+          "1": "Iluminados todos da mesma santa luz."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 181 - Irmãos em Jesus",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 181,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Bem-vindos, irmãos em Jesus,",
+          "1": "A nós, bem unidos na paz",
+          "2": "Que Cristo nos dá pela cruz, Com graça divina, eficaz."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Saudamos com santo prazer",
+          "1": "Aos crentes em nosso Senhor,",
+          "2": "Pois juntos queremos viver, Honrando o fiel Benfeitor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "De quanta ternura e amor Podemos aqui partilhar!",
+          "1": "E em Cristo, no riso ou na dor,",
+          "2": "Real comunhão desfrutar."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Unidos vivemos aqui; Unidos seremos nos céus.",
+          "1": "Alegres, cantando ali A grande clemência de Deus."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 182 - União Fraterna",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 182,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Que grande bênção é Estarem com amor,",
+          "1": "Irmãos, ligados pela fé, Louvando ao Salvador!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O mundo observará Tão santa e doce paz;",
+          "1": "E admirado ficará Com a bênção que ela traz."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mandaste aos teus, Jesus, Da divinal mansão,",
+          "1": "O Santo Espírito que produz",
+          "2": "Tão plena comunhão. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 183 - Benditos Laços",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 183,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Benditos laços são Os do fraterno amor,",
+          "1": "Que assim em santa comunhão Nos unem no Senhor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ao mesmo trono, além, Vão nossas petições;",
+          "1": "É mútuo o gozo, e a dor também, Dos nossos corações."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Aqui tudo é comum: Tristeza e prazer;",
+          "1": "Em Cristo somos todos um: É este o seu querer."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Se desta santa união Nos vamos separar,",
+          "1": "No céu eterna comunhão Havemos de gozar."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 184 - Face a Face",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 184,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Em breve a vida vou findar, Não mais aqui eu cantarei!",
+          "1": "Nos céus então, irei morar Lá na presença do meu Rei"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "E face a face vê-lo-ei, Liberto e salvo cantarei!",
+          "1": "E face a face vê-lo-ei, Liberto e salvo cantarei."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "E seja o dia quando for Que Deus me chame para lá,",
+          "1": "Bem certo estou que o Salvador Contente me receberá."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A doce voz me soará De Cristo, amável Redentor!",
+          "1": "“Fiel, bom servo, bem está, Entra no gozo do Senhor.”"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Por meu Jesus eu vou viver E minha luz farei brilhar.",
+          "1": "De dia em dia hei de fazer",
+          "2": "O que ao meu Salvador honrar."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 185 - Glória Vindoura",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 185,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "No tempo em que meu trabalho acabar",
+          "1": "E enfim de Deus a presença gozar,",
+          "2": "E quando a Cristo eu puder contemplar,",
+          "3": "Oh, quanta glória haverá com Jesus!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Sim, haverá glória sem par,",
+          "1": "Junto a Jesus, glória sem fim!",
+          "2": "Oh, quando a Cristo eu puder contemplar",
+          "3": "Glória, sim, glória haverá com Jesus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "No tempo em que Cristo, o meu Redentor,",
+          "1": "Tiver de dar-me o seu “vinde!” de amor,",
+          "2": "Transposto, enfim, o meu vale de dor,",
+          "3": "Oh, quanta glória haverá com Jesus!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "No tempo em que meus irmãos for rever",
+          "1": "Lá nos fulgores do céu que prazer!",
+          "2": "Sim, quando junto a Jesus for viver,",
+          "3": "Oh, quanta glória haverá com Jesus!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 186 - O Lar do Céu",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 186,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, pensai nesse lar lá do céu,",
+          "1": "Nas gloriosas moradas de luz,",
+          "2": "Onde os crentes, felizes, desfrutam",
+          "3": "Da presença de Cristo Jesus."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Oh, pensai! Oh, pensai!",
+          "1": "Oh, pensai nesse lar lá do céu!",
+          "2": "Lá do céu, lá do céu, lá do céu!",
+          "3": "Oh, pensai nesse lar lá do céu!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, pensai nos amigos no céu,",
+          "1": "Que venceram a luta afinal,",
+          "2": "E nos cantos que sempre ressoam",
+          "3": "Na harmonia do lar eternal."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Hei de ver, lá no céu, meu Jesus,",
+          "1": "Face a face seu rosto mirar!",
+          "2": "E bem longe cuidados, tristezas,",
+          "3": "Para sempre com ele habitar."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sem demora no céu estarei;",
+          "1": "Vejo o fim da jornada chegar.",
+          "2": "Meu bondoso Jesus lá me espera",
+          "3": "Para as bênçãos eternas me dar."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 187 - Cidade Celestial",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 187,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tenho lido da bela cidade,",
+          "1": "Situada no reino de Deus,",
+          "2": "Com seus muros de jaspe luzente,",
+          "3": "Juncada com áureos troféus!",
+          "4": "Lá no meio da praça está o rio",
+          "5": "Da vida e vigor eternal,",
+          "6": "Mas metade da glória celeste",
+          "7": "Jamais se contou ao mortal!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Jamais se contou ao mortal,",
+          "1": "Jamais se contou ao mortal!",
+          "2": "Metade da glória celeste",
+          "3": "Jamais se contou ao mortal!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tenho lido dos belos palácios",
+          "1": "Que Jesus foi no céu preparar,",
+          "2": "Onde os crentes, fiéis, mui felizes,",
+          "3": "Irão para sempre habitar;",
+          "4": "Nem tristeza, nem dor, nem velhice",
+          "5": "Atingem a mansão eternal;",
+          "6": "Mas metade da glória celeste",
+          "7": "Jamais se contou ao mortal!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tenho lido das vestes brilhantes,",
+          "1": "Das coroas que os salvos terão,",
+          "2": "Quando o Pai os chamar, proclamando:",
+          "3": "“Tereis eternal galardão.”",
+          "4": "Tenho lido que os santos na glória",
+          "5": "Pisam ruas de ouro e cristal;",
+          "6": "Mas metade da glória celeste",
+          "7": "Jamais se contou ao mortal!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tenho lido da história bendita",
+          "1": "De Jesus, o fiel Redentor,",
+          "2": "Que por nós padeceu no Calvário",
+          "3": "E aceita o mais vil pecador.",
+          "4": "Tenho lido do sangue vertido",
+          "5": "Que a todos redime do mal;",
+          "6": "Mas metade da glória celeste",
+          "7": "Jamais se contou ao mortal!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 188 - Clara Luz",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 188,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quanta dor, quanta amargura",
+          "1": "Vem meu peito retalhar!",
+          "2": "Não importa, se diviso",
+          "3": "Clara luz além brilhar!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nela, cheio de esperança,",
+          "1": "Cravo os olhos tristes meus:",
+          "2": "Ela é selo e garantia",
+          "3": "Do supremo amor de Deus."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Deus predestinou-me e fala:",
+          "1": "“Tens em Cristo a redenção;",
+          "2": "Sou a luz dos pecadores,",
+          "3": "Dissipando a escuridão."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "“Vamos, vamos companheiros,",
+          "1": "Caminhemos nessa luz,",
+          "2": "Que através da escura noite",
+          "3": "Resplandece sobre a cruz"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eia, avante, a passos largos,",
+          "1": "Vamos, vamos sem parar!",
+          "2": "Ficará em densas trevas",
+          "3": "Quem na luz não caminhar!"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pois nos mostra a bela terra",
+          "1": "Donde mana leite e mel;",
+          "2": "Essa luz jamais se apaga, Pois provém do Deus fiel."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 189 - Jerusalém Celeste",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 189,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jerusalém celeste, de fúlgido esplendor.",
+          "1": "És vívida esperança da Igreja do Senhor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Teus muros fulgurantes avisto pela fé,",
+          "1": "E ansioso em alcançar-te mantenho-me de pé!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "É Deus quem te ilumina, perene é tua luz;",
+          "1": "Refletes, incessante, a glória de Jesus."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Que alegre canto inspiras, oh divinal mansão,",
+          "1": "Saber que és alvo eterno da peregrinação."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cidade radiosa, sem noite, morte ou mal,",
+          "1": "Que neste pobre mundo atinge o que é mortal."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Exulta, ó alma crente, eis teu glorioso lar,",
+          "1": "Que Cristo, redivivo, no céu foi preparar."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 190 - Maior que a Dor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 190,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Se amarga for aqui a vida, Irmãos, volvei o vosso olhar",
+          "1": "A quem na cruz infame, erguida,",
+          "2": "Por vós sofreu sem murmurar."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A dor assola o mundo inteiro,",
+          "1": "Quem pode alegre sempre andar?",
+          "2": "Na vida tudo é passageiro: O sofrimento, o bem-estar."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Porém, o verdadeiro gozo, No céu, Jesus irá vos dar,",
+          "1": "Pois ele diz: “No lar formoso",
+          "2": "Vou preparar-vos um lugar.”"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 191 - Rio da Vida",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 191,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Fonte de amor perene, Manancial de luz!",
+          "1": "Água da vida corre Do trono de Jesus!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Calmo rio! Belo rio! Quero estar, também,",
+          "1": "Onde as águas sempre correm Desse rio além."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Muitos de nós já foram Cantar no céu louvor",
+          "1": "Com os remidos cantam A Cristo, o Redentor."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Límpida fonte corre, Brilhante corre a flux;",
+          "1": "Quem fez aquela alvura? O sangue de Jesus."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 192 - No Céu com Jesus",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 192,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Junto ao trono de Deus, preparado,",
+          "1": "Há cristão um lugar para ti;",
+          "2": "Há alegria perene ao seu lado,",
+          "3": "Há profusas delícias ali;"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Sim ali, sim, ali De seus anjos fiéis rodeado",
+          "1": "Numa esfera de glória e de luz,",
+          "2": "Junto ao Pai nos espera Jesus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Os encantos da terra não podem",
+          "1": "Dar idéia do gozo dali!",
+          "2": "Se na terra os prazeres acodem,",
+          "3": "Tais prazeres se findam aqui."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Mas ali, mas, ali As venturas eternas concorrem",
+          "1": "Com o brilho perpétuo da luz,",
+          "2": "A tornar-te feliz com Jesus."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Conservemos em nossa lembrança",
+          "1": "As riquezas do lindo país,",
+          "2": "E guardemos conosco a esperança",
+          "3": "Duma vida melhor, mais feliz!"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Pois ali, pois ali O cristão, pela fé, sempre alcança",
+          "1": "As riquezas do Reino de luz,",
+          "2": "Prometidas por Cristo Jesus."
+        }
+      },
+      {
+        "id": 6,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quem quiser desfrutar da ventura",
+          "1": "Que no belo país haverá,",
+          "2": "É somente pedir de alma pura,",
+          "3": "Que de graça Jesus lhe dará."
+        }
+      },
+      {
+        "id": 7,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Pois dali, pois dali, Todo cheio de amor, de ternura,",
+          "1": "Desse amor que mostrou lá na cruz,",
+          "2": "Nos atende, nos ouve Jesus."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 193 - Aspiração do Céu",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 193,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Vou à Pátria - eu, peregrino - ,",
+          "1": "A viver eternamente com Jesus",
+          "2": "Que concedeu-me feliz destino",
+          "3": "Quando, ferido, por mim morreu na cruz."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Vou à Pátria - eu peregrino -",
+          "1": "A viver eternamente com Jesus!",
+          "2": "Vou à Pátria - eu peregrino -",
+          "3": "A viver eternamente com Jesus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dor e pena, tristeza e morte",
+          "1": "Lá no céu jamais o salvo encontrará!",
+          "2": "E desfrutando de Cristo a sorte,",
+          "3": "Eternamente a Deus exaltará."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Terra santa, formosa e pura,",
+          "1": "Salvo por Jesus eu entrarei em ti;",
+          "2": "Felicidade, paz e ventura, Perfeitamente desfrutarei ali."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 194 - Morada Feliz",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 194,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Com Jesus há morada feliz,",
+          "1": "Prometida e segura nos céus.",
+          "2": "Avistamos o lindo País, Pela fé na Palavra de Deus."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Com Jesus, no porvir, Viveremos no lindo País!",
+          "1": "Com Jesus no porvir, Viveremos, no lindo País!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pacientes podemos penar,",
+          "1": "Se sofrermos por Cristo Jesus!",
+          "2": "Pois sem culpa, sem falta ou pesar,",
+          "3": "Viveremos no Reino de luz!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "No descanso perfeito, eternal,",
+          "1": "Desfrutando o labor que passou,",
+          "2": "Cantaremos em tom triunfal,",
+          "3": "Os louvores de quem nos amou."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 195 - Dormindo no Senhor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 195,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dormindo no Senhor, Bendito é nosso irmão!",
+          "1": "Perante o trono, vencedor, Desfruta a salvação"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dormindo no Senhor, Liberto já do mal,",
+          "1": "Deixando o mundo e seu labor, Descansa em paz real."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dormindo no Senhor Na glória de Jesus,",
+          "1": "Perante o grande redentor, Nos céus, vivendo em luz."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dormindo no Senhor! É doce assim morrer!",
+          "1": "Do crente a morte sem terror, É ir com Deus viver."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dormindo no Senhor! Ao pó seu corpo irá,",
+          "1": "Mas Deus, um dia, com poder O ressuscitará."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Os mortos viverão! E os vivos, com fulgor,",
+          "1": "Ao teu encontro subirão! Oh, vem, Jesus Senhor!"
+        }
+      },
+      {
+        "id": 6,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "De glória eterna, Senhor, te cobriste!",
+          "1": "Em ti, de ti e por ti tudo existe!",
+          "2": "Nós te adoramos na voz deste canto,",
+          "3": "Deus Pai, Deus Filho e Espírito Santo. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 196 - Gozo, Esplendores, Venturas",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 196,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, quanto gozo, esplendores, venturas,",
+          "1": "Hão de fruir as fiéis criaturas!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Paz e descanso terão os cansados,",
+          "1": "Pelo Senhor serão galardoados!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jerusalém, oh, celeste cidade",
+          "1": "Pátria gloriosa de felicidade;"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Lar ideal, sem pecado, sem jaça,",
+          "1": "Sob o império inefável da Graça!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Na mais completa e feliz harmonia,",
+          "1": "Regozijando em perene alegria,"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nós cantaremos eternos louvores,",
+          "1": "Com gratidão ao Senhor dos senhores"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 197 - O Salvador Espera",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 197,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jesus quer entrar hoje em teu coração,",
+          "1": "E para sempre ficar.",
+          "2": "E há de outorgar-te seu pleno perdão,",
+          "3": "Quando, afinal, ele entrar."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh! Quantas vezes Jesus te chamou,",
+          "1": "E agora ele volta a chamar.",
+          "2": "Real salvação com seu sangue comprou,",
+          "3": "Para, de graça, te dar."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Se Cristo adentrar esse teu coração,",
+          "1": "E em tua vida reinar,",
+          "2": "Que paz infinita, que satisfação",
+          "3": "Sua presença há de te dar."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 198 - Salvação Graciosa",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 198,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eis mensagem do Senhor, Aleluia!",
+          "1": "Palavras do bom Deus de amor!",
+          "2": "Cristo salva o pecador, aleluia!",
+          "3": "Salva até por meio de um olhar!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Oh, olhai, com fé, olhai! Sim, olhai só a Jesus!",
+          "1": "Ele salva o pecador, Aleluia!",
+          "2": "Sim, salva quem confiante olhar!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vossa dívida pagou, Aleluia!",
+          "1": "Jesus a satisfez na cruz."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sua vida ele entregou, Aleluia!",
+          "1": "Para vos apresentar a Deus"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Esta oferta Cristo faz, Aleluia!",
+          "1": "Eterna vida lá nos céus."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Redenção aqui vos traz, Aleluia",
+          "1": "Convertei-vos já ao Salvador!"
+        }
+      },
+      {
+        "id": 6,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Aceitai a salvação, Aleluia",
+          "1": "Segui os passos do Senhor!"
+        }
+      },
+      {
+        "id": 7,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Anunciai o seu perdão, Aleluia!",
+          "1": "Proclamai a grande Redenção!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 199 - Cristo Salva",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 199,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cristo salva o pecador, Dá-lhe um novo coração;",
+          "1": "Ao contrito, com amor, Oferece salvação."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Confiai em seu poder Confiai em seu amor!",
+          "1": "Crede já que Cristo quer Libertar o pecador"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cristo salva o pecador E concede-lhe perdão;",
+          "1": "Aceitai o bom Senhor Aceitai de coração"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vinde todos e achareis Plena paz no Redentor;",
+          "1": "Vinde, e então recebereis Vida eterna no Senhor."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 200 - Palavra Abençoada",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 200,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Palavra abençoada,",
+          "1": "Convite que contém",
+          "2": "Promessa e cumprimento",
+          "3": "Com infinito bem.",
+          "4": "“Oh, vinde a mim!” conclama",
+          "5": "O Cristo o Salvador,",
+          "6": "Seus braços estendendo",
+          "7": "Ao pobre pecador."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Vinde, oh, vinde a mim!",
+          "1": "Tristes alquebrados,",
+          "2": "Vinde, oh, vinde a mim!",
+          "3": "Vinde, oh vinde a mim!",
+          "4": "Fracos e cansados,",
+          "5": "Vinde, oh, vinde a mim!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Por que viver tão longe",
+          "1": "Da graça de Jesus?",
+          "2": "Por que vagar nas trevas,",
+          "3": "Podendo andar na luz?"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Da vida sem proveito,",
+          "1": "Da culpa e perdição,",
+          "2": "Corramos para a senda",
+          "3": "Da eterna salvação."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Em tudo agora e sempre,",
+          "1": "Ouçamos o Senhor;",
+          "2": "Pois há descanso e alívio",
+          "3": "No seu profundo amor.",
+          "4": "Assim conheceremos",
+          "5": "O gozo que produz",
+          "6": "No coração submisso",
+          "7": "O “vinde” de Jesus."
+        }
+      }
+    ]
+  }
+]

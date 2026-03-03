@@ -1,0 +1,51 @@
+{
+  "title": "Amigo Fiel",
+  "artist": "Diante do Trono",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "nao-ha-maior-nao-ha-igual-a-Ti",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Não há maior",
+        "1": "Não há igual a Ti",
+        "2": "Amigo fiel",
+        "3": "Consolador, Tu És"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Eu quero me entregar",
+        "1": "Eu quero derramar",
+        "2": "A minha vida em Teu altar",
+        "3": "A minha vida em Teu altar"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Atrai-me, Senhor",
+        "1": "Eu correrei para Ti",
+        "2": "Em Teus braços de amor, me esconderei",
+        "3": "Atrai-me"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Tu me sondas e conheces",
+        "1": "Vê se há em mim algum caminho mau",
+        "2": "És o meu esconderijo",
+        "3": "Tu me cercas com alegres cantos de livramento"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Jesus Em Tua Presença",
+  "artist": "Quatro Por Um",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "Jesus-em-tua-presenca",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Jesus, em Tua presença reunimo-nos aqui",
+        "1": "Contemplamos Tua face e rendemo-nos a Ti",
+        "2": "Pois um dia Tua morte trouxe vida a todos nós",
+        "3": "E nos deu completo acesso ao coração do Pai"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "O véu que separava já não separa mais",
+        "1": "A luz que outrora apagada agora brilha",
+        "2": "E cada dia brilha mais"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Só pra Te adorar",
+        "1": "E fazer Teu nome grande",
+        "2": "E Te dar o louvor que é devido"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Estamos nós aqui",
+        "1": "Estamos nós aqui"
+      }
+    }
+  ]
+}

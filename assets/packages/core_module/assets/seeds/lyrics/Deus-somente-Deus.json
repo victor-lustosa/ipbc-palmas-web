@@ -1,0 +1,55 @@
+{
+  "title": "Deus, Somente Deus",
+  "artist": "Vencedores Por Cristo",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "Deus-somente-Deus",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Deus, somente Deus",
+        "1": "Criou o mundo e o que nele há",
+        "2": "O ser que pode respirar",
+        "3": "Existe pra mostrar",
+        "4": "A glória do Senhor"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Deus, somente Deus",
+        "1": "Os seus mistérios pode revelar",
+        "2": "Os seu desígnios, quem jamais",
+        "3": "Um dia conheceu",
+        "4": "Pois Deus, somente é Deus"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Deus, somente Deus",
+        "1": "Domina o trono do universo",
+        "2": "Que a voz da criação",
+        "3": "Se erga para dar",
+        "4": "Louvor somente a Deus"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Deus, somente Deus",
+        "1": "Eternamente em nós há de inspirar",
+        "2": "A alegria de adorar",
+        "3": "Desejo de exaltar",
+        "4": "A Deus somente a Deus"
+      }
+    }
+  ]
+}

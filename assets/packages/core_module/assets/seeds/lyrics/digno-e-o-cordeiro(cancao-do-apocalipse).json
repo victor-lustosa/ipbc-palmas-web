@@ -1,0 +1,58 @@
+{
+  "title": "Canção do Apocalipse",
+  "artist": "Diante do Trono",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "digno-e-o-cordeiro(cancao-do-apocalipse)",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Digno é o Cordeiro que foi morto",
+        "1": "Santo, Santo Ele é",
+        "2": "Um novo cântico ao que se assenta",
+        "3": "Sobre o trono do Céu"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Santo, Santo, Santo",
+        "1": "Deus Todo Poderoso",
+        "2": "Que era, e é, e há de vir",
+        "3": "Com a criação, eu canto",
+        "4": "Louvores ao Rei dos reis",
+        "5": "És tudo para mim e eu Te adorarei"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Está vestido do arco-íris",
+        "1": "Sons de trovão, luzes, relâmpagos",
+        "2": "Louvores, honra e glória",
+        "3": "Força e poder pra sempre",
+        "4": "Ao único Rei eternamente"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Jesus, Jesus",
+        "1": "Maravilhado, extasiado",
+        "2": "Eu fico ao ouvir Teu nome",
+        "3": "(Jesus, Jesus)",
+        "4": "Maravilhado, extasiado",
+        "5": "Eu fico ao ouvir Teu nome",
+        "6": "Jesus, Teu nome é força",
+        "7": "É fôlego de vida, misteriosa água viva"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Alfa e Ômega",
+  "artist": "Asaph Borba",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "Tu-que-estas-assentado(alfa-e-omega)",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Tu, que estás assentado no trono",
+        "1": "Sempre reinando, soberano",
+        "2": "Anjos cantando, homens louvando",
+        "3": "Deus reunido com Seu povo"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Ó, ó, Alfa, Ômega, Cristo (Cristo), Filho",
+        "1": "Ó, vem, ó, vem, ó, vem, Senhor Jesus",
+        "2": "Ó, ó, Alfa, Ômega, Cristo (Cristo), Filho",
+        "3": "Ó, vem, ó, vem, ó, vem, Senhor Jesus"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Ansioso, espero a Tua volta",
+        "1": "O grande dia em que Tu virás",
+        "2": "Então subiremos, Contigo estaremos",
+        "3": "Pra todo o sempre, aleluia"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Maranata, Cristo, Filho, Mestre",
+        "1": "Ó, vem, ó, vem, ó, vem, Senhor Jesus",
+        "2": "Maranata, Cristo, Filho (Filho), Mestre",
+        "3": "Ó, vem, ó, vem, ó, vem, Senhor Jesus"
+      }
+    }
+  ]
+}

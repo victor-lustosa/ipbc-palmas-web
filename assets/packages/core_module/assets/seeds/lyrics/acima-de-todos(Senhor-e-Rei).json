@@ -1,0 +1,53 @@
+{
+  "title": "Senhor e Rei",
+  "artist": "Trazendo a Arca",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "acima-de-todos(Senhor-e-Rei)",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Acima de todos, acima de tudo",
+        "1": "Está o Senhor entronizado",
+        "2": "Os anjos e os homens, os céus e a terra",
+        "3": "Montanhas e mares declaram que Tu és"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Tu és Senhor e Rei",
+        "1": "Governas sobre o universo, Justo e Fiel",
+        "2": "Vestido de Glória e Poder",
+        "3": "Coroado estás",
+        "4": "Pra sempre reinarás"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Prostrados aos teus pés",
+        "1": "Erguemos o teu santo nome, Em adoração",
+        "2": "Nos entregamos a Ti, Toma o Teu lugar",
+        "3": "E habita entre nós"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Oh, Santo Deus",
+        "1": "Oh, Santo Deus",
+        "2": "(Santo Deus, Santo Deus, Santo Deus)",
+        "3": "Tu és Santo!",
+        "4": "Tu és Santo!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Oração",
+  "artist": "Purples",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "meu-Jesus-a-Ti-me-achego(Oracao)",
+  "format": "jpeg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Meu Jesus, a Ti me achego",
+        "1": "Com temor no coração",
+        "2": "És o meu maior anseio",
+        "3": "Rei da minha salvação",
+        "4": "Pai, a Ti eu agradeço",
+        "5": "Por tão infinito amor",
+        "6": "Que recebe com carinho",
+        "7": "Este pobre pecador"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Boa é Tua vontade",
+        "1": "De um onisciente Deus",
+        "2": "Que meus planos sempre estejam",
+        "3": "Conectados com os Teus",
+        "4": "Ó, perdoa os meus pecados",
+        "5": "Venha me disciplinar",
+        "6": "Que a pureza de Tua glória",
+        "7": "Venha em mim habitar"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Santo e majestoso Deus",
+        "1": "Exaltado És Senhor",
+        "2": "Coroado sobre a terra",
+        "3": "Em Tua glória e esplendor",
+        "4": "Teu é todo o domínio",
+        "5": "Toda honra e poder",
+        "6": "Pelos séculos dos séculos",
+        "7": "Amém"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Sejas Tu meu pensamento",
+        "1": "Ao dormir e ao acordar",
+        "2": "Dá-me sede da palavra",
+        "3": "Sempre nela a meditar",
+        "4": "Faz de mim pequeno Cristo",
+        "5": "Digno de ser filho Teu",
+        "6": "Anunciando as boas novas",
+        "7": "Salvação que vem de Deus"
+      }
+    },
+    {
+      "id": 4,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Ooooo",
+        "1": "A Ti a honra e a glória pra sempre",
+        "2": "Amém"
+      }
+    }
+  ]
+}

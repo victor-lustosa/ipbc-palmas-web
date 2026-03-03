@@ -1,0 +1,39 @@
+{
+  "title": "Te Agradeço",
+  "artist": "Ministério Koinonya de Louvor",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "te-agradeco",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Te agradeço, ó, Pai",
+        "1": "Pelo amor derramado",
+        "2": "Pela Tua provisão",
+        "3": "Nada tem nos faltado",
+        "4": "Pela Tua proteção",
+        "5": "E por Tua misericórdia",
+        "6": "Em tudo, Tu és Pai, Senhor"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Te agradeço, ó, Pai",
+        "1": "Te agradeço, ó, Filho",
+        "2": "Te agradeço, ó, Espírito do Senhor",
+        "3": "Pelas nossas provações",
+        "4": "Pelas nossas famílias",
+        "5": "Te agradeço, ó, Espírito do Senhor",
+        "6": "Pelo nossos irmãos",
+        "7": "Pela Tua igreja",
+        "8": "Te agradeço, ó, Espírito do Senhor"
+      }
+    }
+  ]
+}

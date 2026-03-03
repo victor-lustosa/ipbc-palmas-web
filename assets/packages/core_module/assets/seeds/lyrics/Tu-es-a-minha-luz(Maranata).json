@@ -1,0 +1,52 @@
+{
+  "title": "Maranata",
+  "artist": "Ministério Avivah",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "Tu-es-a-minha-luz(Maranata)",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Tu és a minha luz",
+        "1": "A minha salvação",
+        "2": "E a Ti me renderei",
+        "3": "Se ao Teu lado estou",
+        "4": "Seguro em Tuas mãos",
+        "5": "Eu nada temerei"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Ô, ô, ô, Tu és Santo, ó Senhor",
+        "1": "Ô, ô, ô, Tu és digno de louvor"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Só em Ti confiarei",
+        "1": "Eu nada temerei",
+        "2": "Em frente eu irei",
+        "3": "Pois eu sei que vivo estás!",
+        "4": "E um dia voltarás",
+        "5": "Do céu pra nos buscar",
+        "6": "Para sempre reinarás, aleluia!"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Vem Jesus, vem Jesus!",
+        "1": "Maranata ora, vem Senhor Jesus!"
+      }
+    }
+  ]
+}

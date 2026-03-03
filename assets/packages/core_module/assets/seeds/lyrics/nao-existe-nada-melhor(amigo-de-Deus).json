@@ -1,0 +1,38 @@
+{
+  "title": "Amigo de Deus",
+  "artist": "Adhemar de Campos",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "nao-existe-nada-melhor(amigo-de-Deus)",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Não existe nada melhor",
+        "1": "Do que ser amigo de Deus",
+        "2": "Caminhar seguro na luz",
+        "3": "Desfrutar do seu amor"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Ter a paz no coração",
+        "1": "Viver sempre em comunhão"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "E assim perceber",
+        "1": "A grandeza do poder",
+        "2": "De Jesus, meu bom pastor"
+      }
+    }
+  ]
+}

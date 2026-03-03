@@ -1,0 +1,108 @@
+{
+  "title": "Consagração",
+  "artist": "Aline Barros",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "ao-Rei-dos-reis-consagro",
+  "format": "jpeg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Ao Rei dos reis, consagro tudo o que sou",
+        "1": "De gratos louvores, transborda o meu coração",
+        "2": "A minha vida, eu entrego nas Tuas mãos, meu Senhor",
+        "3": "Pra Te exaltar com todo meu amor"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Eu Te louvarei conforme a Tua justiça",
+        "1": "E cantarei louvores",
+        "2": "Pois Tu és altíssimo"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Celebrarei a Ti, ó Deus, com o meu viver",
+        "1": "Cantarei e contarei as Tuas obras",
+        "2": "Pois por Tuas mãos foram criados",
+        "3": "Terra, céu e mar, e todo ser que neles há"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Toda a terra celebra a Ti",
+        "1": "Com cânticos de júbilo",
+        "2": "Pois Tu és o Deus criador",
+        "3": "Toda a terra celebra a Ti",
+        "4": "Com cânticos de júbilo",
+        "5": "Pois Tu és o Deus Criador"
+      }
+    },
+    {
+      "id": 4,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Celebrarei a Ti, ó Deus, com o meu viver",
+        "1": "Cantarei e contarei as Tuas obras",
+        "2": "Pois por Tuas mãos foram criados",
+        "3": "Terra, céu e mar, e todo ser que neles há"
+      }
+    },
+    {
+      "id": 5,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Toda a terra celebra a Ti",
+        "1": "Com cânticos de júbilo",
+        "2": "Pois Tu és o Deus Criador",
+        "3": "Toda a terra celebra a Ti",
+        "4": "Com cânticos de júbilo",
+        "5": "Pois Tu és o Deus Criador",
+        "6": "Pois Tu és o Deus Criador",
+        "7": "Pois Tu és o Deus Criador"
+      }
+    },
+    {
+      "id": 6,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "A honra (a honra)",
+        "1": "A glória (a glória)",
+        "2": "A força (a força)",
+        "3": "E o poder ao Rei Jesus",
+        "4": "A honra (a honra)",
+        "5": "A glória (a glória)",
+        "6": "A força (a força)",
+        "7": "E o poder ao Rei Jesus",
+        "8": "E o louvor ao Rei Jesus"
+      }
+    },
+    {
+      "id": 7,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "A honra, a glória, a força",
+        "1": "E o poder ao Rei Jesus",
+        "2": "E o louvor ao Rei Jesus",
+        "3": "A honra (a honra)",
+        "4": "A glória (a glória)",
+        "5": "A força (a força)",
+        "6": "E o poder ao Rei Jesus",
+        "7": "E o louvor ao Rei Jesus",
+        "8": "A honra, a glória, a força",
+        "9": "E o poder ao Rei Jesus",
+        "10": "E o louvor ao Rei Jesus"
+      }
+    }
+  ]
+}

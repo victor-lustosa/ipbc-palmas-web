@@ -1,0 +1,31 @@
+{
+  "title": "Meu Refúgio",
+  "artist": "Ministério De Louvor Está Escrito",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "Es-o-meu-refugio",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "És o meu Refúgio",
+        "1": "Minha Fortaleza",
+        "2": "Meu socorro eterno",
+        "3": "És o meu abrigo"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Quando o mar se agitar",
+        "1": "Confiarei em Ti Senhor",
+        "2": "E se a Terra se abrir",
+        "3": "Confiarei em Ti meu Deus"
+      }
+    }
+  ]
+}

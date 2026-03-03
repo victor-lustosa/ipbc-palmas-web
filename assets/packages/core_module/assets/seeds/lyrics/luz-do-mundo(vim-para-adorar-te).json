@@ -1,0 +1,52 @@
+{
+  "title": "Vim Para Adorar-Te",
+  "artist": "Adoração & Adoradores",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "luz-do-mundo(vim-para-adorar-te)",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Luz do mundo vieste à terra",
+        "1": "Para que eu pudesse te ver",
+        "2": "Tua beleza me leva a adorar-Te",
+        "3": "Quero contigo viver"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Vim para adorar-Te",
+        "1": "Vim para prostrar-me",
+        "2": "Vim para dizer que és meu Deus",
+        "3": "És totalmente amável",
+        "4": "Totalmente digno",
+        "5": "Tão maravilhoso para mim"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Eterno Rei",
+        "1": "Exaltado nas alturas",
+        "2": "Glorioso nos céus",
+        "3": "Humilde vieste à terra que criaste",
+        "4": "Por amor, pobre se fez"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Eu nunca saberei o preço",
+        "1": "Dos meus pecados lá na cruz"
+      }
+    }
+  ]
+}

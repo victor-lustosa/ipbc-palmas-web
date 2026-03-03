@@ -1,0 +1,59 @@
+{
+  "title": "O Amor de Deus (Logo Eu)",
+  "artist": "Paulo César Baruk",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "graca-sobre-graca(Logo-eu)",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Graça sobre graça, recebi",
+        "1": "E da plenitude, renasci",
+        "2": "Quando atraído, me encontrei",
+        "3": "No amor de Deus"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Viva e poderosa salvação",
+        "1": "Luz que me alcançou na escuridão",
+        "2": "Todo meu pecado se apagou",
+        "3": "No amor de Deus"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Logo eu, um pobre pecador",
+        "1": "Logo eu, tão fraco e tão devedor",
+        "2": "Logo eu, de graça recebi",
+        "3": "O amor de Deus",
+        "4": "Logo eu, finito e carnal",
+        "5": "Logo eu, diante de um Deus imortal",
+        "6": "Logo eu, de graça recebi",
+        "7": "O amor de Deus"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "O amor de Deus é rico em benefícios",
+        "1": "O amor de Deus não mede sacrifícios",
+        "2": "Dos braços desse amor, recebo o perdão",
+        "3": "Comprado por Jesus",
+        "4": "O amor de Deus é puro e consciente",
+        "5": "Como as manhãs, é firme e constante",
+        "6": "Que se entregou na cruz e a morte derrotou",
+        "7": "O amor de Jesus"
+      }
+    }
+  ]
+}

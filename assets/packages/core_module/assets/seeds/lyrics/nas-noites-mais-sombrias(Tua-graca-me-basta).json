@@ -1,0 +1,49 @@
+{
+  "title": "Tua Graça Me Basta",
+  "artist": "Rachel Novaes",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "nas-noites-mais-sombrias(Tua-graca-me-basta)",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Nas noites mais sombrias",
+        "1": "Na escuridão da alma",
+        "2": "Tua graça me basta",
+        "3": "Nas madrugadas frias",
+        "4": "Na solidão da estrada",
+        "5": "Tua graça me basta"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "No vento incessante",
+        "1": "Toda hora e a cada instante",
+        "2": "Tua graça me basta",
+        "3": "Na imensidão do mundo",
+        "4": "No abismo mais profundo",
+        "5": "Tua graça me basta"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Aperfeiçoa-me",
+        "1": "Molda meu coração",
+        "2": "Ouça o som que flui",
+        "3": "Da minha adoração",
+        "4": "Suba perante Ti",
+        "5": "Este sincero amor",
+        "6": "Seja a expressão",
+        "7": "De todo o meu louvor"
+      }
+    }
+  ]
+}

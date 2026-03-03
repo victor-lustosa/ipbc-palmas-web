@@ -1,0 +1,49 @@
+{
+  "title": "Perto de Ti",
+  "artist": "Nani Azevedo",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "perto-de-Ti-eu-quero-estar",
+  "format": "jpeg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Perto de Ti, eu quero estar",
+        "1": "O meu coração te deseja, Senhor",
+        "2": "Pois sei que de Ti, pode fluir",
+        "3": "Poder, graça e unção"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Tua presença, restaura o meu ser",
+        "1": "Curando as feridas do meu coração",
+        "2": "Toda a minha vida farás prosperar",
+        "3": "De Ti não me afastarei"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Perto de Ti, perto de Ti",
+        "1": "Quero estar Senhor, eu quero estar",
+        "2": "Em Tua presença, em Tua presença me alegrarei",
+        "3": "Me alegrarei"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Sem Ti não posso viver",
+        "1": "Por isso eu quero estar, perto de Ti"
+      }
+    }
+  ]
+}

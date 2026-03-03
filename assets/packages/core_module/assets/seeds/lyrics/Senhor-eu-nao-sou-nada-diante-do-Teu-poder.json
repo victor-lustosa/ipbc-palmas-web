@@ -1,0 +1,36 @@
+{
+  "title": "Livre Acesso",
+  "artist": "Ministério Koinonya de Louvor",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "Senhor-eu-nao-sou-nada-diante-do-Teu-poder",
+  "format": "jpeg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Senhor, eu não sou nada diante do Teu poder",
+        "1": "Nem merecedor do Teu imenso amor",
+        "2": "Através do Teu filho, tenho livre acesso a Ti",
+        "3": "Que me fez chegar aos Teus pés",
+        "4": "Me humilhar diante de Ti"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Deixa o Teu rio",
+        "1": "Passar em minha vida",
+        "2": "Vem curar minhas feridas",
+        "3": "Sarar as minhas dores",
+        "4": "Livra-me, ó Deus",
+        "5": "Das cadeias que me prendem",
+        "6": "Toca em minh'alma",
+        "7": "Faz em mim o Teu querer, Senhor"
+      }
+    }
+  ]
+}

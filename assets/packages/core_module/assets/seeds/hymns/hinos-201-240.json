@@ -1,0 +1,2368 @@
+[
+  {
+    "title": "Hino 201 - Manso e Suave",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 201,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Manso e suave! Eis Jesus nos chamando:",
+          "1": "Chama por ti e por mim.",
+          "2": "Eis que ele às portas espera velando:",
+          "3": "Vela por ti e por mim!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Vem já! Vem já! Alma cansada, vem já!",
+          "1": "Manso e suave, Jesus convidando,",
+          "2": "Chama: “Ó pecador, vem!”"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Com paciência, ele está esperando",
+          "1": "Hoje por ti e por mim.",
+          "2": "Oh, não desprezes a quem, convidando,",
+          "3": "Convida a ti e a mim.!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O tempo corre! As horas, passando,",
+          "1": "Passam por ti e por mim!",
+          "2": "Transes de morte, por fim, vão chegando,",
+          "3": "Chegam a ti e a mim."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, quanto amor que Jesus nos em dado:",
+          "1": "Dado a ti e a mim!",
+          "2": "Eis que foi morte, foi crucificado Morto por ti e por mim!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 202 - Palavras Preciosas",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 202,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Preciosas as palavras De Jesus, eterno Rei:",
+          "1": "“Aquele que vier a mim,",
+          "2": "Eu não desprezarei.”"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Preciosas as palavras De Jesus, eterno Rei:",
+          "1": "“Ó vós, cansados, vinde já!",
+          "2": "É suave a minha lei.”"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Preciosas as palavras De Jesus, eterno Rei:",
+          "1": "“A porta sou, por mim entrai,",
+          "2": "Descanso vos darei.”"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Preciosas as palavras De Jesus, eterno Rei:",
+          "1": "“Por vós o mundo já venci,",
+          "2": "Por vós a vida dei."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 203 - Convite Para a Salvação",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 203,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eis, Cristo te convida; vem pecador!",
+          "1": "Concede eterna vida, vem, pecador!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Hoje é tão favorável, vem, pecador!",
+          "1": "É tempo aceitável, vem, pecador!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eis o ensejo agora, vem pecador!",
+          "1": "Atende sem demora, vem, pecador!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Careces desta Graça? Vem, pecador!",
+          "1": "Decide! A vida passa! Vem, pecador!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 204 - Cristo à Porta",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 204,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "À porta estou, ó alma triste,",
+          "1": "Ansioso por e consolar;",
+          "2": "A minha voz, enfim, ouviste,",
+          "3": "Eu vou entrar, eu vou entrar!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "À porta, por amor levado,",
+          "1": "Procuro já teu mal sanar;",
+          "2": "Ó pecador desalentado,",
+          "3": "Eu vou entrar, eu vou entrar!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Por ti foi grande o meu castigo,",
+          "1": "Sofri na cruz sem murmurar!",
+          "2": "Só para teres paz comigo,",
+          "3": "Eu vou entrar, eu vou entrar!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A minha graça poderosa",
+          "1": "O teu pecado vem lavar!",
+          "2": "Ó alma impura, pesarosa,",
+          "3": "Eu vou entrar, eu vou entrar!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 205 - O Amor que Chama",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 205,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Não vos demoreis, Jesus vos chama,",
+          "1": "Ele chama com amor.",
+          "2": "Não vos demoreis, Jesus vos ama,",
+          "3": "Ele acalma a vossa dor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Não vos demoreis! Não vos demoreis!",
+          "1": "Vinde sem temor! Quem vos chama é Jesus,",
+          "2": "Quem morreu por nós na cruz."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Não vos demoreis, perdão alcança",
+          "1": "Quem confia no Senhor.",
+          "2": "Não vos demoreis, e, sem tardança,",
+          "3": "Recebei o Redentor."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Não vos demoreis, Jesus foi morto",
+          "1": "Em lugar do pecador.",
+          "2": "Não vos demoreis, real conforto",
+          "3": "Quer vos dar o Salvador."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 206 - Convite de Jesus",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 206,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Triste estás, cansado, aflito, Sem vigor, sem luz?",
+          "1": "“Vem a mim!” Eis o convite de Jesus!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "“Se constante o obedeço, Galardão terei!",
+          "1": "Sim, Terás, e boas-vindas do teu rei!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "“Se confio na Palavra, Salvará, por fim?”",
+          "1": "Anjos, santos e o universo bradam: “Sim.”"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "“Quais as marcas que me apontam Seu real perdão?”",
+          "1": "Nos seus pés, nas mãos, no lado se acharão!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "“Traz coroa de monarca? Veste de esplendor”",
+          "1": "Tem coroa, sim, de espinhos, sangue e dor."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "“Quando o vir e então segui-lo, Recompensará?”",
+          "1": "Não! Jamais a infinda graça vai falhar!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 207 - Convite ao Pecador",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 207,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vem a Cristo, mesmo agora, Vem assim como estás!",
+          "1": "Que dele, sem demora, O perdão obterás."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Crê em Cristo, sem detença, Foi por nós que morreu!",
+          "1": "E só por esta crença Tens entrada no céu."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ele almeja receber-te, Tua vida salvar,",
+          "1": "Pois quer consigo ver-te E contigo habitar."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 208 - Aproximação",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 208,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Chegai-vos ao Senhor com puro coração.",
+          "1": "Ouvi palavras de favor, a voz da salvação!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "É Deus quem fala aqui, na sua santa lei;",
+          "1": "Humildes, pois, a ele ouvi e sempre obedecei."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Entendimento dá a quem com fé pedir.",
+          "1": "Com paciência guiará a todo que o seguir."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "As trevas dissipou, rasgou o escuro véu,",
+          "1": "A luz divina derramou, por ela vinde ao céu."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 209 - Encorajamento",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 209,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Medo tens que o adversário vá vencer?",
+          "1": "Luz te falta e onde estás não podes ver?"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Abre o coração, que Cristo vai entrar,",
+          "1": "E o sol em ti raiar.",
+          "2": "Deixa a luz do céu entrar, Deixa o sol em ti nascer;",
+          "3": "Abre o coração que, Cristo vai entrar,",
+          "4": "E o sol em ti nascer."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tu não tens ainda fé no Salvador?",
+          "1": "Deus não ouve as tuas preces com favor?"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Queres ir andando alegre para o céu",
+          "1": "Ignorando todo o negro e denso véu?"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 210 - O Filho Perdido",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 210,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Em miséria vagando, tuas culpas chorando,",
+          "1": "Ó filho perdido, vem, pródigo, vem!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Ó pródigo, escuta a voz do Senhor!",
+          "1": "Oh, rompe as ciladas do vil tentador!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Em teu lar há bastante, e tu vagas errante!",
+          "1": "Ó filho perdido, vem, pródigo, vem!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vem, filho perdido, ó pródigo, vem!",
+          "1": "Ruína te espera nas trevas além."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tu de medo, tremendo, e faminto, gemendo,",
+          "1": "Ó filho perdido, vem, pródigo, vem!"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vem, vem! Ó pródigo, vem!",
+          "1": "Vem, filho perdido! Ó pródigo, vem!",
+          "2": "Teu Pai te convida, querendo-te bem!"
+        }
+      },
+      {
+        "id": 6,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vestes há para ornar-te, ricos dons: vem fartar-te!",
+          "1": "Ó filho perdido, vem, pródigo, vem!"
+        }
+      },
+      {
+        "id": 7,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vem, filho perdido! Oh, volta a Jesus",
+          "1": "Bondade infinita se avista na cruz."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 211 - Quase Induzido",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 211,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quase induzido a crer em Jesus;",
+          "1": "Quase induzido a andar na luz!",
+          "2": "Pensas em replicar:",
+          "3": "“Quando tiver vagar, Irei, então, buscar o Redentor.”"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quase induzido, oh, coração!",
+          "1": "Quase induzido, oh, ilusão!",
+          "2": "Hoje o bom Salvador,",
+          "3": "Com voz de terno amor Quer dar ao pecador a sua paz."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quase induzido, não queres crer?",
+          "1": "Quase induzido, vem sem temer!",
+          "2": "“Quase” não servirá;",
+          "3": "“Quase” te afastará! “Quase” te lançará na perdição!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 212 - Apelo",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 212,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Alma, escuta o bom Senhor A Jesus, o Salvador.",
+          "1": "Ele diz com terno amor: “Tu me amas, pecador?”"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Das prisões te soltarei, As feridas curarei!",
+          "1": "Vim do céu por teu amor; “Tu me amas, pecador?"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "“Minha glória tu verás, Minha graça gozarás!",
+          "1": "Vida eterna te darei, Não te desampararei!”"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ajudar-me vem, Senhor! A entregar-te o meu amor!",
+          "1": "Faze, ó bom Jesus, que assim",
+          "2": "Sejas Tu que viva em mim. Amém"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 213 - A Última Hora",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 213,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ao findar o labor desta vida,",
+          "1": "Quando a morte ao teu lado chegar,",
+          "2": "Que destino há de ter a tua alma?",
+          "3": "Qual será, no futuro, teu lar?"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Meu amigo, hoje tens a escolha:",
+          "1": "Vida ou morte, qual vais aceitar?",
+          "2": "Amanhã pode ser muito tarde,",
+          "3": "Hoje Cristo te quer libertar."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tu procuras a paz neste mundo",
+          "1": "Em prazeres que passam em vão,",
+          "2": "Mas na última hora da vida,",
+          "3": "Tais prazeres valor não terão."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Muitas vezes tu riste, ó amigo,",
+          "1": "Ao ouvires falar de Jesus.",
+          "2": "Mas somente o Senhor pode dar-te",
+          "3": "Salvação, pela morte na cruz."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Com tua alma em pecado não podes",
+          "1": "Adentrar as moradas de Deus.",
+          "2": "Mas aquele quem Deus tornou limpo,",
+          "3": "Gozará das venturas dos céus!"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Se quiseres deixar teus pecados",
+          "1": "E entregar-te hoje mesmo a Jesus,",
+          "2": "Hás de ter, nesta vida e na morte,",
+          "3": "Um brilhante caminho de luz."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 214 - Convite e Aceitação",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 214,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ouço meu Senhor dizer:",
+          "1": "“Tuas forças débeis são,",
+          "2": "Nada podes merecer;",
+          "3": "Eu te dou a salvação."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "A ti, Senhor Jesus,",
+          "1": "Venho como estou;",
+          "2": "Pois sem nada merecer,",
+          "3": "Teu sangue me salvou."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sim, eu venho a ti, Senhor,",
+          "1": "Tua graça receber;",
+          "2": "Infinito é o teu amor,",
+          "3": "Sem limite o teu poder."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quando estou em aflições,",
+          "1": "Tu és meu Consolador;",
+          "2": "Quando exposto às tentações,",
+          "3": "Meu auxílio e protetor."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Lá na glória cantarei",
+          "1": "Tua eterna salvação;",
+          "2": "Junto ao trono renderei",
+          "3": "Meu louvor e gratidão. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 215 - Apelo (Jesus Está à Porta)",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 215,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jesus, estás à porta Do aflito coração!",
+          "1": "E queres fazer nele Perene habitação."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Cristãos jamais seremos, Nem filhos do Senhor,",
+          "1": "Se não fizer morada Em nós o Salvador."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jesus, estás batendo Com traspassada mão!",
+          "1": "Espinhos tens na fronte, Nos olhos compaixão!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Com amor incompreensível Esperas sem cansar!",
+          "1": "Por causa do pecado Não podes Tu entrar!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Jesus, nos amas tanto, Bondoso é teu olhar!",
+          "1": "Sofreste no Calvário A fim de nos salvar!"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Senhor, com fé abrimos O nosso coração!",
+          "1": "Oh, entra e faze nele Eterna habitação! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 216 - Perdão",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 216,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Acharei mercê em Deus? Pode ainda perdoar?",
+          "1": "Esquecer pecados meus? Minha vida transformar?"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eu que sempre resisti, Sua ira suscitei,",
+          "1": "Seus apelos não ouvi, Transgredi a sua Lei!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Arrependo-me, Senhor, Tenho ao mal grande aversão!",
+          "1": "Sinto nalma intenso horror Posso ter o teu perdão?"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mansamente diz Jesus: “Quero a paz te conceder!",
+          "1": "A salvar-te fui à cruz, Salvo estás, se podes crer.”"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sim, eu creio e salvo estou! Reina gozo lá no céu,",
+          "1": "Pois a Nova já chegou De mais um que nele creu."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 217 - Desprendimento (Tal Como Estou)",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 217,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tal como estou, sem me esquivar,",
+          "1": "Me entrego a quem me quis salvar.",
+          "2": "Pois padeceste em meu lugar,",
+          "3": "Ó Salvador, eu venho a ti."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tal como estou, sem esperar",
+          "1": "Das manchas todas livre estar,",
+          "2": "Pureza venho em ti buscar,",
+          "3": "Ó Salvador, eu venho a ti."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tal como estou, sem direção,",
+          "1": "Confuso, em grande comoção,",
+          "2": "Temendo, em luta a tentação;",
+          "3": "Ó Salvador, eu venho a ti."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tal como estou, na escuridão",
+          "1": "Me estendes tua santa mão,",
+          "2": "E em ti encontro a salvação;",
+          "3": "Ó Salvador, eu venho a ti."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tal como estou me acolherás,",
+          "1": "Pureza e alívio me darás!",
+          "2": "Tu prometeste e cumprirás;",
+          "3": "Ó Salvador, eu venho a ti."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tal como estou, por teu amor",
+          "1": "Saí das garras do opressor!",
+          "2": "E teu somente sou, Senhor;",
+          "3": "Ó Salvador, eu venho a ti. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 218 - Vontade Soberana",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 218,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tua vontade faze, ó Senhor!",
+          "1": "Eu sou feitura, tu és o Autor.",
+          "2": "Molda e refaze todo meu ser,",
+          "3": "Segundo as normas do teu querer"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tua vontade faze, ó meu Deus!",
+          "1": "Sonda e corrige os passos meus!",
+          "2": "Torna-me santo porque Tu és!",
+          "3": "Ouve os meus rogos, eis-me aos teus pés."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tua vontade faze, ó meu Pai!",
+          "1": "Por ela o crente vive e não cai.",
+          "2": "Guia-me a vida com tua luz!",
+          "3": "Poder e graça dá-me em Jesus."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tua vontade, boa e sem par",
+          "1": "Quero na vida realizar.",
+          "2": "Vive, triunfa, domina, enfim,",
+          "3": "Reina, supremo, meu Deus, em mim! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 219 - Dedicação",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 219,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sofreste, ó meu Senhor, na amarga cruz,",
+          "1": "E derramaste ali teu sangue a flux;",
+          "2": "Que resgatou minha alma dos pecados meus",
+          "3": "E deu-me o céu de luz!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Agora, ó Salvador, quero te honrar,",
+          "1": "E, enquanto aqui viver, sempre te amar!",
+          "2": "E dando provas desse amor, meu coração",
+          "3": "Desejo consagrar."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Aceita, ó terno Deus, a adoração",
+          "1": "Que oferto a ti, Senhor, com devoção.",
+          "2": "Deponho, então, a teus pés, para sempre, ó Pai,",
+          "3": "A eterna gratidão. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 220 - Plena Dedicação",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 220,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sobre a cruz Jesus comprou-me,",
+          "1": "Corpo e alma, todo o ser.",
+          "2": "Hoje e sempre, inteiramente,",
+          "3": "Quero e ele pertencer."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Meu Senhor! Meu Senhor! Sempre a ti pertencerei."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Os meus olhos guia sempre,",
+          "1": "Consagrando-os a Jesus!",
+          "2": "Da vaidade bem distantes,",
+          "3": "Faze-os ver celeste luz"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh! Dispõe o meu ouvido",
+          "1": "A fechar-se para o mal,",
+          "2": "Atendendo ao teu ensino",
+          "3": "Com respeito filial."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Torna, ó Deus, a língua serva",
+          "1": "De Jesus, meu grande Rei!",
+          "2": "Põe palavras nos meus lábios,",
+          "3": "E teu nome exaltarei."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Minhas mãos, Senhor, emprega",
+          "1": "No serviço que convém",
+          "2": "Diligentes para o Mestre,",
+          "3": "Trabalhando em todo o bem!"
+        }
+      },
+      {
+        "id": 6,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Os meus pés sustenta sempre,",
+          "1": "Firmes, nos caminhos teus.",
+          "2": "Nos sagrados mandamentos",
+          "3": "Consolida os passos meus."
+        }
+      },
+      {
+        "id": 7,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Que ventura pertencer-te! Ouve a minha petição:",
+          "1": "Vem, Senhor, supremo Amigo,",
+          "2": "Dominar meu coração! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 221 - Um Vaso de Bênção",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 221,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quero ser um vaso de bênção,",
+          "1": "Sim, um vaso escolhido de Deus,",
+          "2": "Para as novas levar aos perdidos,",
+          "3": "Boas-novas que vêm lá dos céus."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Faze-me vaso de bênção, Senhor",
+          "1": "Vaso que leve a mensagem de amor!",
+          "2": "Eis-me submisso, e ao teu serviço",
+          "3": "Eu me consagro, bendito Senhor!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quero ser um vaso de bênção,",
+          "1": "Para todos os dias fazer",
+          "2": "Os culpados que vivem nas trevas",
+          "3": "O perdão de Jesus conhecer."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quero ser um vaso de bênção,",
+          "1": "Sim, um vaso de bênção sem par,",
+          "2": "Anunciando que os crentes em Cristo",
+          "3": "Jubilosos nos céus hão de entrar."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Para ser um vaso de benção",
+          "1": "É mister uma vida real,",
+          "2": "Uma vida de fé e pureza,",
+          "3": "Revestida de amor divinal. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 222 - Mais Perto da Cruz",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 222,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Meu Senhor, sou teu, tua voz ouvi",
+          "1": "A chamar-me com amor!",
+          "2": "E contigo sempre desejo estar,",
+          "3": "Ó bendito Salvador!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Mais perto da tua cruz Quero estar, ó Salvador!",
+          "1": "Mais perto da tua cruz Eu desejo estar, Senhor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A seguir-te sempre, eu me decidi,",
+          "1": "Constrangido pelo amor!",
+          "2": "Jubiloso, pois me declaro teu,",
+          "3": "Sem reservas, meu Senhor."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Que prazer sem par, que delícia é",
+          "1": "Aos teus santos pés me achar!",
+          "2": "E com viva fé e profundo amor,",
+          "3": "Com meu Salvador falar. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 223 - Oração do Arrependido",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 223,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Convencido estou, ó Cristo",
+          "1": "De que o mundo é sempre vão.",
+          "2": "Quero, pois, viver contigo,",
+          "3": "Sempre em doce comunhão"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Toma, ó Salvador, Minha débil mão!",
+          "1": "Pois viver contigo eu quero Sempre em comunhão!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quanta dor, tristeza imensa,",
+          "1": "Sinto, ó Deus, ao me lembrar",
+          "2": "Que vivi por tanto tempo,",
+          "3": "Tua causa a desprezar!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Não mais quero a vida inglória,",
+          "1": "Onde, incauto, me abismei.",
+          "2": "Na doutrina do evangelho,",
+          "3": "De hoje em diante eu viverei!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quero os dons que me outorgaste",
+          "1": "Empregar no teu labor,",
+          "2": "Trabalhando em tua Igreja,",
+          "3": "Bem firmado em teu amor. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 224 - Consagração",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 224,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A ti seja consagrada",
+          "1": "Minha vida, ó meu Senhor!",
+          "2": "Meus momentos e meus dias",
+          "3": "Sejam só em teu louvor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sempre minhas mãos se movam",
+          "1": "Com presteza e com amor!",
+          "2": "E meus pés velozes corram",
+          "3": "Ao serviço do Senhor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Minha voz, Jesus aceita,",
+          "1": "Para o teu louvor cantar!",
+          "2": "Faze que meus lábios possam",
+          "3": "A mensagem proclamar."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Os meus bens quero ofertar-te,",
+          "1": "Nada quero te esconder;",
+          "2": "Minha inteligência guia",
+          "3": "Sob a luz do teu saber."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A vontade minha toma",
+          "1": "Sujeitando-a a ti, Senhor",
+          "2": "Do meu coração fazendo",
+          "3": "O teu trono, ó Salvador!"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Meu anelo, meu desejo,",
+          "1": "Sejam só teu nome honrar!",
+          "2": "Que meu ser completo eu possa,",
+          "3": "Ó Jesus, te consagrar! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 225 - Dedicação Pessoal",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 225,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eis-me, ó Salvador, aqui!",
+          "1": "Corpo e alma oferto a ti!",
+          "2": "Servo inútil, sem valor,",
+          "3": "Mas pertenço a meu Senhor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Fraco em obra e no pensar;",
+          "1": "Mui propenso a tropeçar;",
+          "2": "Salvo estou por teu amor",
+          "3": "E me voto a ti Senhor!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Subjugado em todo ser,",
+          "1": "Me submeto ao teu poder!",
+          "2": "Grande é o preço do perdão,",
+          "3": "Dá-me igual consagração!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eu, remido pecador,",
+          "1": "Me dedico ao Redentor.",
+          "2": "Teu é este coração,",
+          "3": "Teu em plena sujeição! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 226 - A História de Cristo",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 226,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Conta-me a história de Cristo,",
+          "1": "Grava-a no meu coração!",
+          "2": "Conta-me a história inaudita",
+          "3": "De graça, paz e perdão."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Conta como ele, encarnado, Veio no mundo morar;",
+          "1": "Aos pecadores indignos,",
+          "2": "De Deus o amor revelar."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Conta como ele, bondoso,",
+          "1": "Nunca a ninguém rejeitou,!",
+          "2": "Como, de mãos estendidas,",
+          "3": "Todos a si convidou!",
+          "4": "Como não pode o bom Mestre Seja a quem for rejeitar,",
+          "5": "Se, convencido e contrito,",
+          "6": "O seu convite aceitar!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Conta-me quando, no monte,",
+          "1": "Sobre a cidade chorou,",
+          "2": "Pois, orgulhosa e rebelde,",
+          "3": "O seu amor rejeitou.",
+          "4": "Conta como ele ainda chora",
+          "5": "Sobre os que seguem o mal,",
+          "6": "E, endurecidos, resistem",
+          "7": "Ao seu amor divinal."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Conta-me as duras afrontas",
+          "1": "Que mansamente sofreu!",
+          "2": "Como na cruz, levantado,",
+          "3": "Ele por ímpios morreu!",
+          "4": "Dá-me o viver na certeza",
+          "5": "De que foi mesmo por mim,",
+          "6": "Que seu amor inefável",
+          "7": "Não tem mudança nem fim."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 227 - A Velha História",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 227,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Conta-me a velha história",
+          "1": "Do grande Salvador,",
+          "2": "De Cristo e sua vida,",
+          "3": "De Cristo e seu amor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Com pausa e paciência,",
+          "1": "Pois quero penetrar",
+          "2": "A altura do mistério,",
+          "3": "Que Deus me pode amar."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Conta-me a velha história,",
+          "1": "Que fala ao coração,",
+          "2": "De Cristo e sua glória,",
+          "3": "De Cristo e seu perdão!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Fala-me com ternura",
+          "1": "Do amado Redentor,",
+          "2": "A mim que tanto sofro",
+          "3": "Por ser um pecador."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Oh, que consolo traz-me",
+          "1": "Em tempos de aflição,",
+          "2": "Ouvir a velha história",
+          "3": "Que alegra o coração!"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Se o brilho deste mundo",
+          "1": "Toldar dos céus a luz",
+          "2": "Oh, narra com ternura",
+          "3": "A história de Jesus!"
+        }
+      },
+      {
+        "id": 6,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "E quando, enfim, a aurora",
+          "1": "Do mundo além raiar,",
+          "2": "Recorda a velha história,",
+          "3": "Que Deus me quis salvar!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 228 - De Deus, o Ungido",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 228,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Saudai de Deus, o Ungido,",
+          "1": "O Filho de Davi;",
+          "2": "Saudai o Prometido",
+          "3": "Que vem reinar aqui!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "As garras da maldade",
+          "1": "Partiu e nos livrou!",
+          "2": "E um reino de equidade",
+          "3": "No mundo, então, criou!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O Justo, em sofrimento,",
+          "1": "Socorre com amor;",
+          "2": "Aos pobres dá sustento",
+          "3": "E aos fracos dá vigor."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Aos tristes dá alegria,",
+          "1": "Desfaz a escuridão,",
+          "2": "E ao que pereceria",
+          "3": "Outorga a salvação."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "No trono glorioso",
+          "1": "Então se assentará!",
+          "2": "Das eras vitorioso,",
+          "3": "Bendito reinará"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Concerto permanente",
+          "1": "Conosco irá guardar",
+          "2": "Seu nome, eternamente,",
+          "3": "Traduz amor sem par."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 229 - Boas-Novas",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 229,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eu venho a vós, dos altos céus,",
+          "1": "Com boas-novas do meu Rei",
+          "2": "Maravilhoso e grande Deus!",
+          "3": "Ouvi-me: A história contarei."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Um pequenino vos nasceu",
+          "1": "Da virgem mãe, há tempo atrás.",
+          "2": "Com ele Deus ao mundo deu",
+          "3": "Amor e vida, gozo e paz."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Comigo vem, meu bom Jesus,",
+          "1": "Escolhe, como berço teu,",
+          "2": "Meu coração, e em tua luz",
+          "3": "Por certo alcançarei o céu."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eterna glória ao nosso Deus,",
+          "1": "Que veio em Cristo nos salvar.",
+          "2": "Alegres anjos vêm dos céus",
+          "3": "Um novo dia anunciar!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 230 - Adoração",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 230,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, vinde fiéis, triunfantes e alegres,",
+          "1": "Sim, vinde a Belém, já movidos de amor!",
+          "2": "Nasceu vosso Rei, o Messias prometido,"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Oh, vinde adoremos! Oh vinde adoremos!",
+          "1": "Oh, vinde adoremos ao nosso Senhor!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Olhai, admirados, a sua humildade,",
+          "1": "Os anjos o louvam com grande fervor!",
+          "2": "Pois veio conosco habitar, encarnado,"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Por nós, das alturas celestes baixando,",
+          "1": "Em forma de servo se fez, por amor!",
+          "2": "E em glórias a vida nos dá, sempiterna,"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nos céus adorai-o, vós anjos, em coro,",
+          "1": "E todos na terra lhe rendam louvor!",
+          "2": "A Deus honra e glória contentes rendamos,"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 231 - O Primeiro Natal",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 231,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eis que um anjo proclamou o primeiro Natal,",
+          "1": "A uns pobres pastores ao pé de Belém",
+          "2": "Que, nos campos, a guardar seu rebanho, afinal,",
+          "3": "Suportavam, da noite, o frio também."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Natal! Natal! Natal! Natal!",
+          "1": "É vindo ao mundo o Rei divinal!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "De repente, lá no céu, linda estrela surgiu,",
+          "1": "E no oriente brilhou com estranho fulgor.",
+          "2": "Veio à terra forte luz, que do céu lhe caiu,",
+          "3": "Muitas noites, ainda, em fulgente esplendor."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tal estrela apareceu e os magos guiou",
+          "1": "Pela estrada a Belém, rumo certo os conduz.",
+          "2": "E chegando ali, por fim, a estrela parou,",
+          "3": "Mesmo acima da casa em que estava Jesus."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "E os magos, com afã e sublime temor,",
+          "1": "Os joelhos dobraram naquele lugar,",
+          "2": "Para ofertas liberais, e de raro valor,",
+          "3": "Qual incenso, ouro e mirra, ao Menino entregar."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "E como eles vimos nós, com intenso fervor,",
+          "1": "Dar louvores sinceros a quem nos amou;",
+          "2": "Adorar de coração o Supremo Senhor",
+          "3": "Que, morrendo na cruz, nossas almas salvou!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 232 - Pequena Vila de Belém",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 232,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pequena vila de Belém, Repousa em teu dormir,",
+          "1": "Enquanto os astros lá no céu Estão a refulgir.",
+          "2": "Porém, nas tuas trevas Resplende eterna luz,",
+          "3": "Incomparável, divinal: Nasceu o bom Jesus!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Da virgem mãe nasceu Jesus! Vós anjos proclamai",
+          "1": "As boas-novas lá dos céus, E a Deus louvores dai!",
+          "2": "Estrelas matutinas, Em hinos de louvor,",
+          "3": "Aos anjos e homens proclamai De Deus o eterno amor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O dom glorioso, divinal Nenhum estrondo faz,",
+          "1": "Assim, aos homens, o Senhor Concede graça e paz.",
+          "2": "Sereno e sem alarde Vem ele ao mundo assim,",
+          "3": "Trazendo aos homens Redenção, Amor e paz sem fim."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh! Vem morar nos corações, Divino Rei, Jesus,",
+          "1": "E faze-os entrever no céu Visões da tua luz.",
+          "2": "Ali proclamam anjos De Deus o amor fiel!",
+          "3": "Oh! Vem, Senhor, aqui reinar, Eterno Emanuel. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 233 - Os Pastores no Campo",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 233,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "No campo, o rebanho guardando,",
+          "1": "Os pastores, deitados no chão,",
+          "2": "Mal se vê pela luz das estrelas,",
+          "3": "Que ao redor as ovelhas estão."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "De repente, um clarão tudo envolve,",
+          "1": "Quando lá das alturas dos céus",
+          "2": "Desce um anjo, fulgente de glória,",
+          "3": "Cantando em louvor a Deus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "No primeiro Natal, eis que um anjo",
+          "1": "Gloriosa mensagem nos traz:",
+          "2": "“Glória a Deus nas alturas, Na terra acordo e paz!”"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "“Boas-novas alegres vos trago;",
+          "1": "Em Belém Jesus Cristo nasceu!”",
+          "2": "Logo após, lindo coro de anjos",
+          "3": "Aparece cantando no céu."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, jamais tão bendita mensagem",
+          "1": "Aos ouvidos de todos soou,",
+          "2": "Nem tão doce e divina harmonia",
+          "3": "O próprio céu enlevou."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, bem-vindo o Evangelho a este mundo",
+          "1": "Que em pecado e miséria ainda jaz.",
+          "2": "À cidade vão logo os pastores,",
+          "3": "Para verem de perto Jesus!"
+        }
+      },
+      {
+        "id": 6,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "No presépio, o Menino contemplam,",
+          "1": "Que, do mundo, é a lídima Luz.",
+          "2": "As estrelas parecem unir-se",
+          "3": "Ao celeste conjunto a cantar:"
+        }
+      },
+      {
+        "id": 7,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "“Em Belém, de Davi a cidade,",
+          "1": "Nasceu quem vos vem salvar!”",
+          "2": "Como cantam! E cremos que nunca",
+          "3": "Desse canto ouviremos assaz!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 234 - Um Pequeno a Repousar",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 234,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quem é o pequeno a repousar Nos braços de Maria,",
+          "1": "A quem os anjos vêm cantar Os hinos de alegria?"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "É este Jesus o Rei que anuncia a paz",
+          "1": "A quem Deus quer bem.",
+          "2": "Da virgem eleita é o filho, Jesus,",
+          "3": "Que nasceu em Belém!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Por que tão pobre fora, então A sua estrebaria?",
+          "1": "É que ao pobre pecador O verbo a paz traria!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Trazei a ele o coração, Prostrai-vos reverentes,",
+          "1": "Aos pés do Rei que a salvação Nos trouxe eternamente"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 235 - O Anjo da Paz",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 235,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Um anjo formoso desceu das alturas,",
+          "1": "Na fresca doçura da noite, em Belém.",
+          "2": "E a luz fulgurante brilhou nas colinas,",
+          "3": "Encheu as campinas e vales também."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A doce mensagem que o anjo trazia,",
+          "1": "De grande alegria, de amor divinal,",
+          "2": "Encheu de esperanças a vida do crente,",
+          "3": "Feliz toda gente naquele Natal!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Se há sombras de medo e o mundo se empenha",
+          "1": "Em luta ferrenha de ao bem se opor,",
+          "2": "Mal surge dezembro, e eis outro clima,",
+          "3": "Pois vem lá de cima bafejos de amor."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "É o anjo formoso que vem, novamente,",
+          "1": "Lançar a semente do amor divinal,",
+          "2": "Trazendo a este mundo canções de alegria,",
+          "3": "Na santa harmonia que inspira o Natal."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 236 - Em Linda Noite",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 236,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Em linda noite o mundo, a nós",
+          "1": "Em coro angelical,",
+          "2": "Com harpas de ouro, o céu quis dar",
+          "3": "Um canto divinal."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "E a toda a terra, então, se fez",
+          "1": "Promessas imortais",
+          "2": "De glória a Deus, aos homens paz,",
+          "3": "Com bênçãos eternais."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pairando sobre a terra estão",
+          "1": "Os anjos a cantar,",
+          "2": "E sobre o mundo pecador",
+          "3": "Derramam luz sem par."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Acima dos tormentos mil,",
+          "1": "Angústias do viver,",
+          "2": "Proclamam vida perenal,",
+          "3": "Pois bênçãos vêm trazer."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "E vão-se os dias sem cessar,",
+          "1": "Segundo a voz de Deus,",
+          "2": "Mas sobre a terra as gerações",
+          "3": "Caminham rumos seus!"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "E quando, enfim, reinar a paz",
+          "1": "De Cristo, o Salvador,",
+          "2": "Os salvos todos cantarão",
+          "3": "Em coro o seu louvor!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 237 - Jesus Nasceu",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 237,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vinde cantai Jesus nasceu!",
+          "1": "À terra a luz desceu!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "A graça infinda ao mundo vem",
+          "1": "Na gruta de Belém, na gruta de Belém,",
+          "2": "Jesus, o Amado, o Sumo Bem!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sim proclamai em derredor,",
+          "1": "Que foi por grande amor"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Que à terra veio o Sumo Bem,",
+          "1": "Na gruta de Belém, na gruta de Belém,",
+          "2": "Jesus, humilde, ao mundo vem."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 237-A - Linda Estrela",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 237,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, linda estrela! Fulgor cintilante!",
+          "1": "Rumo nas trevas teu brilho nos dá;",
+          "2": "Vem conduzir-nos, ó lume divino,",
+          "3": "Para onde o Infante nascido já está."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Gotas de orvalho no berço rebrilham;",
+          "1": "Na manjedoura, sozinho, ele jaz.",
+          "2": "Anjos o adoram, real maravilha!",
+          "3": "Deus sempiterno do reino de paz."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Que lhe traremos, que pias ofertas?",
+          "1": "Raros odores? Presentes de luz?",
+          "2": "Pérolas puras de mares longínquos ?",
+          "3": "Mirra da Arábia? Tesouros de Ormuz?"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "São todas vãs as ofertas mundanas,",
+          "1": "Ouro não pode comprar seu favor!",
+          "2": "Cristo, porém, de nós todos aceita",
+          "3": "As ofertas sinceras de amor!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 238 - Novas de Amor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 238,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Harmonias pelo ar, Uma estrela no céu,",
+          "1": "Uma prece de mãe, Um infante a chorar,",
+          "2": "São começos da história Que muito nos diz:",
+          "3": "Rude berço em Belém, Mas de glória sem par."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Toda gente já ouviu Dessa nova de amor",
+          "1": "Pois o brilho da estrela É de luz sem igual...",
+          "2": "Há louvores de gozo, Há promessas de paz.",
+          "3": "Pois no berço, em Belém, Dorme um Rei divinal."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nos fulgores da estrela Há mensagens dos céus",
+          "1": "Que nos homens despertam Imenso prazer",
+          "2": "Cada lar se bendiz E proclama esse bem,",
+          "3": "Anunciando às nações O divino querer!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Hoje o mundo já pode Esse dom repetir,",
+          "1": "Com mil graças a Deus Pelo santo Natal.",
+          "2": "Pois no berço, em Belém, Manjedoura de luz,",
+          "3": "Eis o Deus Salvador, Esse humano imortal."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 239 - Nasce Jesus",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 239,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nasce Jesus! Fonte de luz",
+          "1": "Descem os anjos cantando.",
+          "2": "Nasce Jesus! É nossa luz",
+          "3": "Que as trevas vem dissipando!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Nasce Jesus! Nasce Jesus!",
+          "1": "Eis a mensagem celeste!",
+          "2": "Raia a luz da Salvação, triunfante vem!",
+          "3": "Salve, ó Cristo! Firma teu justo império!",
+          "4": "Gratos louvores homens e anjos dêem!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nasce Jesus! Nasce Jesus!",
+          "1": "Glória a Deus nas alturas!",
+          "2": "Paz na terra, graça e amor",
+          "3": "A quantos Deus quer bem!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Deus nos amou! Deus nos mandou",
+          "1": "Cristo, seu Filho amado!",
+          "2": "Deus nos amou! Deus se encarnou!",
+          "3": "Vede o menino deitado!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Deus nos amou! Deus nos amou!",
+          "1": "Digam-no todos os povos!",
+          "2": "Gozam paz e salvação todos os que crêem.",
+          "3": "Reino bendito! Reino de amor divino!",
+          "4": "Gratos louvores homens e anjos dêem!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 240 - Louvor Angelical",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 240,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eis dos anjos a harmonia!",
+          "1": "Cantam glória ao Rei Jesus.",
+          "2": "Paz aos homens que alegria!",
+          "3": "Paz com Deus em plena luz."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Ouçam povos, exultantes,",
+          "1": "Ergam Salmos triunfantes,",
+          "2": "Aclamando seu Senhor.",
+          "3": "Nasce Cristo, o Redentor!",
+          "4": "Exultai, ó terra e céus,",
+          "5": "Dando glória ao Homem-Deus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cristo eternamente honrado,",
+          "1": "Do seu trono se ausentou!",
+          "2": "E entre os homens, encarnado,",
+          "3": "Deus conosco se mostrou."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Quão bondosa Divindade!",
+          "1": "Quão gloriosa Humanidade!",
+          "2": "Salve Cristo, Emanuel!",
+          "3": "Luz do mundo, Deus fiel!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Cante o povo resgatado:",
+          "1": "Glória ao Príncipe da Paz!",
+          "2": "Deus em Cristo, revelado,",
+          "3": "Vida e luz ao homem traz!"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Nasce a fim de renascermos!",
+          "1": "Vive para revivermos!",
+          "2": "Rei, profeta, intercessor,",
+          "3": "Louvem todos ao Senhor!"
+        }
+      }
+    ]
+  }
+]

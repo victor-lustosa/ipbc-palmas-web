@@ -1,0 +1,58 @@
+{
+  "title": "Bondade de Deus",
+  "artist": "IBAB Celebração",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "te-amo-Deus-IBAB(a-bondade-de-Deus)",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Te amo, Deus,",
+        "1": "Tua graça nunca falha",
+        "2": "Todos os dias",
+        "3": "Eu estou em Tuas mãos",
+        "4": "Desde quando me levanto",
+        "5": "Até eu me deitar",
+        "6": "Eu cantarei da bondade de Deus"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Tua doce voz",
+        "1": "Que me guia em meio ao fogo",
+        "2": "Na escuridão, Tua presença me conforta",
+        "3": "Sei que és meu Pai",
+        "4": "Que amigo és",
+        "5": "E eu vivo na bondade de Deus"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "És fiel em todo tempo",
+        "1": "Em todo tempo Tu és tão, tão bom",
+        "2": "Com todo fôlego que tenho",
+        "3": "Eu cantarei da bondade de Deus"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Tua bondade me seguirá",
+        "1": "Me seguirá, Senhor",
+        "2": "Eu me rendo a Ti, te dou o meu ser",
+        "3": "Entrego tudo a Ti",
+        "4": "Tua bondade me seguirá",
+        "5": "Me seguirá, Senhor"
+      }
+    }
+  ]
+}

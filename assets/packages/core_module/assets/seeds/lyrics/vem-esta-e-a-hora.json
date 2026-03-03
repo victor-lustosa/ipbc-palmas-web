@@ -1,0 +1,43 @@
+{
+  "title": "Vem, Esta É a Hora",
+  "artist": "Vineyard",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "vem-esta-e-a-hora",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Vem, esta é a hora da adoração",
+        "1": "Vem dar a Ele teu coração",
+        "2": "Vem, assim como estás, para adorar",
+        "3": "Vem, assim como estás diante do Pai",
+        "4": "Vem"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Toda língua confessará o Senhor",
+        "1": "Todo joelho se dobrará",
+        "2": "Mas aquele que a Ti escolher",
+        "3": "O tesouro maior terá"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Vem, assim como estás",
+        "1": "Vem, para adorar",
+        "2": "Vem",
+        "3": "Vem",
+        "4": "Vem"
+      }
+    }
+  ]
+}

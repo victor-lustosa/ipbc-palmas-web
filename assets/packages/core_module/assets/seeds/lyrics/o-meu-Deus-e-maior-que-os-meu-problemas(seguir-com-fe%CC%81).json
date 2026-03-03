@@ -1,0 +1,64 @@
+{
+  "title": "Vou Seguir Com Fé",
+  "artist": "Kleber Lucas",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "o-meu-Deus-e-maior-que-os-meu-problemas(seguir-com-fé)",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "O meu Deus é maior que os meus problemas",
+        "1": "Eu não temerei, com Jesus eu vou além",
+        "2": "Ainda que a figueira não floresça",
+        "3": "E não haja frutos na videira",
+        "4": "Eu não temerei, não!"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Pois sei que para além das nuvens",
+        "1": "O Sol não deixou de brilhar",
+        "2": "Só por que a terra escureceu",
+        "3": "A minha vida está em Deus",
+        "4": "Eu sei que tudo posso em Deus",
+        "5": "É Ele quem me fortalece!"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Eu vou seguir com fé",
+        "1": "Com meu Deus, eu vou",
+        "2": "Para a rocha mais alta que eu",
+        "3": "Eu sei pra onde vou",
+        "4": "Como águia vou",
+        "5": "Nas alturas, sou filho de Deus"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "O meu Deus sabe tudo que eu preciso",
+        "1": "Pra sentir a paz dentro do meu coração",
+        "2": "Ainda que a Lua adormeça",
+        "3": "E não haja o brilho nas estrelas",
+        "4": "Eu não temerei, não"
+      }
+    },
+    {
+      "id": 4,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Nas alturas sou filho de Deus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Ofereço Minha Vida",
+  "artist": "Igreja Bíblica da Paz",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "tudo-o-que-sou-tudo-o-que-tenho(ofereco-minha-vida)",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Tudo o que sou",
+        "1": "Tudo o que tenho",
+        "2": "Estão diante de Ti, Senhor!",
+        "3": "Minhas tristezas e alegrias",
+        "4": "A Ti entrego agora, Senhor!"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Ofereço minha vida a Ti",
+        "1": "Usa o meu viver para Tua glória!",
+        "2": "Os meus dias são Teus, Senhor!",
+        "3": "Que seja o meu louvor",
+        "4": "Sacrifício agradável!",
+        "5": "Minha vida eu Te dou!"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "O meu passado, o meu futuro",
+        "1": "Sonhos que um dia se realizarão",
+        "2": "Minha esperança e os meus planos",
+        "3": "Todo o meu ser pertence ao Senhor!"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Dou-Te porque me deste primeiro!",
+        "1": "Tudo o que tenho já pertence ao Senhor!",
+        "2": "A minha vida é Tua somente!",
+        "3": "Me rendo a Ti, meu Senhor!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Tu És Soberano",
+  "artist": "Ministério Koinonya de Louvor",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "Tu-es-soberano",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Tu És soberano sobre a Terra",
+        "1": "Sobre o céu",
+        "2": "Tu és Senhor absoluto",
+        "3": "Tudo que existe e acontece",
+        "4": "Tu sabes muito bem",
+        "5": "Tu és tremendo"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "E apesar dessa glória que tens",
+        "1": "Tu te importas comigo também"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "E este amor tão grande",
+        "1": "Eleva-me, amarra-me a Ti",
+        "2": "Tu És tremendo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "De todas as tribos",
+  "artist": "Vencedores Por Cristo",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "de-todas-as-tribos",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "De todas as tribos, povos e raças",
+        "1": "Muitos virão Te louvar",
+        "2": "De tantas culturas, línguas e nações",
+        "3": "No tempo e no espaço, virão Te adorar"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Bendito seja sempre o cordeiro",
+        "1": "Filho de Deus, raiz de Davi",
+        "2": "Bendito seja o Teu santo nome",
+        "3": "Cristo Jesus presente aqui"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Remidos, comprados, grande multidão",
+        "1": "Muitos virão Te louvar",
+        "2": "Povo escolhido, Teu reino e nação",
+        "3": "No tempo e no espaço, virão Te adorar"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "E a nós só nos cabe tudo dedicar",
+        "1": "Oferta suave ao Senhor",
+        "2": "Dons e talentos queremos consagrar",
+        "3": "E a vida no Teu altar pra Teu louvor."
+      }
+    }
+  ]
+}

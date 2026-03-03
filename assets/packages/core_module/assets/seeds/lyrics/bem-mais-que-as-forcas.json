@@ -1,0 +1,53 @@
+{
+  "title": "Bem Mais Que Tudo",
+  "artist": "Aline Barros",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "bem-mais-que-as-forcas",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Bem mais que as forças",
+        "1": "Poder e reis",
+        "2": "Que a natureza e tudo que se fez",
+        "3": "Bem mais que tudo, criado por Tuas mãos",
+        "4": "Deus, Tu és o início, meio e fim"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Bem mais que os mares",
+        "1": "Bem mais que o Sol",
+        "2": "E as maravilhas que o mundo conheceu",
+        "3": "E as riquezas, tesouros desta Terra",
+        "4": "Incomparável és pra mim"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Por amor, Sua vida entregou",
+        "1": "Meu Senhor, humilhado foi",
+        "2": "Como a flor machucada no jardim",
+        "3": "Morreu por mim, pensou em mim",
+        "4": "Me amou"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Como a flor machucada no jardim",
+        "1": "Morreu por mim, pensou em mim",
+        "2": "Me amou"
+      }
+    }
+  ]
+}

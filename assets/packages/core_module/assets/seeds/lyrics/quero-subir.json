@@ -1,0 +1,44 @@
+{
+  "title": "Quero Subir",
+  "artist": "Diante do Trono",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "quero-subir",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Quero subir ao monte santo de Sião",
+        "1": "E entoar um novo cântico ao meu Deus",
+        "2": "Mais que palavras,",
+        "3": "Minha vida eu quero entregar",
+        "4": "Purifica o meu coração para entrar",
+        "5": "Em Tua presença",
+        "6": "Contemplar Tua grandeza"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Te adoro, Senhor",
+        "1": "Em espírito e em verdade",
+        "2": "Me prostro aos Teus pés",
+        "3": "Na beleza da santidade"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Te dou meu louvor,",
+        "1": "Que seja um cheiro suave",
+        "2": "E um som agradável a Ti,",
+        "3": "Pois digno és"
+      }
+    }
+  ]
+}

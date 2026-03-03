@@ -1,0 +1,59 @@
+{
+  "title": "Sim eu creio",
+  "artist": "Ministério Koinonya de Louvor",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "se-disseres-a-mim(sim-eu-creio)",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Se disseres a mim: Lance a rede no mar",
+        "1": "Sobre Tua palavra, lançarei minha fé",
+        "2": "Se disseres enfim: Vem e anda até mim",
+        "3": "Sobre as águas do mar",
+        "4": "Certamente andarei"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "E se acaso eu vier me afundar",
+        "1": "Percebendo a fúria do mar",
+        "2": "Mesmo assim, posso em Ti confiar",
+        "3": "Pois, sei que a Tua mão se estenderá",
+        "4": "E não deixarás que eu venha",
+        "5": "Da fé naufragar"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Sim, eu creio",
+        "1": "Sim, eu creio, Senhor",
+        "2": "Sim, eu creio",
+        "3": "Tua palavra encontrou lugar",
+        "4": "Em meu coração",
+        "5": "Mesmo que as circunstâncias",
+        "6": "Contrárias estão"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Sim eu creio",
+        "1": "Sim eu creio, Senhor",
+        "2": "Sim eu creio",
+        "3": "Os meus sonhos e planos não foram em vão",
+        "4": "Todos os Teus propósitos se cumprirão",
+        "5": "Eu creio em Ti, Senhor"
+      }
+    }
+  ]
+}

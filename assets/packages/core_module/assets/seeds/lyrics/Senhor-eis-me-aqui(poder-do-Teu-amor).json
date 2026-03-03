@@ -1,0 +1,45 @@
+{
+  "title": "Poder do Teu Amor",
+  "artist": "Diante do Trono",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "Senhor-eis-me-aqui(poder-do-Teu-amor)",
+  "format": "jpeg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Senhor, eis-me aqui",
+        "1": "Vem transformar meu ser",
+        "2": "No fluir da graça que encontrei em Ti",
+        "3": "Senhor, descobri",
+        "4": "Que as fraquezas que há em mim",
+        "5": "Podem ser vencidas",
+        "6": "No poder do Teu amor"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Junto a Ti, Teu amor me envolve",
+        "1": "Atrai-me pra ao Teu lado estar",
+        "2": "Espero em Ti e subo como águia",
+        "3": "Nas asas do Espírito, Contigo voarei",
+        "4": "No poder do Teu amor"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Face a face, quero ver-te meu Senhor",
+        "1": "E conhecer o amor que habita em Ti",
+        "2": "Vem renovar minha mente em Teu querer",
+        "3": "Meus dias viverei no poder do Teu amor"
+      }
+    }
+  ]
+}

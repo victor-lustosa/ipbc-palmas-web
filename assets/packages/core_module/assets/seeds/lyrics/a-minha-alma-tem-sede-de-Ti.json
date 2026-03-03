@@ -1,0 +1,61 @@
+{
+  "title": "A Minha Alma Tem Sede de Ti",
+  "artist": "Rachel Novaes",
+  "album_cover": "packages/core_module/assets/images/default_cover_2.png",
+  "create_at": "",
+  "chords_file_name": "a-minha-alma-tem-sede-de-Ti",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "A minh'alma tem sede de Ti",
+        "1": "Meu espírito anseia por Ti",
+        "2": "Como criança",
+        "3": "Dependo de Ti"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Tua presença é descanso pra mim",
+        "1": "Alegria e conforto sem fim",
+        "2": "Mais do que tudo, desejo a Ti"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Dia a dia tu me guias",
+        "1": "Me revelas teu amor",
+        "2": "Como posso agradecer",
+        "3": "Tua vida em viver"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Eu desejo estar contigo",
+        "1": "Em teus braços me entregar",
+        "2": "A Ti eu quero sempre adorar"
+      }
+    },
+    {
+      "id": 4,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Eu te amo ó Senhor",
+        "1": "Tu és meu maior amor",
+        "2": "Estou apegado a Ti",
+        "3": "Exaltar todo o Teu ser",
+        "4": "É o meu maior prazer",
+        "5": "Já não sei mais viver sem Ti"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Nas Estrelas",
+  "artist": "Vencedores Por Cristo",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "nas-estrelas-vejo-a-Tua-mao",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Nas estrelas, vejo a Sua mão",
+        "1": "E no vento, ouço a Sua voz",
+        "2": "Deus domina sobre terra e mar",
+        "3": "O que ele é pra mim?"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Eu sei o sentido do Natal",
+        "1": "Pois na história tem o seu lugar",
+        "2": "Cristo veio para nos salvar",
+        "3": "O que ele é pra mim?"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Até que um dia, seu amor senti",
+        "1": "Sua imensa graça recebi",
+        "2": "Descobri, então, que Deus",
+        "3": "Não vive longe, lá no céu",
+        "4": "Sem se importar comigo"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Mas, agora, ao meu lado está",
+        "1": "Cada dia sinto Seu cuidar",
+        "2": "Ajudando-me a caminhar",
+        "3": "Tudo Ele é pra mim, aleluia",
+        "4": "Tudo Ele é pra mim, aleluia",
+        "5": "Tudo é Jesus para mim"
+      }
+    }
+  ]
+}

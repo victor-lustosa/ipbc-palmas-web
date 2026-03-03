@@ -1,0 +1,42 @@
+{
+  "title": "Venho, Senhor, Minha Vida Oferecer",
+  "artist": "Igreja Cristã Maranata",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "venho-Senhor-minha-vida-oferecer",
+  "format": "jpeg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Venho, Senhor, minha vida oferecer",
+        "1": "Como oferta de amor e sacrifício",
+        "2": "Quero minha vida a Ti entregar",
+        "3": "Como oferta viva em Teu altar"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Pois pra Te adorar foi que eu nasci",
+        "1": "Cumpre em mim o Teu querer",
+        "2": "Faça o que está em Teu coração",
+        "3": "E que a cada dia eu queira mais e mais",
+        "4": "Estar ao Teu lado, Senhor"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "E que a cada dia eu queira mais e mais",
+        "1": "Estar ao Teu lado",
+        "2": "Estar ao Teu lado",
+        "3": "Senhor"
+      }
+    }
+  ]
+}

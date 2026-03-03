@@ -1,0 +1,51 @@
+{
+  "title": "Teus Altares",
+  "artist": "João Alexandre",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "quao-amaveis-sao-os-Teus-tabernaculos",
+  "format": "jpeg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Quão amáveis são os Teus tabernáculos",
+        "1": "Senhor dos Exércitos!",
+        "2": "A minh'alma suspira e desfalece",
+        "3": "Pelos Teus átrios!"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "O pardal encontrou casa",
+        "1": "A andorinha ninho para si",
+        "2": "Eu encontrei Teus altares",
+        "3": "Senhor Rei meu e Deus meu"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Bem-aventurados aqueles que habitam",
+        "1": "Em Tua casa",
+        "2": "Pois um só dia, Senhor, nos Teus átrios",
+        "3": "Vale mais que mil"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Pois o Senhor é Sol e escudo",
+        "1": "Dá graça e glória",
+        "2": "Não negará bem algum aos que vivem",
+        "3": "Corretamente"
+      }
+    }
+  ]
+}

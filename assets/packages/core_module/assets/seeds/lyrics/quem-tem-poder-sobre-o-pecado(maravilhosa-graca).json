@@ -1,0 +1,60 @@
+{
+  "title": "Maravilhosa Graça",
+  "artist": "Comunidade da Graça",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "quem-tem-poder-sobre-o-pecado(maravilhosa-graca)",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Quem tem poder sobre o pecado?",
+        "1": "O seu amor é poderoso",
+        "2": "O Rei da glória",
+        "3": "O poderoso Deus",
+        "4": "A terra treme com Sua voz",
+        "5": "E nos deixa maravilhados",
+        "6": "O Rei da glória",
+        "7": "O poderoso Deus"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Maravilhosa graça",
+        "1": "Teu amor que não falha",
+        "2": "Tomou o meu lugar",
+        "3": "Levou a minha cruz",
+        "4": "Teu sangue me salvou",
+        "5": "Minha dívida pagou",
+        "6": "Jesus, eu canto porque hoje livre sou"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "És quem traz paz ao caos dos homens",
+        "1": "És escudo aos indefesos",
+        "2": "O Rei da glória",
+        "3": "O Poderoso Deus",
+        "4": "Reina em justiça sobre as nações",
+        "5": "A luz que brilha na escuridão",
+        "6": "O Rei da glória",
+        "7": "O poderoso Deus"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Digno é o Cordeiro de Deus",
+        "1": "Digno é o Cordeiro que a morte venceu"
+      }
+    }
+  ]
+}

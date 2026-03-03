@@ -1,0 +1,62 @@
+{
+  "title": "Aos Pés Da Cruz",
+  "artist": "Kleber Lucas",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "meu-Jesus-maravilhoso-es",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Meu Jesus, maravilhoso és",
+        "1": "Minha inspiração a prosseguir",
+        "2": "E mesmo quando tudo não vai bem",
+        "3": "Eu continuo olhando para Ti",
+        "4": "Pois sei que Tu tens o melhor pra mim",
+        "5": "Há um segredo no Teu coração",
+        "6": "Ó, dá-me forças pra continuar",
+        "7": "Guardando a promessa em oração"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Firme, ó, Deus, está o meu coração",
+        "1": "Firme nas promessas do Senhor",
+        "2": "Eu continuo olhando para Ti",
+        "3": "E assim eu sei que posso prosseguir"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "E mesmo quando eu chorar",
+        "1": "As minhas lágrimas serão",
+        "2": "Para regar a minha fé",
+        "3": "E consolar meu coração",
+        "4": "Pois o que chora aos pés da cruz",
+        "5": "Clamando em nome de Jesus",
+        "6": "Alcançará de Ti, Senhor",
+        "7": "Misericórdia, graça e luz"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Teu grande amor não cessa",
+        "1": "Eterno, não tem fim",
+        "2": "Quão grande és Tu, Senhor",
+        "3": "Quão grande és pra mim",
+        "4": "Tua graça é o meu refúgio",
+        "5": "Descanso no Teu poder",
+        "6": "Maravilhoso és, maravilhoso és pra mim"
+      }
+    }
+  ]
+}

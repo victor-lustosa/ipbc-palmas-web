@@ -1,0 +1,52 @@
+{
+  "title": "Jesus, Essência do Louvor",
+  "artist": "Pib de Curitiba",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "quando-o-som-se-vai",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Quando o som se vai, tudo se desfaz",
+        "1": "Eu me achego a Ti",
+        "2": "Para dar-Te, oh Deus, algo de valor",
+        "3": "Que alegre a Ti"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Dar-Te-ei mais que uma canção, pois a música em si",
+        "1": "Não é o que queres de mim",
+        "2": "Tu sondas meu interior",
+        "3": "Sabes tudo o que sou",
+        "4": "E queres meu coração"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Quero adorar-Te com minha alma",
+        "1": "És o meu Salvador, a essência do meu louvor",
+        "2": "Perdão, Senhor, é o que mais quero",
+        "3": "És o meu Redentor, a essência do meu louvor"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Não sei explicar Teu grandioso amor",
+        "1": "Tu mereces mais!",
+        "2": "Pobre e fraco sou, mas o que tenho é Teu!",
+        "3": "Minha vida dou!"
+      }
+    }
+  ]
+}

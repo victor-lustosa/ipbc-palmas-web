@@ -1,0 +1,50 @@
+{
+  "title": "Como É Bom",
+  "artist": "Paulo César Baruk",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "so-o-Senhor-daria-sua-vida",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Só o Senhor daria",
+        "1": "Sua vida pra me salvar",
+        "2": "Nenhum outro Deus",
+        "3": "Morreria em meu lugar",
+        "4": "Com sua graça e seu amor",
+        "5": "Livrou-me dos braços do pecado",
+        "6": "Fez de mim herdeiro",
+        "7": "Das bençãos de Deus",
+        "8": "(Herdeiro de Deus)"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Como é bom te louvar",
+        "1": "Como é bom te adorar",
+        "2": "E dizer que és Senhor",
+        "3": "Sobre toda a terra"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Toda terra te louva, Senhor",
+        "1": "Por teus feitos e teu grande amor",
+        "2": "Toda terra te louva, Senhor",
+        "3": "Por teus feitos e teu grande amor",
+        "4": "Pois grande és senhor",
+        "5": "Grande és Senhor",
+        "6": "Grande és Senhor",
+        "7": "Grande és Senhor"
+      }
+    }
+  ]
+}

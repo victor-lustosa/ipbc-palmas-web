@@ -1,0 +1,35 @@
+{
+  "title": "Quem Pode Livrar Como o Senhor",
+  "artist": "Corinhos Evangélicos",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "quem-pode-livrar-como-o-Senhor",
+  "format": "jpeg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Quem pode livrar como o Senhor",
+        "1": "Ele é poderoso para me guardar"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Quando os meus inimigos",
+        "1": "Se levantaram contra mim"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "O Senhor estendeu sua mão para mim",
+        "1": "E me deu a vitória"
+      }
+    }
+  ]
+}

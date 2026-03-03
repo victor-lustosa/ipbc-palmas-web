@@ -1,0 +1,65 @@
+{
+  "title": "Eu me alegro em Ti",
+  "artist": "Ministério de Louvor Shalom",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "a-Ti-bendirei-pra-sempre",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "A Ti bendirei pra sempre",
+        "1": "Em Ti confiarei, Senhor",
+        "2": "Eu não terei o que ter medo",
+        "3": "Meus pés só na rocha firmarei"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Não me abalarei",
+        "1": "E do Senhor direi"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Tu és meu Deus, protetor",
+        "1": "Meu refúgio e libertador",
+        "2": "Meu abrigo, torre forte",
+        "3": "Todo tempo meu socorro vem de Ti"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Não há outro a quem eu ame",
+        "1": "Tu és tudo o que desejo"
+      }
+    },
+    {
+      "id": 4,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Eu me alegro em Ti",
+        "1": "E do Senhor direi"
+      }
+    },
+    {
+      "id": 5,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Tu és meu Deus, protetor",
+        "1": "Meu refúgio, libertador",
+        "2": "Meu abrigo, torre forte",
+        "3": "Todo tempo meu socorro vem de Ti"
+      }
+    }
+  ]
+}

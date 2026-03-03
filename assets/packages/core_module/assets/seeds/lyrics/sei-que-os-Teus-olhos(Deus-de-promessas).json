@@ -1,0 +1,56 @@
+{
+  "title": "Deus de Promessas",
+  "artist": "Davi Sacer",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "sei-que-os-Teus-olhos(Deus-de-promessas)",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Sei que os Teus olhos",
+        "1": "Sempre atentos, permanecem em mim",
+        "2": "E os Teus ouvidos",
+        "3": "Estão sensíveis para ouvir meu clamor"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Posso até chorar,",
+        "1": "Mas a alegria vem de manhã",
+        "2": "És Deus de perto e não de longe",
+        "3": "Nunca mudastes,",
+        "4": "Tu és fiel"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Deus de aliança,",
+        "1": "Deus de promessas",
+        "2": "Deus que não é homem pra mentir",
+        "3": "Tudo pode passar, tudo pode mudar",
+        "4": "Mas Tua Palavra vai se cumprir"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Posso enfrentar o que for,",
+        "1": "Eu sei quem luta por mim",
+        "2": "Seus planos não podem ser frustrados",
+        "3": "Minha esperança está",
+        "4": "Nas mãos do grande Eu Sou",
+        "5": "Meus olhos vão ver o impossível",
+        "6": "Acontecer"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Não Tenhas Sobre Ti",
+  "artist": "Paulo César Baruk",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "nao-tenhas-sobre-ti-um-so-cuidado",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Não tenhas sobre ti",
+        "1": "Um só cuidado qualquer que seja",
+        "2": "Pois um, somente um",
+        "3": "Seria muito para ti"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "É meu",
+        "1": "Somente meu, todo o trabalho",
+        "2": "E o teu trabalho é descansar em mim"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Não temas quando enfim",
+        "1": "Tiveres que tomar decisão",
+        "2": "Entrega tudo a mim",
+        "3": "Confia de todo o coração"
+      }
+    }
+  ]
+}

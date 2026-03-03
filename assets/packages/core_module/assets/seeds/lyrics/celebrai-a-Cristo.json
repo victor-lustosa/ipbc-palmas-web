@@ -1,0 +1,40 @@
+{
+  "title": "Celebrai a Cristo",
+  "artist": "Corinhos Evangélicos",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "celebrai-a-Cristo",
+  "format": "jpeg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Celebrai a Cristo, celebrai",
+        "1": "Celebrai a Cristo, celebrai",
+        "2": "Celebrai a Cristo, celebrai",
+        "3": "Celebrai a Cristo, celebrai"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Ressuscitou, ressuscitou",
+        "1": "E hoje vive para sempre",
+        "2": "Ressuscitou, ressuscitou",
+        "3": "E hoje vive para sempre"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Vamos celebrar, rei!",
+        "1": "Vamos celebrar, oh!",
+        "2": "Vamos celebrar, ressuscitou o Senhor!"
+      }
+    }
+  ]
+}

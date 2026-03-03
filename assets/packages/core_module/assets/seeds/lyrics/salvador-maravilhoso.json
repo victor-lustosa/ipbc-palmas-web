@@ -1,0 +1,55 @@
+{
+  "title": "Salvador Maravilhoso",
+  "artist": "Gerson Borges",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "salvador-maravilhoso",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Salvador maravilhoso",
+        "1": "Deus que tomou meu lugar",
+        "2": "Cordeiro entregue ao Calvário",
+        "3": "Morto pra nos salvar",
+        "4": "Ô ô ô, morto pra nos salvar"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Consolador, Conselheiro",
+        "1": "Deus que me vem abraçar",
+        "2": "Na noite escura da alma",
+        "3": "Tu vens comigo andar",
+        "4": "Ô ô ô, Tu vens comigo andar"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Por isso nós te adoramos",
+        "1": "Por isso vamos louvar",
+        "2": "Pois dessa graça que sara",
+        "3": "Só tu nos podes dar",
+        "4": "Ô ô ô, só Tu nos podes dar"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Pai poderoso e infinito",
+        "1": "Deus que não cansa de amar",
+        "2": "Em meio às nossas fraquezas",
+        "3": "Nós vamos te buscar",
+        "4": "Ô ô ô, nós vamos Te buscar"
+      }
+    }
+  ]
+}

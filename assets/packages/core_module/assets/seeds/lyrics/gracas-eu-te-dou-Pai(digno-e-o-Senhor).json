@@ -1,0 +1,49 @@
+{
+  "title": "Digno é o Senhor",
+  "artist": "Aline Barros",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "gracas-eu-te-dou-Pai(digno-e-o-Senhor)",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Graças eu te dou, Pai",
+        "1": "Pelo preço que pagou",
+        "2": "Sacrifício de amor",
+        "3": "Que me comprou",
+        "4": "Ungido do Senhor"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Pelos cravos em tuas mãos",
+        "1": "Graças eu te dou, ó meu Senhor",
+        "2": "Lavou minha mente e coração",
+        "3": "Me deu perdão",
+        "4": "Restaurou-me a comunhão"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Digno é o Senhor",
+        "1": "Sobre o trono está",
+        "2": "Soberano, criador",
+        "3": "Vou sempre te adorar",
+        "4": "Elevo minhas mãos",
+        "5": "Ao Cristo que venceu",
+        "6": "Cordeiro de Deus",
+        "7": "Morreu por mim",
+        "8": "Mas ressuscitou",
+        "9": "Digno é o Senhor"
+      }
+    }
+  ]
+}

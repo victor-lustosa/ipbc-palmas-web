@@ -1,0 +1,32 @@
+{
+  "title": "Carvalho De Justiça",
+  "artist": "Kleber Lucas",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "o-Espirito-do-Senhor(Carvalhos-de-justiça)",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "O Espírito do Senhor está presente para consolar",
+        "1": "É Deus com a gente exalando vida, forças para caminhar"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "E Ele nos ungiu para pregar libertação",
+        "1": "E quebrar cadeias, prá restaurar os corações",
+        "2": "E anunciar o ano aceitável do Senhor",
+        "3": "Afim de que se chamem",
+        "4": "Afim de que se chamem",
+        "5": "Afim de que se chamem",
+        "6": "Carvalhos de justiça"
+      }
+    }
+  ]
+}

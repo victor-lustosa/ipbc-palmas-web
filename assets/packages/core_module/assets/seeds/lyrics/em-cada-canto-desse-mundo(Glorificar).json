@@ -1,0 +1,63 @@
+{
+  "title": "Glorificar",
+  "artist": "Projeto Sola",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "em-cada-canto-desse-mundo(Glorificar)",
+  "format": "jpeg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Em cada canto deste mundo",
+        "1": "Cada passo ecoar seu amor",
+        "2": "A sua redenção",
+        "3": "Sempre a mesma bandeira",
+        "4": "Que não é sobre nós",
+        "5": "Mas é Cristo, a luz, Senhor e Rei"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "O grande Eu Sou, com Sua voz",
+        "1": "Nos chama a existir, com Ele caminhar",
+        "2": "Servir e amar, a Igreja",
+        "3": "O Seu santo nome, e até o fim sempre glorificar"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Um tesouro em vasos frágeis",
+        "1": "Sua luz brilhou na escuridão",
+        "2": "Em nossos corações",
+        "3": "Somos servos desse amor",
+        "4": "Mostrar o Seu poder",
+        "5": "Graça que é apesar de nós"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Em todo lugar em cada expressão",
+        "1": "Glorificar",
+        "2": "Seja aqui ou além, e até o final",
+        "3": "Glorificar"
+      }
+    },
+    {
+      "id": 4,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Oh, oh, oh, oh",
+        "1": "Glorificar!"
+      }
+    }
+  ]
+}

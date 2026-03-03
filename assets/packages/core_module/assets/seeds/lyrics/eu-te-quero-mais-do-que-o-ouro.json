@@ -1,0 +1,44 @@
+{
+  "title": "Eu Te Quero",
+  "artist": "Adoração & Adoradores",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "eu-te-quero-mais-do-que-o-ouro",
+  "format": "jpeg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Eu te quero mais do que o ouro",
+        "1": "Eu te quero mais do que os tesouros",
+        "2": "Eu te quero mais do que a minha vida",
+        "3": "Senhor",
+        "4": "Te desejo mais do que mil bênçãos",
+        "5": "Meu anseio é agradar Teu coração",
+        "6": "Outro bem não possuo além de Ti",
+        "7": "Senhor"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Tu És a porção da minha herança",
+        "1": "És o bem maior pra mim",
+        "2": "O meu coração não pode mais",
+        "3": "Viver sem o Teu grande amor"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Meu anseio És Tu Jesus",
+        "1": "Meu anseio És Tu Jesus",
+        "2": "Meu anseio És Tu Jesus"
+      }
+    }
+  ]
+}

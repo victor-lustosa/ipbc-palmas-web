@@ -1,0 +1,41 @@
+{
+  "title": "Meu Prazer",
+  "artist": "Rodrigo Soeiro",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "estar-em-Tua-casa-e-um-privilegio",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Estar em tua casa é um privilégio",
+        "1": "Poder levantar minhas mãos",
+        "2": "Em unidade com meus irmãos",
+        "3": "Te adorar em forma de gratidão"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Vale mais um dia em tua casa",
+        "1": "Do que mil em outros lugares"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Meu prazer é ti servir",
+        "1": "Meu prazer é ti adorar",
+        "2": "Vou erguer a minha voz pro mundo inteiro escutar",
+        "3": "Que eu te amo Deus",
+        "4": "Eu te amo Pai",
+        "5": "Eu quero sempre te adorar"
+      }
+    }
+  ]
+}

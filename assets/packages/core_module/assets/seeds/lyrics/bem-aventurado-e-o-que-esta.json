@@ -1,0 +1,57 @@
+{
+  "title": "Bem-Aventurado",
+  "artist": "Aline Barros",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "bem-aventurado-e-o-que-esta",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Bem-aventurado é o que está",
+        "1": "Firmado em Tua casa",
+        "2": "Aqueles que Te louvam",
+        "3": "Cujo coração está no nosso Deus"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Bem-aventurado é o que tem",
+        "1": "Sede da justiça de Deus",
+        "2": "Aqueles que são filhos da luz",
+        "3": "Cuja força vem do nosso Deus"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Que o Teu reino venha sobre nós",
+        "1": "Queremos Tua glória sobre nós"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Ouve, ó Deus",
+        "1": "Nossa oração, Altíssimo",
+        "2": "Sara essa nação",
+        "3": "É o clamor da igreja que Te adora"
+      }
+    },
+    {
+      "id": 4,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Só Tu és santo, só Tu és santo",
+        "1": "Só Tu és santo, Senhor"
+      }
+    }
+  ]
+}

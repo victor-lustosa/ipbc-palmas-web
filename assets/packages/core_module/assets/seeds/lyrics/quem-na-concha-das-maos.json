@@ -1,0 +1,51 @@
+{
+  "title": "A Majestade do Senhor",
+  "artist": "Canta IPB",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "quem-na-concha-das-maos",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Quem na concha das mãos mediu as águas?",
+        "1": "E com a palma das mãos mediu os céus?",
+        "2": "Considera as nações como pó, diante da sua grandeza",
+        "3": "Nada é semelhante ao Senhor, Rei dos exércitos"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Quem pôs as estrelas nos céus todas contadas?",
+        "1": "E pelo nome chamou todos os seus?",
+        "2": "Quem perdoa o mais vil pecador, e sara as suas feridas?",
+        "3": "Nada é semelhante ao Senhor, Rei dos exércitos"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Rei poderoso, Grande Deus",
+        "1": "Rei Majestoso, Santo Deus",
+        "2": "Toda a terra irá proclamar, sua glória, amor e poder",
+        "3": "Força e formosura estão diante de Ti"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Quem na concha das mãos mediu as águas?",
+        "1": "E com a palma das mãos mediu os céus?",
+        "2": "Quem pôs as estrelas nos céus todas contadas?",
+        "3": "E pelo nome chamou todos os seus?"
+      }
+    }
+  ]
+}

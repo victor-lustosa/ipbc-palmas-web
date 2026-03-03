@@ -1,0 +1,40 @@
+{
+  "title": "Adoramos o Cordeiro",
+  "artist": "Diante do Trono",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "adoramos-o-Cordeiro",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Adoramos o Cordeiro",
+        "1": "Adoramos o Rei dos reis",
+        "2": "Adoramos o Cordeiro",
+        "3": "Adoramos o Rei"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Com nossas mãos levantadas, rendemos louvor",
+        "1": "Com nossas mãos levantadas, nos regozijamos",
+        "2": "Com nossas mãos levantadas ao céu",
+        "3": "Nós dizemos ao mundo que amamos o nosso Rei"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Ô, ô, ô, nós amamos o nosso Rei",
+        "1": "Ô, ô, ô, nós amamos o nosso Rei",
+        "2": "Ô, ô, ô, nós amamos o nosso Rei"
+      }
+    }
+  ]
+}

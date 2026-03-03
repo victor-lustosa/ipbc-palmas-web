@@ -1,0 +1,2124 @@
+[
+  {
+    "title": "Hino 321 - Mãos ao Trabalho",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 321,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mãos ao trabalho, jovens! Vai já passando o alvor.",
+          "1": "Eia, enquanto tendes Vossa vida em flor!",
+          "2": "Vamos enquanto é dia, Com força trabalhar!",
+          "3": "Eia, que em vindo a noite Não há mais lidar"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mãos ao trabalho, homens! Firmes, enquanto há luz",
+          "1": "Eia, que é tempo agora De servir Jesus!",
+          "2": "Ide o vigor da vida Todos ao bem votar!",
+          "3": "Eia, que em vindo a noite Não há mais lidar."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mãos ao trabalho todos! Breve nos chega o fim",
+          "1": "Quando soar um dia Da morte o clarim!",
+          "2": "Vamos, irmãos, à obra! Por Cristo trabalhar!",
+          "3": "Eia, que em vindo a noite Vamos descansar."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 322 - Heroínas da Fé",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 322,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Avante, companheiras, Na causa de Jesus!",
+          "1": "Ativas no trabalho, Servi enquanto há luz!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mostrai, na atividade, A vossa gratidão",
+          "1": "A Cristo, o grande Amigo O Autor da Redenção."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O exemplo de Maria Que, aos pés do Salvador,",
+          "1": "Tomou a melhor parte, Segui com fé e amor."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Os dons do vosso afeto A Cristo consagrai!",
+          "1": "À Igreja, que é seu corpo, Dedicação mostrai!"
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Erguei-vos heroínas, E vinde trabalhar!",
+          "1": "Mostrai vossas virtudes Na Pátria, Igreja e Lar!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 323 - Santa Peleja",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 323,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nesta arena da santa peleja,",
+          "1": "No combate devemos entrar,",
+          "2": "Batalhando com fé e coragem,",
+          "3": "Pois a noite não tarda em chegar."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Vamos, vamos, leais companheiras,",
+          "1": "Caminhando na luz do Senhor!",
+          "2": "A divisa do nosso estandarte",
+          "3": "Seja, esperança e amor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mas se o mundo, coberto de trevas,",
+          "1": "Nos olhar com rigor ou desdém,",
+          "2": "Prossigamos, ousadas, avante,",
+          "3": "Espalhando as idéias do bem."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pelejemos! A causa é sagrada!",
+          "1": "Vamos todas com fé e oração;",
+          "2": "E guiados por Deus, Pai celeste,",
+          "3": "Cumpriremos a nossa missão!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 324 - Unidas e Firmes",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 324,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sempre unidas companheiras, Declaremos por Jesus,",
+          "1": "Guerra santa contra as trevas, Pelejando junto à cruz!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Vamos todas, vamos todas,",
+          "1": "Sempre unidas no Senhor!",
+          "2": "Como esposas, mães ou filhas,",
+          "3": "Trabalhemos com fervor!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Somos fracas, bem sabemos, Mas havemos de vencer;",
+          "1": "Se tivermos confiança Se cumprirmos o dever."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sempre firmes na esperança, Confiando no Senhor,",
+          "1": "Imploremos sua graça E busquemos seu amor!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 325 - Aspiração Feminina",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 325,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A nós aqui reunidas, Senhor envia luz.",
+          "1": "São tuas nossas vidas, Ganhaste-as sobre a cruz.",
+          "2": "É vão qualquer trabalho Sem tua aprovação!",
+          "3": "O nosso esforço é falho Se não nos dás a mão"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nós crentes redimidas, Depomos nosso lar",
+          "1": "E as nossas próprias vidas Perante o teu altar.",
+          "2": "Se a nossa fé se abala Em face às tentações,",
+          "3": "Levanta a voz e fala Aos nossos corações."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A experiência viva Do teu fiel amor",
+          "1": "O nosso ardor ativa E inspira em nós fervor.",
+          "2": "Esposas, mães piedosas, Queremos ser, Senhor",
+          "3": "Fiéis e carinhosas, Enchendo o lar de amor."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Que paz e harmonia Dominem nosso lar,",
+          "1": "E em tua companhia Possamos sempre andar.",
+          "2": "Escola de piedade Que eleva a Igreja a ti,",
+          "3": "Seja esta sociedade Ao teu serviço aqui."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "E o mundo despertado, Contemplará em nós",
+          "1": "Rebanho santo e amado, Atento à tua voz. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 325-A - Jesus Cristo é o Senhor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 325,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Todas unidas com santo ardor,",
+          "1": "Almas remidas cheias de amor.",
+          "2": "Nossa mensagem é de valor,",
+          "3": "Pois Jesus Cristo é o Senhor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Sim, Jesus Cristo é o Senhor!",
+          "1": "Das nossas vidas ele é o Senhor!",
+          "2": "Dos nossas lares ele é o Senhor!",
+          "3": "E o nosso tempo é do Senhor!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vamos bem alto o seu Nome erguer,",
+          "1": "Nossos recursos oferecer,",
+          "2": "Para que o mundo venha saber",
+          "3": "Que ele é o Senhor de todo ser!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nosso trabalho é para o Senhor,",
+          "1": "Nossos talentos são do Senhor.",
+          "2": "Vamos, unidas, pois, proclamar",
+          "3": "Que ele é o Senhor do céu e mar!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 326 - Homens Presbiterianos",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 326,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Homens presbiterianos do Brasil",
+          "1": "Testemunhas de Jesus, o Salvador!",
+          "2": "Levantemo-nos, com fé e mui vigor,",
+          "3": "Com mensagem varonil!",
+          "4": "O Senhor nos manda a todos proclamar",
+          "5": "O valor do sangue que por nós verteu",
+          "6": "Lá na cruz onde, bondoso, padeceu",
+          "7": "Para a glória nos levar!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Sim, lutemos por Cristo Jesus,",
+          "1": "Apontando aos descrentes ateus",
+          "2": "O caminho repleto de luz,",
+          "3": "Ó varões santos, filhos de Deus."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Homens presbiterianos do Brasil",
+          "1": "Na oração teremos perenal poder!",
+          "2": "E faremos sempre a Bíblia resplender",
+          "3": "Nesta Pátria senhoril!",
+          "4": "Com Jesus, o nosso grande e bom país",
+          "5": "Viverá em paz, e, olhando o seu porvir,",
+          "6": "Terá bênção copiosa a espargir,",
+          "7": "E o Brasil será feliz!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Homens presbiterianos do Brasil",
+          "1": "Que integramos vasta Confederação,",
+          "2": "Com valor e piedosa vocação",
+          "3": "Trabalhemos, um por mil,",
+          "4": "Na grandiosa obra de Jesus, Senhor,",
+          "5": "Poderosa, forte, bela e triunfal,",
+          "6": "Arvorando, com amor, pendão real,",
+          "7": "Exaltando seu labor!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 327 - Obreiros Cristãos",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 327,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Aqui reunidos, queremos, ó Deus,",
+          "1": "À causa da Igreja servir.",
+          "2": "Na santa seara, a nós, servos teus,",
+          "3": "Oh, mostra, Senhor, como agir."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Aos teus mensageiros, oh, vem, Salvador,",
+          "1": "Tornar cada vez mais fiéis!",
+          "2": "E dá-lhes amparo e sustento, Senhor,",
+          "3": "Em tempos tão maus e cruéis."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nas lutas, liberta-os de toda paixão",
+          "1": "E dá-lhes o amor eficaz,",
+          "2": "O amor que congraça, que faz a união,",
+          "3": "O amor do “Evangelho da Paz.”"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "De vis preconceitos e impulsos carnais",
+          "1": "Vem sempre os teus servos guardar,",
+          "2": "Unindo-os no afeto de amigos leais,",
+          "3": "Fazendo-os em paz trabalhar."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, dá às mensagens mais alto poder;",
+          "1": "A todos inspira na cruz!",
+          "2": "Senhor, aos teus servos concede o saber,",
+          "3": "Mais fé, mais lampejos de luz!"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dos falsos obreiros a astúcia do mal",
+          "1": "Afasta, Senhor, com poder.",
+          "2": "E à boa semente do santo trigal",
+          "3": "Permite nascer e crescer! Amém."
+        }
+      },
+      {
+        "id": 6,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Filho de Deus, por ele aqui mandado",
+          "1": "És com o Pai o mesmo Deus de amor!",
+          "2": "Une os teus servos para o teu serviço",
+          "3": "Sim, vem unir-nos, pois, em ti, Senhor."
+        }
+      },
+      {
+        "id": 7,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó Santo Espírito, divino Mestre,",
+          "1": "A sã doutrina vem nos ensinar!",
+          "2": "Traze ao aflito e triste o teu consolo,",
+          "3": "E em meio às trevas faze a luz brilhar."
+        }
+      },
+      {
+        "id": 8,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó Deus Triúno, Deus de toda a graça,",
+          "1": "Teus pensamentos quão grandiosos são!",
+          "2": "Teu povo almeja estar contigo sempre;",
+          "3": "“Venha o teu reino” é a nossa petição."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 328 - Deus do Universo",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 328,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Deus do universo, de leis imutáveis,",
+          "1": "Que nos sustém na luta terreal,",
+          "2": "Dá-nos marchar em meio às tuas hostes,",
+          "3": "Para servir na luta divinal."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 329 - Instalação de Pastor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 329,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Senhor da Igreja, atende A nossa petição!",
+          "1": "Que o teu trabalho siga Com grande animação.",
+          "2": "Os campos já branquejam, Convidam a ceifar",
+          "3": "E os preciosos frutos Na Igreja a arrecadar."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A ti, Senhor, compete Ceifeiros escolher.",
+          "1": "Que tudo realizem Conforme o teu querer.",
+          "2": "Os ânimos prepara, Inflama os corações",
+          "3": "E manda os bons obreiros Em grandes multidões."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Se aquele que escolhemos Mandado foi por ti,",
+          "1": "Seu santo ministério Conduze sempre aqui.",
+          "2": "Confirma o pastorado Com bênçãos especiais",
+          "3": "E dá-lhe, em ricos frutos, Divinas credenciais."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Alenta-lhe a esperança, Aumenta nele a fé.",
+          "1": "Na lida, não permitas Que lhe vacile o pé.",
+          "2": "E cada vez mais forte, Mais cheio de fervor,",
+          "3": "A todos manifeste A graça do Senhor. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 330 - A Bênção do Batismo",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 330,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó Jesus, eu te confesso,",
+          "1": "Para sempre és meu Senhor",
+          "2": "Obediente, aqui desejo",
+          "3": "Pertencer-te, ó Salvador."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sendo agora batizado,",
+          "1": "Tomo, enfim, o meu lugar",
+          "2": "Entre o povo que o teu sangue",
+          "3": "Veio lá na cruz comprar."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Para o mundo, agora, eu morto,",
+          "1": "Tenho vida em ti, Jesus,",
+          "2": "Já nas trevas não vacilo,",
+          "3": "Pois caminho em plena luz."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sendo nova criatura,",
+          "1": "Santidade buscarei,",
+          "2": "Pela qual o mundo veja",
+          "3": "Que Tu és Senhor e Rei."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Fortalece ao meu anseio",
+          "1": "De te ser fiel aqui,",
+          "2": "Pois minha alma só aspira",
+          "3": "A viver de ti em ti. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 331 - Oração (Batismo)",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 331,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Confirma, ó Salvador, A decisão feliz",
+          "1": "De quem, por teu amor, Deixar o mundo quis,",
+          "2": "E agora vem se batizar,",
+          "3": "Submisso e humilde ao teu mandar."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Aperfeiçoa em paz E em teu divino amor,",
+          "1": "O coração que faz Tal confissão, Senhor!",
+          "2": "E em tudo faze o meu viver",
+          "3": "Conforme, sempre, o teu querer!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó protetor fiel, Amparador dos teus,",
+          "1": "Do mundo no tropel Conduz os passos meus!",
+          "2": "Nas tentações sê Tu, Senhor,",
+          "3": "O meu constante Defensor."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nos sentimentos bons, Na comunhão veraz,",
+          "1": "Revela os ricos dons Que o teu poder nos traz;",
+          "2": "Mostrando ao mundo, assim, Jesus,",
+          "3": "Que é bom andar na tua luz. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 332 - Batismo Infantil",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 332,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nossos filhos te pertencem, Ó eterno Deus de amor!",
+          "1": "São herdeiros da aliança Que proclama teu amor,",
+          "2": "E os trouxemos hoje aqui Para os dedicar a ti."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Desde os dias mais remotos,",
+          "1": "Desde os tempos de Abraão,",
+          "2": "Do antigo testamento, Tempo da circuncisão,",
+          "3": "O que nasce nesta fé Do Senhor ovelha é."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ao trazê-los ao batismo, Eis-nos a testemunhar",
+          "1": "Que pertencem à Igreja, Onde os vimos alistar:",
+          "2": "Que pertencem ao Senhor Seu amigo, Salvador."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nesta hora tão solene, Quando a água batismal",
+          "1": "Se derrama nos infantes Com valor sacramental,",
+          "2": "Te pedimos, grande Deus,",
+          "3": "Abençoa-os lá dos céus. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 333 - O Batismo",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 333,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Nós, Senhor, nos alegremos Ao teu mando obedecer.",
+          "1": "Pois tu mesmo nos mandaste O batismo receber.",
+          "2": "Vem, agora, Deus de amor, Conceder-nos teu favor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Este selo nos recorda Mandamento do Senhor.",
+          "1": "É Figura que nos fala Do poder renovador.",
+          "2": "Vem por ele a Igreja unir Quem te pode aqui seguir."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Morte ao mundo declaramos, Morte ao vil pecado sim!",
+          "1": "Com Jesus ao nosso lado A vitória é certa, enfim!",
+          "2": "Ó Senhor, vem consagrar A quem vem se batizar."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mortos para o mundo estamos,",
+          "1": "Desejando a Deus servir.",
+          "2": "Vivos em Jesus queremos Sua imagem refletir.",
+          "3": "Vem, Senhor, aqui fazer",
+          "4": "Tua graça em nós crescer. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 334 - A Conversão",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 334,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Em cegueira eu andei e perdido vaguei",
+          "1": "Longe, longe do meu Salvador!",
+          "2": "Mas da glória desceu, o seu sangue verteu",
+          "3": "E salvou este pobre pecador."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Foi na cruz, foi na cruz que um dia eu vi",
+          "1": "Meu pecado castigado em Jesus!",
+          "2": "Foi ali pela fé, que meus olhos abri",
+          "3": "E agora me alegro em sua luz!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Já ouvia falar dessa graça sem par,",
+          "1": "Que do céu trouxe Cristo Jesus!",
+          "2": "Mas eu surdo me fiz, converter-me não quis",
+          "3": "Ao Senhor que por mim morreu na cruz."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Mas um dia senti meu pecado, e vi",
+          "1": "Sobre mim o castigo da Lei!",
+          "2": "Apressado fugi, em Jesus me escondi,",
+          "3": "E abrigo seguro nele achei."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Que ditoso, então, foi o meu coração,",
+          "1": "Conhecer o excelso amor,",
+          "2": "Que levou meu Jesus a sofrer lá na cruz,",
+          "3": "E salvar este pobre pecador."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 335 - Júbilo no Céu",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 335,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, que belos hinos cantam lá no céu,",
+          "1": "Pois do mundo o filho mau voltou!",
+          "2": "Vede o Pai celeste prestes a abraçar",
+          "3": "Esse filho que ele tanto amou!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Glória! Glória! Os anjos cantam lá!",
+          "1": "Glória! Glória! As harpas tocam já!",
+          "2": "É o santo coro dando glória a Deus,",
+          "3": "Por mais um remido entrar nos céus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh que belos hinos cantam lá no céu!",
+          "1": "É que já se reconciliou",
+          "2": "A rebelde alma que, rendida a Deus,",
+          "3": "Renascida, para lá voltou!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Este arrependido vamos festejar,",
+          "1": "Como os anjos fazem com fervor.",
+          "2": "E anunciemos, com real prazer,",
+          "3": "Que se resgatou um pecador."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 336 - Transformação",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 336,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eu, perdido pecador, Longe do meu Jesus",
+          "1": "Me encontrava, sem vigor, A perecer sem luz.",
+          "2": "Meu estado Cristo viu, Dando-me sua mão,",
+          "3": "E salvar-me conseguiu Da perdição."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Cristo me amou e me livrou!",
+          "1": "O seu imenso amor me transformou!",
+          "2": "Foi seu poder, o seu querer!",
+          "3": "Sim, Cristo, Salvador, me transformou!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Minha vida, todo o ser, Quero lhe consagrar!",
+          "1": "Ao seu lado vou viver, O seu amor cantar.",
+          "2": "A mensagem transmitir Aos que perdidos são!",
+          "3": "Venham todos já fruir A salvação."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 337 - Profissão de Fé",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 337,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O Céu festeja a conversão",
+          "1": "De mais um pecador!",
+          "2": "Exulta a Igreja de prazer;",
+          "3": "É dia de esplendor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sustenta ó Deus o pecador",
+          "1": "Que o mundo quis deixar!",
+          "2": "Acolhe o nosso novo irmão",
+          "3": "Que a fé vem professar."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Confirma em teu poder, Senhor,",
+          "1": "A santa profissão,",
+          "2": "E a cerimônia a relembrar",
+          "3": "O sangue da aspersão"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Consolador divino, vem",
+          "1": "As almas converter!",
+          "2": "Vem muitas almas batizar,",
+          "3": "Exerce o teu poder! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 338 - Dia da Profissão de Fé",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 338,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Salve, dia de festa e canto",
+          "1": "Quando venho a fé professar",
+          "2": "Em Deus Pai, no Espírito Santo,",
+          "3": "E em Jesus que veio me salvar"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Salve, tempo que evoca o passado,",
+          "1": "Quando a mão do meu Deus me tomou!",
+          "2": "Ele, Amigo sem par, ao meu lado",
+          "3": "Com amor fraternal me guiou!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Salve, data de alegre memória,",
+          "1": "De convívio, de amor fraternal!",
+          "2": "Salve, dia em que canto vitória",
+          "3": "Contra as fúrias tremendas do mal."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 339 - Dia Feliz",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 339,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, dia alegre em que aceitei Jesus e nele a salvação!",
+          "1": "O gozo deste coração Eu mais e mais publicarei."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Oh, feliz, bem feliz,",
+          "1": "O dia em que me converti!",
+          "2": "Jesus me ensina a vigiar",
+          "3": "E, confiado nele, a orar!",
+          "4": "Oh, feliz, bem feliz,",
+          "5": "O dia em que me converti!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Completa a grande expiação,",
+          "1": "Pertenço agora ao meu Senhor!",
+          "2": "Chamou-me a voz do seu amor",
+          "3": "E nele achei real perdão!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Me sacro voto, ó Salvador, De dia em dia afirmarei!",
+          "1": "E além da morte exultarei,",
+          "2": "Louvando sempre a ti, Senhor"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 340 - Santa Comunhão",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 340,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Disposta a mesa, ó Salvador,",
+          "1": "Estás presente aqui!",
+          "2": "Ministra o vinho, parte o pão,",
+          "3": "Tipos, Jesus, de ti."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Juntos, lembramos tua cruz;",
+          "1": "Por nós sofreste ali.",
+          "2": "Por tua graça divinal,",
+          "3": "Vivemos para ti."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Desperta, anima, enleva os teus,",
+          "1": "Fazendo-os discernir",
+          "2": "Que Tu presente, ó Cristo, estás",
+          "3": "Teu povo a dirigir."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Na Santa Ceia, ó grande Deus,",
+          "1": "Buscamos comunhão",
+          "2": "Contigo, nosso Benfeitor,",
+          "3": "Com todo vero irmão."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sabemos que regressarás",
+          "1": "Em majestade e luz!",
+          "2": "Juiz Supremo, eterno Rei,",
+          "3": "Oh, vem, Senhor Jesus! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 341 - Vera Páscoa",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 341,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó Jesus, ó vera Páscoa Suspirada dos antigos!",
+          "1": "Ó Cordeiro eterno e meigo, Digna-te assistir aqui!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Bom Jesus, ó Pão divino, Pela fé te recebemos.",
+          "1": "És nas almas o alimento Que sustenta o nosso amor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Bom Jesus, ó Vinho puro De perene gozo a fonte,",
+          "1": "Faze que nossa alma viva Para ti, sempre de ti. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 342 - Comunhão (1a Música)",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 342,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Atendendo ao que mandaste, Relembramos, ó Jesus,",
+          "1": "O teu grande sacrifício Consumado sobre a cruz."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Monumento precioso, Onde esplende o teu amor,",
+          "1": "Esta ceia é simbolismo Do teu gesto redentor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Recordando o que sofreste, Aguardamos o porvir,",
+          "1": "Quando em majestade e glória, Como o sol vais refulgir."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Que por meio desta Ceia Nós cresçamos em poder;",
+          "1": "O Poder com que os remidos",
+          "2": "Todo o mal irão vencer. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 343 - Em Memória",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 343,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Levado pelo imenso amor",
+          "1": "Que Tu me tens, Senhor,",
+          "2": "À tua Mesa, ó Salvador,",
+          "3": "Lembrar-me-ei de ti!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Por meu pecado, sobre a cruz,",
+          "1": "Sofreste, meu Jesus,",
+          "2": "Meu Salvador e minha luz,",
+          "3": "Lembrar-me-ei de ti!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Na cruz teu corpo sucumbiu,",
+          "1": "Na morte que o feriu.",
+          "2": "A mim teu sangue redimiu!",
+          "3": "Lembrar-me-ei de ti!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "E quando a morte, enfim, chegar,",
+          "1": "Jesus, ao doce lar,",
+          "2": "Os teus fiéis virás chamar;",
+          "3": "Lembrar-te-ás de mim. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 344 - A Ceia do Senhor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 344,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Eis-me aqui, Senhor bondoso,",
+          "1": "Tua Ceia a celebrar,",
+          "2": "E por ela neste instante,",
+          "3": "Tua morte anunciar."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "De teu sangue e tua carne,",
+          "1": "Pela fé já me nutri,",
+          "2": "Pois da vida o pão me deste,",
+          "3": "Quando em ti, Jesus, eu cri."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Proclamando a tua morte,",
+          "1": "Eu relembro o grande amor",
+          "2": "Que inspirou teu sacrifício",
+          "3": "Pelo pobre pecador."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Que o amor aqui lembrado",
+          "1": "Venha encher o coração",
+          "2": "Dos que jazem separados",
+          "3": "Desta doce comunhão! Amém."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Do Senhor, o excelso Mestre,",
+          "1": "Comemoro o grande amor,",
+          "2": "Proclamando a sua morte",
+          "3": "Pelo pobre pecador."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vem Jesus, Senhor bondoso,",
+          "1": "Meu espírito instruir,",
+          "2": "Para que, nos dois emblemas,",
+          "3": "Eu te possa discernir."
+        }
+      },
+      {
+        "id": 6,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "E permite que hoje eu tenha,",
+          "1": "No fruir da salvação,",
+          "2": "Com os crentes e contigo",
+          "3": "Verdadeira comunhão. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 345 - O Pão do Mundo",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 345,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó Pão, só por amor partido! Ó Vinho, dado por amor!",
+          "1": "Ó Cristo, vida nos tens sido,",
+          "2": "Por tua morte em grande dor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ao pecador atribulado Vens, mesmo agora, consolar.",
+          "1": "De tua Ceia, ó Cristo amado,",
+          "2": "Nossa alma vem alimentar. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 346 - A Ceia do Senhor (Não nas Mãos)",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 346,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Não nas mãos, mas em minha alma,",
+          "1": "Tomo o corpo de Jesus,",
+          "2": "E, em figura, bebo o sangue",
+          "3": "Derramado sobre a cruz."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 347 - O Justo Pelos Injustos",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 347,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó crentes, cantai entoando o louvor",
+          "1": "De quem nos remiu com tão grande amor!",
+          "2": "Os crimes do mundo, levando na cruz,",
+          "3": "Por nossos pecados foi morto Jesus."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O preço completo o Justo pagou!",
+          "1": "Foi morto e da morte os laços quebrou;",
+          "2": "E as trevas da noite tornaram-se em luz,",
+          "3": "No dia bendito de nosso Jesus."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Imagem do céu! Oh, dia primor!",
+          "1": "Mercê divinal do grande Senhor!",
+          "2": "Quão doce descanso Jesus nos legou,",
+          "3": "No santo Domingo em que ressuscitou!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Agora se cumpre em nós, bom Senhor,",
+          "1": "A linda promessa de teu amor:",
+          "2": "De que, congregados, Tu sempre estarás",
+          "3": "Presente, trazendo-nos bênçãos e paz. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 348 - É Este o Dia",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 348,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "É este o dia que o bom Deus Criou com sua mão!",
+          "1": "A terra inteira, os altos céus, Louvor alegres dão."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Foi neste dia que o Senhor Da tumba ressurgiu!",
+          "1": "De Satanás, o atroz furor Com força repeliu!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vinde, louvai ao Rei Senhor , Ao Filho de Davi!",
+          "1": "Vem ajudar-nos, Salvador, E habita em nós aqui."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Glória louvor e adoração A Cristo vimos dar!",
+          "1": "Os altos céus se alegrarão, Louvando-o sem cessar!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 349 - Dia do Senhor",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 349,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Hoje é dia do Senhor! Entoai o seu louvor",
+          "1": "E adorai-o com fervor. Glória ao nosso Deus!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Hoje a casa de oração Procuramos, em união,",
+          "1": "E gozamos comunhão Com o nosso Deus!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Hoje Cristo, ao pregador Que anuncia o seu amor,",
+          "1": "Dê a prova do favor: O poder de Deus!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Hoje é dia de perdão! Deus convida o coração",
+          "1": "A aceitar a Redenção; Glória ao nosso Deus!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 350 - A Palavra da Vida",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 350,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Fonte da Celeste Vida, Manifesta o teu poder.",
+          "1": "Vivifica os sem alento, Faze os mortos renascer!",
+          "2": "Vida eterna, vida eterna",
+          "3": "Nos vieste conceder."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ao abrirmos o teu Livro, Dele emane a luz dos céus!",
+          "1": "Esclarece todo engano E dos erros livra os teus,",
+          "2": "Ilumina, ilumina",
+          "3": "Nossas almas grande Deus."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Na leitura desta bíblia, Dá-nos gozo, ó Senhor!",
+          "1": "Tendo, pelo teu ensino, Comunhão em santo amor.",
+          "2": "Exultamos, exultamos",
+          "3": "Entoando o teu louvor."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Pelo estudo da Palavra Aprendemos de Jesus.",
+          "1": "Oh, concede os belos frutos Que esta instrução produz!",
+          "2": "E gozamos, e gozamos",
+          "3": "Alegria, vida e luz."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 351 - Belas Palavras de Vida",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 351,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Quero ouvi-las mais outra vez, Belas palavras de vida!",
+          "1": "Narram tudo o que Cristo fez, Belas palavras de vida!",
+          "2": "Elas vêm de cima, Seu poder anima."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Que alegres são! Que alegres são!",
+          "1": "Essas palavras de vida!",
+          "2": "Que alegres são! Que alegres são!",
+          "3": "Essas palavras de vida!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Só Jesus Cristo a todos dá Belas palavras de vida!",
+          "1": "Sem Jesus salvação não há; Belas palavras de vida!",
+          "2": "Com amor conclama, Para o céu te chama."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Só Jesus Cristo é Salvador! Belas palavras de vida!",
+          "1": "Quer salvar todo pecador! Belas palavras de vida!",
+          "2": "Ele vivifica E nos purifica."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 352 - Leitura Bendita",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 352,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Enquanto, ó Salvador, teu Livro ler,",
+          "1": "De auxílio necessito para ver",
+          "2": "Da mera letra, além, a ti, Senhor,",
+          "3": "E meditar no teu excelso amor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "À beira-mar, Jesus, partiste o pão,",
+          "1": "Alimentando a imensa multidão.",
+          "2": "Da vida o pão és Tu ; podes assim",
+          "3": "Satisfazer, Senhor, também a mim. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 353 - Ao Fim dos Estudos",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 353,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Findo o tempo dos estudos,",
+          "1": "Eis-nos grande Instruidor!",
+          "2": "Levantamos nossas vozes,,",
+          "3": "Tributamos-te louvor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "E pedimos, e pedimos",
+          "1": "Bênçãos de celeste amor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Oh, concede o crescimento",
+          "1": "Na ciência e no vigor!",
+          "2": "Imprimindo na memória",
+          "3": "Teus preceitos , ó Senhor."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Este ensino, este ensino",
+          "1": "É de mui real valor."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ó Senhor, em nossos lares",
+          "1": "Manifesta o teu poder.",
+          "2": "E que o teu divino livro",
+          "3": "Mais possamos conhecer!"
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Desejamos, desejamos",
+          "1": "Sempre em tua luz viver. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 354 - A Escola Dominical",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 354,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Dominical é a grande e antiga Escola",
+          "1": "Em que se estuda o Livro do Senhor;",
+          "2": "A vida aqui se exalta e se acrisola",
+          "3": "E alcança em Cristo seu real valor,",
+          "4": "E alcança em Cristo seu real valor."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "À Escola, pois, Dominical, irmãos,",
+          "1": "Receber celeste luz!",
+          "2": "O santo livro, aberto em nossas mãos,",
+          "3": "Aprendamos de Jesus."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "De grandes vultos e eras memoráveis",
+          "1": "Lições sublimes vimos aprender!",
+          "2": "Lições inscritas nalma, inapagáveis,",
+          "3": "Que moldam nossas vidas com poder,",
+          "4": "Que moldam nossas vidas com poder."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "O Mestre insigne está presente, Cristo,",
+          "1": "Que luz e vida à vida plena traz.",
+          "2": "O seu ensino igual jamais foi visto!",
+          "3": "Tesouros mostra, de alegria e paz,",
+          "4": "Tesouros mostra, de alegria e paz."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Universal, bendita Escola é esta,",
+          "1": "Que os seus alunos conta por milhões;",
+          "2": "Na qual o estudo é verdadeira festa,",
+          "3": "Que empolga crianças, jovens e anciãos,",
+          "4": "Que empolga crianças, jovens e anciãos,"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 354-A - Escola Dominical",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 354,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vamos todos à Escola Sagrada",
+          "1": "A Palavra de Deus aprender.",
+          "2": "A verdade dos céus revelada",
+          "3": "Dá-nos luz! Dá-nos vida e poder!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Trabalhemos pela Escola, Estudando com amor!",
+          "1": "E pregando Jesus Cristo, Nosso Mestre e Salvador."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Vamos todos, crianças e adultos,",
+          "1": "Palmilhando o caminho da cruz.",
+          "2": "Estudar a grandeza dos vultos,",
+          "3": "Entre os quais predomina Jesus."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Propaguemos com fé, corajosos,",
+          "1": "Desta Escola o sublime ideal.",
+          "2": "E veremos um dia, ditosos,",
+          "3": "A vitória do bem sobre o mal."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 355 - Oração Infantil",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 355,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Amigo dos meninos,",
+          "1": "Benigno Salvador!",
+          "2": "Conosco está presente,",
+          "3": "Querido e Bom Pastor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Teus cordeirinhos guia",
+          "1": "Com tua compaixão,",
+          "2": "E dá-nos para sempre",
+          "3": "Um reto coração."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Teus santos mandamentos,",
+          "1": "Oh, faze-nos amar!",
+          "2": "E tudo que é pecado",
+          "3": "De nós vem afastar."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Concede nos estudos",
+          "1": "Que temos hoje aqui,",
+          "2": "Sejamos instruídos,",
+          "3": "Ó grande Deus, por ti. Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 356 - Jesus Menino",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 356,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Foi também Jesus, um dia,",
+          "1": "Como eu, pequeno, assim,",
+          "2": "Mas em tudo se fazia",
+          "3": "Um modelo para mim."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Na bondade e no cuidado,",
+          "1": "No constante obedecer,",
+          "2": "Como foi o mestre amado",
+          "3": "Eu também desejo ser."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sou pequeno mui fraquinho,",
+          "1": "E estou sempre a errar!",
+          "2": "Mas Jesus, em meu caminho,",
+          "3": "Bem me pode auxiliar."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ternamente me corrige,",
+          "1": "Me recorda o que convém.",
+          "2": "Seu amor meus pés dirige",
+          "3": "Para andar em todo bem."
+        }
+      },
+      {
+        "id": 4,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Teus ensinos Mestre amado,",
+          "1": "Quero atento aqui ouvir,",
+          "2": "E assim, por ti guiado,",
+          "3": "Tua lei, fiel, cumprir."
+        }
+      },
+      {
+        "id": 5,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Ao teu lado sempre estando,",
+          "1": "Quero andar na tua luz,",
+          "2": "Minha vida consagrando",
+          "3": "Só a ti, Senhor Jesus! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 357 - Louvor Infantil",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 357,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Filhos de Jerusalém",
+          "1": "Davam a Jesus louvor!",
+          "2": "Cantaremos nós, também,",
+          "3": "Seu excelso e doce amor!"
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Ouve! Ouve! Ouve! Os meninos dão louvor!",
+          "1": "Ouve! Ouve! Ouve! Os meninos dão louvor!",
+          "2": "Aleluia! Aleluia! Aleluia ao Salvador!"
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Graças ao divino Rei",
+          "1": "Que, no mundo, quis viver!",
+          "2": "Graças pela santa Lei",
+          "3": "Que declara o seu querer!"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Grande é o nosso Salvador,",
+          "1": "Toda a dívida pagou!",
+          "2": "Pela morte o bom Pastor",
+          "3": "Seu rebanho resgatou."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 358 - Jesus e as Crianças",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 358,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "A Jesus crianças vinham",
+          "1": "Sua bênção suplicar.",
+          "2": "Vós, que agora sois crianças,",
+          "3": "Vinde a ele, pois, louvar."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Se crianças de outro tempo",
+          "1": "Aceitou com terno amor,",
+          "2": "Hoje a todas as crianças",
+          "3": "Salva, ainda, com favor."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Meus pecados no Calvário,",
+          "1": "Sobre a cruz Jesus pagou!",
+          "2": "A maior das maravilhas",
+          "3": "É que Cristo me amou"
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Minhas mãos, tão pequeninas,",
+          "1": "Se ergam sempre em teu louvor,",
+          "2": "Ó Jesus, Senhor bendito,",
+          "3": "Por salvar-nos com amor! Amém."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 359 - Jesus Me Quer Bem",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 359,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Sei que Cristo me quer bem,",
+          "1": "Pois na Bíblia assim o diz.",
+          "2": "Frágil sou, mas força tem;",
+          "3": "Quer levar-me ao bom País."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": true,
+        "verses_list": {
+          "0": "Sei que me quer bem,",
+          "1": "Quer ver-me feliz,",
+          "2": "Sei que me quer bem",
+          "3": "A Bíblia assim o diz."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Tudo fez Jesus por mim,",
+          "1": "Só por ele vou viver.",
+          "2": "E porque me quer assim,",
+          "3": "Hei de amá-lo até morrer!"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hino 360 - Pequena Luz",
+    "artist": "Hinário Novo Cântico",
+    "album_cover": "",
+    "create_at": "",
+    "chords_file_name": "",
+    "is_hymn": true,
+    "hymn_number": 360,
+    "verses": [
+      {
+        "id": 0,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "No mundo, pequenina luz",
+          "1": "De Deus eu quero ser,",
+          "2": "A refletir, do meu Jesus,",
+          "3": "Seu brilho, seu poder."
+        }
+      },
+      {
+        "id": 1,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Em casa pequenina flor,",
+          "1": "Que aos pais possa alegrar,",
+          "2": "E do celestial Cultor",
+          "3": "O aroma exalar."
+        }
+      },
+      {
+        "id": 2,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Na escola, pequenina mão",
+          "1": "Que aceite com prazer",
+          "2": "O farto, nutritivo pão,",
+          "3": "Da ciência e do saber."
+        }
+      },
+      {
+        "id": 3,
+        "is_chorus": false,
+        "verses_list": {
+          "0": "Na Igreja, pequenina voz",
+          "1": "Que louve ao Salvador,",
+          "2": "E nunca, ao fim da vida até,",
+          "3": "Me afaste do Senhor."
+        }
+      }
+    ]
+  }
+]

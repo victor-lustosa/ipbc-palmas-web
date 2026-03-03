@@ -1,0 +1,41 @@
+{
+  "title": "Calmo, Sereno e Tranquilo",
+  "artist": "Grupo Logos",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "calmo-sereno-e-tranquilo",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Calmo, sereno e tranquilo",
+        "1": "Sinto descanso neste viver",
+        "2": "Isto devo a um Amigo",
+        "3": "E só por Ele eu pude obter"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Ele é Jesus, meu Amigo",
+        "1": "Meu Senhor, o Salvador",
+        "2": "Só por Ele ganhei",
+        "3": "A vida eterna com Deus, com Deus"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Triste foi sua história",
+        "1": "Levado à cruz sem pecado algum",
+        "2": "Só porque me amou",
+        "3": "Morreu por mim e não hesitou"
+      }
+    }
+  ]
+}

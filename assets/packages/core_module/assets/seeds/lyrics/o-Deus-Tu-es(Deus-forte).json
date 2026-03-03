@@ -1,0 +1,56 @@
+{
+  "title": "Deus Forte",
+  "artist": "Kleber Lucas",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "o-Deus-Tu-es(Deus-forte)",
+  "format": "jpeg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Ó Deus, tu és o meu Deus forte",
+        "1": "O Grande El-Shaddai",
+        "2": "Todo Poderoso, Adonai",
+        "3": "Teu nome é Maravilhoso",
+        "4": "Conselheiro, Príncipe da Paz",
+        "5": "Yeshua Hamashia, Deus Emanuel"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "O Pastor de Israel, o Guarda de Sião",
+        "1": "A Brilhante Estrela da Manhã",
+        "2": "Jesus, Teu nome é precioso",
+        "3": "Meu Senhor e Cristo",
+        "4": "O nome sobre todos pelo qual existo"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Jireh, o Deus da minha provisão",
+        "1": "Shalom, o Senhor é a minha paz",
+        "2": "Shamah, Deus presente sempre está",
+        "3": "El-Eliom, outro igual não há"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Jeovah Rafah, meu Senhor",
+        "1": "Que cura toda dor",
+        "2": "Tsekenu-Yaveh, minha justiça é",
+        "3": "Elohim, Elohim Deus",
+        "4": "No controle está meu Deus",
+        "5": "Tudo governa"
+      }
+    }
+  ]
+}

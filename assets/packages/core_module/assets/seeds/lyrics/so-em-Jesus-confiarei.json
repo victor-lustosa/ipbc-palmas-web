@@ -1,0 +1,67 @@
+{
+  "title": "Só Em Jesus",
+  "artist": "Keith Getty",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "so-em-Jesus-confiarei",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Só em Jesus confiarei",
+        "1": "É minha força, luz, canção",
+        "2": "Pedra angular que me sustém",
+        "3": "Na tempestade ou sequidão",
+        "4": "Quão grande amor, profunda paz",
+        "5": "Em meio à luta, em horas más",
+        "6": "Consolador, és tudo em mim",
+        "7": "Firmado estou em seu amor"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Só em Jesus, que encarnou",
+        "1": "Poder de Deus num frágil ser",
+        "2": "Foi desprezado pelos seus",
+        "3": "Mas se agradou, por mim, morrer",
+        "4": "E lá na cruz, o próprio Deus",
+        "5": "A sua ira satisfez",
+        "6": "O meu pecado suportou",
+        "7": "Vivo na morte dele estou"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Foi sepultada a nossa luz",
+        "1": "Tragada pela escuridão",
+        "2": "Mas no terceiro dia, então",
+        "3": "Ressuscitou o meu Senhor",
+        "4": "Grande vitória conquistou",
+        "5": "Do vil pecado me livrou",
+        "6": "Então sou dEle e Ele é meu",
+        "7": "Pelo seu sangue que verteu"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Não há mais culpa nem pavor",
+        "1": "Esse é o poder de Cristo em mim",
+        "2": "Jesus comanda meu viver",
+        "3": "Desde o início até o fim",
+        "4": "Nenhuma força poderá",
+        "5": "De Sua mão me arrancar",
+        "6": "Até com Ele me encontrar",
+        "7": "No seu poder eu viverei"
+      }
+    }
+  ]
+}

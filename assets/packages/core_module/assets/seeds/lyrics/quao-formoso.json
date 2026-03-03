@@ -1,0 +1,47 @@
+{
+  "title": "Maravilhoso (Quão Formoso És)",
+  "artist": "Corinhos Evangélicos",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "quao-formoso",
+  "format": "jpeg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Quão formoso és",
+        "1": "Rei do universo",
+        "2": "Tua glória enche a terra",
+        "3": "E enche os céus"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Tua glória enche a terra,",
+        "1": "Tua glória enche os céus",
+        "2": "Tua glória enche minha vida, Senhor"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Maravilhoso é estar em Tua presença",
+        "1": "Maravilhoso é poder Te adorar",
+        "2": "Maravilhoso é tocar em Tuas vestes",
+        "3": "Maravilhoso é Te contemplar, Senhor"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Te contemplar, Senhor"
+      }
+    }
+  ]
+}

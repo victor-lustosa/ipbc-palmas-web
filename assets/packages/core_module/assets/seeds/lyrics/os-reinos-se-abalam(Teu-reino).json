@@ -1,0 +1,41 @@
+{
+  "title": "Teu Reino",
+  "artist": "Ministério Cristo Vivo",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "os-reinos-se-abalam(Teu-reino)",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Os reinos se abalam",
+        "1": "Os povos se curvam",
+        "2": "As bocas se abrem",
+        "3": "As mãos se levantam"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Pra dizer que Tu és o Rei",
+        "1": "Pra dizer que Tu és o Senhor"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Teu Reino é sempre eterno",
+        "1": "Firmado em misericórdia",
+        "2": "Justiça e igualdade",
+        "3": "Bondade e fidelidade",
+        "4": "A Tua igreja Te adora",
+        "5": "A Tua igreja Te adora"
+      }
+    }
+  ]
+}

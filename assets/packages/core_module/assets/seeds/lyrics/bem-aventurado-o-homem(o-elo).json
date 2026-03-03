@@ -1,0 +1,60 @@
+{
+  "title": "O Elo",
+  "artist": "Preto no Branco",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "bem-aventurado-o-homem(o-elo)",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Bem-aventurado o homem que teme ao Senhor",
+        "1": "E anda nos Seus caminhos",
+        "2": "A sua mulher será como a videira em flor",
+        "3": "E seus filhos serão benditos"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Terá bom êxito em tudo que fizer",
+        "1": "Se alegrará!",
+        "2": "Verá os filhos dos seus filhos a crescer",
+        "3": "E se multiplicar!"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Mas, se o Senhor não edificar o lar",
+        "1": "Em vão trabalha o que o edifica",
+        "2": "Se o Senhor não abençoar o lar",
+        "3": "A casa ficará dividida",
+        "4": "E, se o Senhor não guardar o lar",
+        "5": "O que vai ser da família?",
+        "6": "Pois Ele é o elo que uniu",
+        "7": "A primeira dobra do cordão",
+        "8": "Seu amor é a essência que sela",
+        "9": "Toda e qualquer comunhão"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Senhor, edifica o meu lar",
+        "1": "Sobre a Rocha",
+        "2": "Abençoa a minha casa",
+        "3": "Cumpre a Tua promessa",
+        "4": "E guarda minha tenda",
+        "5": "Sobre a Tua Presença",
+        "6": "Senhor reina em minha família!"
+      }
+    }
+  ]
+}
