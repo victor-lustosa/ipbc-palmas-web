@@ -1,11 +1,21 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "GQPZQ6JJ6G.com.ipbc.ipbc_palmas",
-        "paths": ["/e/*", "/s/*"]
+        "appIDs": ["GQPZQ6JJ6G.com.ipbc.ipbc_palmas"],
+        "components": [
+          {
+            "/": "/e/*",
+            "comment": "Links de Eventos"
+          },
+          {
+            "/": "/s/*",
+            "comment": "Links de Cultos"
+          }
+        ]
       }
     ]
   }
 }
+
+
