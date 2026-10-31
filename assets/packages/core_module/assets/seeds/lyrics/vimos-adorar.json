@@ -1,0 +1,51 @@
+{
+  "title": "Vimos Adorar",
+  "artist": "Kleber Lucas",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "vimos-adorar",
+  "format": "jpg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Vimos adorar ao Cristo que venceu",
+        "1": "E derramar os nossos corações",
+        "2": "Como expressão de amor,",
+        "3": "Porque Ele se entregou por nós"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Vimos adorar Jesus, o Rei dos reis",
+        "1": "Só ele é digno de adoração",
+        "2": "O seu trono é sublime",
+        "3": "E o seu reino resplandece luz"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Querubins e Serafins adoram prostrados",
+        "1": "Diante do trono e os vinte e quatro anciãos",
+        "2": "Declaram que o Leão de Judá, a raiz de Davi que venceu"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Aleluia, Aleluia !",
+        "1": "Bendito é o Rei que",
+        "2": "Vem em nome do Senhor",
+        "3": "Aleluia, Aleluia !",
+        "4": "Jesus Bendito, Cristo, Rei e Salvador"
+      }
+    }
+  ]
+}

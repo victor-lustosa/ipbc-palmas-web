@@ -1,0 +1,93 @@
+{
+  "title": "Nossas Forças",
+  "artist": "Vineyard",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "nossas-forcas",
+  "format": "png",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Nossas forças irão se renovar",
+        "1": "Se esperarmos no Senhor",
+        "2": "Esperarmos no Senhor",
+        "3": "Nossas forças irão se renovar",
+        "4": "Se esperarmos no Senhor",
+        "5": "Esperarmos no Senhor"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Oh, Deus, Tu és a força",
+        "1": "Que traz a esperança",
+        "2": "Pois só Tu és o Eterno Deus",
+        "3": "Tu és o Eterno Deus",
+        "4": "Que nunca irá deixar Teus filhos",
+        "5": "Tu és o nosso defensor",
+        "6": "O Deus Consolador",
+        "7": "Nos ergue quando estamos fracos"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Nossas forças irão se renovar",
+        "1": "Se esperarmos no Senhor",
+        "2": "Esperarmos no Senhor",
+        "3": "Nossas forças irão se renovar",
+        "4": "Se esperarmos no Senhor",
+        "5": "Esperarmos no Senhor"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Oh, Deus, Tu és a força",
+        "1": "Que traz a esperança",
+        "2": "Pois só Tu és o Eterno Deus",
+        "3": "Tu és o Eterno Deus",
+        "4": "Que nunca irá deixar Teus filhos",
+        "5": "Tu és o nosso defensor",
+        "6": "O Deus Consolador",
+        "7": "Nos ergue quando estamos fracos"
+      }
+    },
+    {
+      "id": 4,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Pois só Tu és o Eterno Deus",
+        "1": "Tu és o Eterno Deus",
+        "2": "Tu és o Eterno Deus"
+      }
+    },
+    {
+      "id": 5,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Nossas forças irão se renovar",
+        "1": "Se esperarmos no Senhor",
+        "2": "Esperarmos no Senhor",
+        "3": "Nossas forças irão se renovar",
+        "4": "Se esperarmos no Senhor",
+        "5": "Esperarmos no Senhor"
+      }
+    },
+    {
+      "id": 6,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Pois só Tu és o Eterno Deus",
+        "1": "Tu és o Eterno Deus",
+        "2": "Que nunca irá deixar Teus filhos"
+      }
+    }
+  ]
+}

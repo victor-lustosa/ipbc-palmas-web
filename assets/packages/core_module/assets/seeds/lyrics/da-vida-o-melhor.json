@@ -1,0 +1,91 @@
+{
+  "title": "Da Vida, O Melhor",
+  "artist": "Projeto Sola",
+  "album_cover": "",
+  "create_at": "",
+  "chords_file_name": "da-vida-o-melhor",
+  "format": "jpeg",
+  "is_hymn": false,
+  "verses": [
+    {
+      "id": 0,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Nova vida para sempre",
+        "1": "Uma família, alegria",
+        "2": "Caminhar, o amor buscar",
+        "3": "Aprender, a luz brilhar",
+        "4": "Saber que a gente pode crescer",
+        "5": "Viver, chorar, dançar e se alegrar"
+      }
+    },
+    {
+      "id": 1,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Para nós Ele é, da vida, o melhor",
+        "1": "Nosso mover e existir, paraíso aqui",
+        "2": "Só a Ele entregar o princípio e o fim",
+        "3": "Do universo o Rei, do mundo a luz"
+      }
+    },
+    {
+      "id": 2,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Vida, verdade, caminho e paz",
+        "1": "Luz sobre as trevas, Redentor",
+        "2": "Vida, verdade, caminho e paz",
+        "3": "Luz sobre as trevas, Redentor"
+      }
+    },
+    {
+      "id": 3,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Nosso refúgio, fortaleza",
+        "1": "Nossa força nas batalhas",
+        "2": "O perfeito sacrifício",
+        "3": "Verbo em carne, Rei dos reis"
+      }
+    },
+    {
+      "id": 4,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Vida, verdade, caminho e paz",
+        "1": "Luz sobre as trevas, Redentor"
+      }
+    },
+    {
+      "id": 5,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Nosso refúgio, fortaleza",
+        "1": "Nossa força nas batalhas",
+        "2": "O perfeito sacrifício",
+        "3": "Verbo em carne, Rei dos reis"
+      }
+    },
+    {
+      "id": 6,
+      "is_chorus": false,
+      "verses_list": {
+        "0": "Nosso refúgio, fortaleza",
+        "1": "Nossa força nas batalhas",
+        "2": "O perfeito sacrifício",
+        "3": "Verbo em carne, Rei dos reis"
+      }
+    },
+    {
+      "id": 7,
+      "is_chorus": true,
+      "verses_list": {
+        "0": "Para nós Ele é, da vida, o melhor",
+        "1": "Nosso mover e existir, paraíso aqui",
+        "2": "Só a Ele entregar o princípio e o fim",
+        "3": "Do universo o Rei, do mundo a luz"
+      }
+    }
+  ]
+}
